@@ -3690,6 +3690,23 @@
 13	imma	is	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	obl	_	ref=MARK_1.20
 
 # source = The Gothic Bible, Mark 1
+# text = jah galiþun in Kafarnaum jah suns sabbato daga galeiþands in swnagogen laisida ins
+# sent_id = 37398
+1	jah	jah	CCONJ	C-	_	2	cc	_	ref=MARK_1.21
+2	galiþun	ga-leiþan	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=MARK_1.21
+3	in	in	ADP	R-	_	4	case	_	ref=MARK_1.21
+4	Kafarnaum	Kafarnaum	PROPN	Ne	_	2	obl	_	ref=MARK_1.21
+5	jah	jah	CCONJ	C-	_	2	cc	_	ref=MARK_1.21
+6	suns	suns	ADV	Df	_	9	advmod	_	ref=MARK_1.21
+7	sabbato	sabbato	NOUN	Nb	_	8	nmod	_	ref=MARK_1.21
+8	daga	dags	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	9	obl	_	ref=MARK_1.21
+9	galeiþands	ga-leiþan	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	12	advcl	_	ref=MARK_1.21
+10	in	in	ADP	R-	_	11	case	_	ref=MARK_1.21
+11	swnagogen	swnagoge*	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	9	obl	_	ref=MARK_1.21
+12	laisida	laisjan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	ref=MARK_1.21
+13	ins	is	PRON	Pp	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs	12	obj:dir	_	ref=MARK_1.21
+
+# source = The Gothic Bible, Mark 1
 # text = jah usfilmans waurþun ana þizai laiseinai is
 # sent_id = 37399
 1	jah	jah	CCONJ	C-	_	3	cc	_	ref=MARK_1.22
@@ -9519,6 +9536,22 @@
 5	du	du	ADP	R-	_	6	case	_	ref=MARK_11.17
 6	filigrja	filigri*	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	3	xcomp	_	ref=MARK_11.17
 7	waidedjane	waidedja	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	6	nmod	_	ref=MARK_11.17
+
+# source = The Gothic Bible, Mark 11
+# text = jah gahausidedun þai bokarjos jah gudjane auhumistans jah sokidedun ƕaiwa imma usqistidedeina
+# sent_id = 38059
+1	jah	jah	CCONJ	C-	_	2	cc	_	ref=MARK_11.18
+2	gahausidedun	ga-hausjan	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=MARK_11.18
+3	þai	sa	DET	Pd	Case=Nom|Gender=Masc|Number=Plur	4	det	_	ref=MARK_11.18
+4	bokarjos	bokareis	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	2	nsubj	_	ref=MARK_11.18
+5	jah	jah	CCONJ	C-	_	4	cc	_	ref=MARK_11.18
+6	gudjane	gudja	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	7	nmod	_	ref=MARK_11.18
+7	auhumistans	auhuma	ADJ	A-	Case=Nom|Degree=Sup|Gender=Masc|Number=Plur|Strength=Weak	4	conj	_	ref=MARK_11.18
+8	jah	jah	CCONJ	C-	_	2	cc	_	ref=MARK_11.18
+9	sokidedun	sokjan	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	ref=MARK_11.18
+10	ƕaiwa	ƕaiwa	ADV	Du	PronType=Int	12	advmod	_	ref=MARK_11.18
+11	imma	is	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	iobj	_	ref=MARK_11.18
+12	usqistidedeina	us-qistjan	VERB	V-	Mood=Opt|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	9	ccomp	_	ref=MARK_11.18
 
 # source = The Gothic Bible, Mark 11
 # text = ohtedun auk ina unte alla managei sildaleikidedun in laiseinais is
@@ -21871,6 +21904,18 @@
 5	libainais	libains	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	ref=JOHN_6.48
 
 # source = The Gothic Bible, John 6
+# text = attans izwarai matidedun manna in auþidai jah gaswultun
+# sent_id = 43284
+1	attans	atta	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	3	nsubj	_	ref=JOHN_6.49
+2	izwarai	izwar	ADJ	Ps	Case=Nom|Gender=Masc|Number=Plur|Person=2|Poss=Yes	1	nmod	_	ref=JOHN_6.49
+3	matidedun	matjan	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=JOHN_6.49
+4	manna	manna#1	NOUN	Nb	_	3	obj:dir	_	ref=JOHN_6.49
+5	in	in	ADP	R-	_	6	case	_	ref=JOHN_6.49
+6	auþidai	auþida	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	3	obl	_	ref=JOHN_6.49
+7	jah	jah	CCONJ	C-	_	3	cc	_	ref=JOHN_6.49
+8	gaswultun	ga-swiltan	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	ref=JOHN_6.49
+
+# source = The Gothic Bible, John 6
 # text = sa ist hlaifs saei us himina atstaig ei saei þis matjai ni gadauþnai
 # sent_id = 43285
 1	sa	sa	ADJ	Pd	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	ref=JOHN_6.50
@@ -29005,6 +29050,22 @@
 4	allawerein	allawerei	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	2	obl	_	ref=ROM_12.8
 
 # source = The Gothic Bible, Romans 12
+# text = sa faurastandands in usdaudein
+# sent_id = 63943
+1	sa	sa	DET	Pd	Case=Nom|Gender=Masc|Number=Sing	2	det	_	ref=ROM_12.8
+2	faurastandands	faura-standan	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	0	root	_	ref=ROM_12.8
+3	in	in	ADP	R-	_	4	case	_	ref=ROM_12.8
+4	usdaudein	usdaudei	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	2	obl	_	ref=ROM_12.8
+
+# source = The Gothic Bible, Romans 12
+# text = sa armands in hlasein
+# sent_id = 63944
+1	sa	sa	DET	Pd	Case=Nom|Gender=Masc|Number=Sing	2	det	_	ref=ROM_12.8
+2	armands	arman	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	0	root	_	ref=ROM_12.8
+3	in	in	ADP	R-	_	4	case	_	ref=ROM_12.8
+4	hlasein	hlasei	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	2	obl	_	ref=ROM_12.8
+
+# source = The Gothic Bible, Romans 12
 # text = friaþwa unliuta
 # sent_id = 44420
 1	friaþwa	frijaþwa	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	ref=ROM_12.9
@@ -30143,6 +30204,19 @@
 5	izwis	jūs	PRON	Pp	Case=Acc|Gender=Masc|Number=Plur|Person=2|PronType=Prs	4	obj:dir	_	ref=ROM_15.13
 6	allaizos	alls	DET	Px	Case=Gen|Gender=Fem|Number=Sing	7	det	_	ref=ROM_15.13
 7	fahedais	faheþs	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	4	iobj	_	ref=ROM_15.13
+
+# source = The Gothic Bible, Romans 16
+# text = jah Lukius jah Iasson jah Soseipatrus þai niþjos meinai
+# sent_id = 44516
+1	jah	jah	CCONJ	C-	_	2	cc	_	ref=ROM_16.21
+2	Lukius	Lukius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	0	root	_	ref=ROM_16.21
+3	jah	jah	CCONJ	C-	_	2	cc	_	ref=ROM_16.21
+4	Iasson	Iasson	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	2	conj	_	ref=ROM_16.21
+5	jah	jah	CCONJ	C-	_	2	cc	_	ref=ROM_16.21
+6	Soseipatrus	Soseipatrus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	2	conj	_	ref=ROM_16.21
+7	þai	sa	DET	Pd	Case=Nom|Gender=Masc|Number=Plur	8	det	_	ref=ROM_16.21
+8	niþjos	niþjis	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	2	appos	_	ref=ROM_16.21
+9	meinai	meins	ADJ	Ps	Case=Nom|Gender=Masc|Number=Plur|Person=1|Poss=Yes	8	nmod	_	ref=ROM_16.21
 
 # source = The Gothic Bible, Romans 16
 # text = golja izwis ik Tairtius sa meljands þo aipistaulein in fraujin
@@ -39190,6 +39264,15 @@
 9	sei	izei	PRON	Pr	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	10	nsubj	_	ref=GAL_4.24
 10	ist	wisan#1	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	acl	_	ref=GAL_4.24
 11	Agar	Agar	PROPN	Ne	_	10	xcomp	_	ref=GAL_4.24
+
+# source = The Gothic Bible, Galatians 4
+# text = Seina fairguni ist in Arabia
+# sent_id = 52332
+1	Seina	Seina	PROPN	Ne	_	3	nsubj	_	ref=GAL_4.25
+2	fairguni	fairguni	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	3	xcomp	_	ref=GAL_4.25
+3	ist	wisan#1	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=GAL_4.25
+4	in	in	ADP	R-	_	5	case	_	ref=GAL_4.25
+5	Arabia	Arabia	PROPN	Ne	Case=Dat|Gender=Fem|Number=Sing	2	nmod	_	ref=GAL_4.25
 
 # source = The Gothic Bible, Galatians 4
 # text = gamarkoþ þizai nu Iairusalem iþ skalkinoþ miþ seinaim barnam
