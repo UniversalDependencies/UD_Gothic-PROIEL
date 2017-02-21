@@ -1,3 +1,4 @@
+# newdoc id = The_Gothic_Bible,_Matthew_5
 # source = The Gothic Bible, Matthew 5
 # text = ak ana lukarnastaþin jah liuteiþ allaim þaim in þamma garda
 # sent_id = 46818
@@ -820,6 +821,7 @@
 11	fullatojis	fullatojis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	12	xcomp	_	ref=MATT_5.48
 12	ist	wisan#1	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	advcl	_	ref=MATT_5.48
 
+# newdoc id = The_Gothic_Bible,_Matthew_6
 # source = The Gothic Bible, Matthew 6
 # text = Atsaiƕiþ armaion izwara ni taujan in andwairþja manne du saiƕan im
 # sent_id = 46873
@@ -1602,6 +1604,7 @@
 9	þatei	þatei	SCONJ	G-	_	10	mark	_	ref=MATT_6.32
 10	þaurbuþ	þaurban	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	1	ccomp	_	ref=MATT_6.32
 
+# newdoc id = The_Gothic_Bible,_Mark_5
 # source = The Gothic Bible, Mark 5
 # text = Jah qemun hindar marein in landa Gaddarene
 # sent_id = 37589
@@ -2558,6 +2561,7 @@
 4	giban	giban	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	2	ccomp	_	ref=MARK_5.43
 5	matjan	matjan	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	4	xcomp	_	ref=MARK_5.43
 
+# newdoc id = The_Gothic_Bible,_Mark_6
 # source = The Gothic Bible, Mark 6
 # text = Jah usstoþ jainþro jah qam in landa seinamma jah laistidedun afar imma siponjos is
 # sent_id = 37656
@@ -3336,6 +3340,7 @@
 6	imma	is	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	iobj	_	ref=MARK_6.56
 7	ganesun	ga-nisan	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=MARK_6.56
 
+# newdoc id = The_Gothic_Bible,_Luke_4
 # source = The Gothic Bible, Luke 4
 # text = Iþ Iesus ahmins weihis fulls gawandida sik fram Iaurdanau jah tauhans was in ahmin in auþidai dage fidwor tiguns fraisans fram diabulau
 # sent_id = 45101
@@ -4382,6 +4387,7 @@
 5	swnagogim	swnagoge*	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	2	obl	_	ref=LUKE_4.44
 6	Galeilaias	Galeilaia	PROPN	Ne	Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	ref=LUKE_4.44
 
+# newdoc id = The_Gothic_Bible,_Luke_7
 # source = The Gothic Bible, Luke 7
 # text = Biþe þan usfullida alla þo waurda seina in hliumans manageins galaiþ in Kafarnaum
 # sent_id = 45315
@@ -5654,6 +5660,7 @@
 2	in	in	ADP	R-	_	3	case	_	ref=LUKE_7.50
 3	gawairþi	gawairþi	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	1	obl	_	ref=LUKE_7.50
 
+# newdoc id = The_Gothic_Bible,_Luke_8
 # source = The Gothic Bible, Luke 8
 # text = Jah warþ biþe ei jah is wratoda and baurgs jah haimos merjands jah wailaspillonds þiudangardja gudis jah þai twalib miþ imma jah qinons þozei wesun galeikinodos ahmane ubilaize jah sauhte jah Marja sei haitana was Magdalene us þizaiei usiddjedun unhulþons sibun jah Iohanna qens Kusins fauragaggjins Herodes jah Susanna jah anþaros managos þozei andbahtededun im us aiginam seinaim
 # sent_id = 45416
@@ -7097,6 +7104,7 @@
 9	þata	sa	DET	Pd	Case=Acc|Gender=Neut|Number=Sing	10	det	_	ref=LUKE_8.56
 10	waurþano	wairþan	VERB	V-	Aspect=Perf|Case=Acc|Gender=Neut|Number=Sing|Strength=Weak|Tense=Past|VerbForm=Part|Voice=Pass	8	obj:dir	_	ref=LUKE_8.56
 
+# newdoc id = The_Gothic_Bible,_Luke_18
 # source = The Gothic Bible, Luke 18
 # text = Qaþ uþ þan jah gajukon im du þammei sinteino skulun bidjan jah ni wairþan usgrudjans qiþands
 # sent_id = 45894
@@ -8064,6 +8072,7 @@
 6	hazein	hazeins	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	5	obj:dir	_	ref=LUKE_18.43
 7	guda	guþ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	5	iobj	_	ref=LUKE_18.43
 
+# newdoc id = The_Gothic_Bible,_John_10
 # source = The Gothic Bible, John 10
 # text = Amen amen qiþa izwis
 # sent_id = 43617
@@ -8969,6 +8978,7 @@
 5	imma	is	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obl	_	ref=JOHN_10.42
 6	jainar	jainar	ADV	Df	_	2	advmod	_	ref=JOHN_10.42
 
+# newdoc id = The_Gothic_Bible,_John_11
 # source = The Gothic Bible, John 11
 # text = Was uh þan sums siuks Lazarus af Beþanias us haimai Marjins jah Marþins swistrs izos
 # sent_id = 43681
@@ -10002,6 +10012,7 @@
 7	þai	sa	DET	Pd	Case=Nom|Gender=Masc|Number=Plur	8	det	_	ref=JOHN_11.47
 8	Fareisaieis	Fareisaius	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	5	conj	_	ref=JOHN_11.47
 
+# newdoc id = The_Gothic_Bible,_John_17
 # source = The Gothic Bible, John 17
 # text = þata rodida Iesus uz-hof uh augona seina du himina jah qaþ
 # sent_id = 44062
@@ -10631,6 +10642,7 @@
 18	in	in	ADP	R-	_	19	case	_	ref=JOHN_17.26
 19	im	is	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Prs	17	orphan	_	ref=JOHN_17.26
 
+# newdoc id = The_Gothic_Bible,_John_19
 # source = The Gothic Bible, John 19
 # text = þanuh þan nam Peilatus Iesu jah usblaggw
 # sent_id = 44194
@@ -10979,6 +10991,7 @@
 3	hausjands	hausjan	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	1	advcl	_	ref=JOHN_19.13
 4	þize	sa	ADJ	Pd	Case=Gen|Gender=Masc|Number=Plur	3	iobj	_	ref=JOHN_19.13
 
+# newdoc id = The_Gothic_Bible,_Romans_7
 # source = The Gothic Bible, Romans 7
 # text = þau niu wituþ broþrjus kunnandam auk witoþ rodja þatei witoþ fraujinoþ mann swa lagga ƕeila swe libaiþ
 # sent_id = 44227
@@ -11555,6 +11568,7 @@
 11	witoda	witoþ	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	5	conj	_	ref=ROM_7.25
 12	frawaurhtais	frawaurhts	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	11	nmod	_	ref=ROM_7.25
 
+# newdoc id = The_Gothic_Bible,_Romans_8
 # source = The Gothic Bible, Romans 8
 # text = Ni waiht þannu nu wargiþos þaim in Xristau Iesu ni gaggandam bi leika
 # sent_id = 44266
@@ -11867,6 +11881,7 @@
 35	fraujin	frauja	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	33	appos	_	ref=ROM_8.39
 36	unsaramma	unsar	ADJ	Ps	Case=Dat|Gender=Masc|Number=Sing|Person=1|Poss=Yes	35	nmod	_	ref=ROM_8.39
 
+# newdoc id = The_Gothic_Bible,_1_Corinthians_10
 # source = The Gothic Bible, 1 Corinthians 10
 # text = Ni wiljau izwis unwitans broþrjus þatei attans unsarai allai uf milhmin wesun jah allai marein þairhiddjedun jah allai in Mose daupidai wesun in milhmin jah in marein jah allai þana saman mat ahmeinan matidedun jah allai þata samo dragk ahmeino drugkun
 # sent_id = 46624
@@ -12275,6 +12290,7 @@
 25	ei	ei	SCONJ	G-	_	26	mark	_	ref=1COR_10.33
 26	ganisaina	ga-nisan	VERB	V-	Mood=Opt|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	16	advcl	_	ref=1COR_10.33
 
+# newdoc id = The_Gothic_Bible,_2_Corinthians_5
 # source = The Gothic Bible, 2 Corinthians 5
 # text = us guda habam gard unhanduwaurhtana aiweinana in himinam
 # sent_id = 46280
@@ -12692,6 +12708,7 @@
 16	in	in	ADP	R-	_	17	case	_	ref=2COR_5.21
 17	imma	is	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	obl	_	ref=2COR_5.21
 
+# newdoc id = The_Gothic_Bible,_Galatians_1
 # source = The Gothic Bible, Galatians 1
 # text = Pawlus apaustaulus ni af mannam nih þairh mannan ak þairh Iesu Xristu jah guþ attan ize urraisida ina us dauþaim jah þai miþ mis allai broþrjus aikklesjom Galatiais
 # sent_id = 44705
@@ -12871,6 +12888,7 @@
 4	mekilidedun	mikiljan	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=GAL_1.24
 5	guþ	guþ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	4	obj:dir	_	ref=GAL_1.24
 
+# newdoc id = The_Gothic_Bible,_Ephesians_1
 # source = The Gothic Bible, Ephesians 1
 # text = Pawlus apaustaulus Xristaus Iesuis þairh wiljan gudis þaim weiham þaim wisandam in Aifaison jah triggwaim in Xristau Iesu
 # sent_id = 44851
@@ -13161,6 +13179,7 @@
 22	allaim	alls	ADJ	Px	Case=Dat|Gender=Neut|Number=Plur	23	obl	_	ref=EPH_1.23
 23	usfulljandins	us-fulljan	VERB	V-	Case=Gen|Gender=Masc|Number=Sing|Strength=Weak|Tense=Pres|VerbForm=Part|Voice=Act	18	nmod	_	ref=EPH_1.23
 
+# newdoc id = The_Gothic_Bible,_Colossians_3
 # source = The Gothic Bible, Colossians 3
 # text = Jabai nu miþurrisuþ Xristau þoei iupa sind sokeiþ þarei Xristus ist in taihswai gudis sitands
 # sent_id = 43045
@@ -13570,6 +13589,7 @@
 10	at	at	ADP	R-	_	11	case	_	ref=COL_3.25
 11	guda	guþ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	8	obl	_	ref=COL_3.25
 
+# newdoc id = The_Gothic_Bible,_1_Timothy_2
 # source = The Gothic Bible, 1 Timothy 2
 # text = Bidja nu frumist allis taujan bidos aihtronins liteinins awiliuda fram allaim mannam
 # sent_id = 44612
@@ -13820,6 +13840,7 @@
 14	miþ	miþ	ADP	R-	_	15	case	_	ref=1TIM_2.15
 15	gafraþjein	gafraþjei	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	7	obl	_	ref=1TIM_2.15
 
+# newdoc id = The_Gothic_Bible,_Philemon_1
 # source = The Gothic Bible, Philemon 1
 # text = iþ nu þus jah mis bruks þanuh insandida
 # sent_id = 43124
