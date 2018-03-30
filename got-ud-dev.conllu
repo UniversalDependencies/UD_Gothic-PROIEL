@@ -2124,7 +2124,7 @@
 # source = The Gothic Bible, Mark 5
 # text = jah qinono suma wisandei in runa bloþis jera twalif jah manag gaþulandei fram managaim lekjam jah fraqimandei allamma seinamma jah ni waihtai botida ak mais wairs habaida gahausjandei bi Iesu atgaggandei in managein aftana attaitok wastjai is
 # sent_id = 37623
-1	jah	jah	CCONJ	C-	_	35	cc	_	ref=MARK_5.25
+1	jah	jah	CCONJ	C-	_	23	cc	_	ref=MARK_5.25
 2	qinono	qino	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	3	nmod	_	ref=MARK_5.25
 3	suma	sums	ADJ	Px	Case=Nom|Gender=Fem|Number=Sing	23	nsubj	_	ref=MARK_5.25
 4	wisandei	wisan#1	VERB	V-	Case=Nom|Gender=Fem|Number=Sing|Strength=Weak|Tense=Pres|VerbForm=Part|Voice=Act	23	advcl	_	ref=MARK_5.25
@@ -2143,10 +2143,10 @@
 17	fraqimandei	fra-qiman	VERB	V-	Case=Nom|Gender=Fem|Number=Sing|Strength=Weak|Tense=Pres|VerbForm=Part|Voice=Act	4	conj	_	ref=MARK_5.26
 18	allamma	alls	DET	Px	Case=Dat|Gender=Neut|Number=Sing	19	det	_	ref=MARK_5.26
 19	seinamma	*seins	ADJ	Pt	Case=Dat|Gender=Neut|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	17	iobj	_	ref=MARK_5.26
-20	jah	jah	CCONJ	C-	_	35	cc	_	ref=MARK_5.26
+20	jah	jah	CCONJ	C-	_	23	cc	_	ref=MARK_5.26
 21	ni	ni	ADV	Df	Polarity=Neg	22	advmod	_	ref=MARK_5.26
 22	waihtai	waihts	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	23	obl	_	ref=MARK_5.26
-23	botida	botjan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	35	conj	_	ref=MARK_5.26
+23	botida	botjan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=MARK_5.26
 24	ak	ak	CCONJ	C-	_	23	cc	_	ref=MARK_5.26
 25	mais	mais	ADV	Df	Degree=Cmp	26	amod	_	ref=MARK_5.26
 26	wairs	wairs	ADV	Df	Degree=Cmp	27	advmod	_	ref=MARK_5.26
@@ -2158,7 +2158,7 @@
 32	in	in	ADP	R-	_	33	case	_	ref=MARK_5.27
 33	managein	managei	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	31	obl	_	ref=MARK_5.27
 34	aftana	aftana	ADV	Df	_	31	advmod	_	ref=MARK_5.27
-35	attaitok	at-tekan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=MARK_5.27
+35	attaitok	at-tekan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	23	conj	_	ref=MARK_5.27
 36	wastjai	wasti*	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	35	iobj	_	ref=MARK_5.27
 37	is	is	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	36	det	_	ref=MARK_5.27
 
@@ -5276,16 +5276,16 @@
 # source = The Gothic Bible, Luke 7
 # text = þaruh sai qino in þizai baurg sei was frawaurhta jah ufkunnandei þatei anakumbida in razna þis Fareisaiaus briggandei alabalstraun balsanis jah standandei faura fotum is aftaro greitandei dugann natjan fotuns is tagram jah skufta haubidis seinis biswarb jah kukida fotum is jah gasalboda þamma balsana
 # sent_id = 45384
-1	þaruh	þaruh	ADV	Df	_	28	discourse	_	ref=LUKE_7.37
-2	sai	sai	INTJ	I-	_	28	vocative	_	ref=LUKE_7.37
-3	qino	qino	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	28	conj	_	ref=LUKE_7.37
+1	þaruh	þaruh	ADV	Df	_	0	root	_	ref=LUKE_7.37
+2	sai	sai	INTJ	I-	_	1	vocative	_	ref=LUKE_7.37
+3	qino	qino	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	1	nsubj	_	ref=LUKE_7.37
 4	in	in	ADP	R-	_	6	case	_	ref=LUKE_7.37
 5	þizai	sa	DET	Pd	Case=Dat|Gender=Fem|Number=Sing	6	det	_	ref=LUKE_7.37
-6	baurg	baurgs	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	3	orphan	_	ref=LUKE_7.37
+6	baurg	baurgs	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	1	obl	_	ref=LUKE_7.37
 7	sei	izei	PRON	Pr	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	8	nsubj	_	ref=LUKE_7.37
 8	was	wisan#1	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	acl	_	ref=LUKE_7.37
 9	frawaurhta	frawaurhts	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Strength=Strong	8	xcomp	_	ref=LUKE_7.37
-10	jah	jah	CCONJ	C-	_	28	cc	_	ref=LUKE_7.37
+10	jah	jah	CCONJ	C-	_	1	cc	_	ref=LUKE_7.37
 11	ufkunnandei	uf-kunnan	VERB	V-	Case=Nom|Gender=Fem|Number=Sing|Strength=Weak|Tense=Pres|VerbForm=Part|Voice=Act	28	advcl	_	ref=LUKE_7.37
 12	þatei	þatei	SCONJ	G-	_	13	mark	_	ref=LUKE_7.37
 13	anakumbida	ana-kumbjan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	11	ccomp	_	ref=LUKE_7.37
@@ -5303,22 +5303,22 @@
 25	is	is	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	24	det	_	ref=LUKE_7.38
 26	aftaro	aftaro	ADV	Df	_	22	advmod	_	ref=LUKE_7.38
 27	greitandei	gretan	VERB	V-	Case=Nom|Gender=Fem|Number=Sing|Strength=Weak|Tense=Pres|VerbForm=Part|Voice=Act	18	conj	_	ref=LUKE_7.38
-28	dugann	du-ginnan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=LUKE_7.38
+28	dugann	du-ginnan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	ref=LUKE_7.38
 29	natjan	natjan	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	28	xcomp	_	ref=LUKE_7.38
 30	fotuns	fotus	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	29	obj	_	ref=LUKE_7.38
 31	is	is	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	30	det	_	ref=LUKE_7.38
 32	tagram	tagr	NOUN	Nb	Case=Dat|Gender=Neut|Number=Plur	29	obl	_	ref=LUKE_7.38
-33	jah	jah	CCONJ	C-	_	28	cc	_	ref=LUKE_7.38
+33	jah	jah	CCONJ	C-	_	1	cc	_	ref=LUKE_7.38
 34	skufta	skufta	NOUN	Nb	Case=Dat|Gender=Masc,Neut|Number=Sing	37	obl	_	ref=LUKE_7.38
 35	haubidis	haubiþ	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	34	nmod	_	ref=LUKE_7.38
 36	seinis	*seins	ADJ	Pt	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	35	nmod	_	ref=LUKE_7.38
-37	biswarb	bi-swairban	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	28	conj	_	ref=LUKE_7.38
-38	jah	jah	CCONJ	C-	_	28	cc	_	ref=LUKE_7.38
-39	kukida	kukjan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	28	conj	_	ref=LUKE_7.38
+37	biswarb	bi-swairban	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	ref=LUKE_7.38
+38	jah	jah	CCONJ	C-	_	1	cc	_	ref=LUKE_7.38
+39	kukida	kukjan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	ref=LUKE_7.38
 40	fotum	fotus	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	39	iobj	_	ref=LUKE_7.38
 41	is	is	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	40	det	_	ref=LUKE_7.38
-42	jah	jah	CCONJ	C-	_	28	cc	_	ref=LUKE_7.38
-43	gasalboda	ga-salbon	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	28	conj	_	ref=LUKE_7.38
+42	jah	jah	CCONJ	C-	_	1	cc	_	ref=LUKE_7.38
+43	gasalboda	ga-salbon	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	ref=LUKE_7.38
 44	þamma	sa	DET	Pd	Case=Dat|Gender=Masc|Number=Sing	45	det	_	ref=LUKE_7.38
 45	balsana	balsan	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	43	obl	_	ref=LUKE_7.38
 
