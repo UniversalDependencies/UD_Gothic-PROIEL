@@ -1,17 +1,13 @@
-Sun Feb 11 20:42:24 CET 2018
-perl -I perllib/lib/perl5 -I tools tools/evaluate_treebank.pl --verbose UD_Gothic
 Running the following version of tools/evaluate_treebank.pl:
-commit c1cb17aec6a5505b56b885f578dc6b1093bb4b30
+commit 87d374bbd458d29331d76014d05c52eaac32518d
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sun Feb 11 20:27:50 2018 +0100
-Switched to branch 'master'
-Your branch is up-to-date with 'origin/master'.
-Evaluating the following revision of UD_Gothic:
-commit 686a02ec5e0c64ddadacc00f13b04805c3368955
+Date:   Wed Apr 11 09:21:53 2018 +0200
+Evaluating the following revision of UD_Gothic-PROIEL:
+commit c64c0383f8333a051963c8a83a1099e1e20a5ae0
+Merge: 6df3bed 01fa5da
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sat Nov 11 13:58:31 2017 +0100
-Size: counted 55320 of 55320 words (nodes).
-Size: min(0, log((N/1000)**2)) = 8.02626901359312.
+Size: counted 55336 of 55336 words (nodes).
+Size: min(0, log((N/1000)**2)) = 8.02684738259657.
 Size: maximum value 13.815511 is for 1000000 words or more.
 Split: Found more than 10000 training words.
 Split: Found at least 10000 development words.
@@ -19,23 +15,28 @@ Split: Found at least 10000 test words.
 Lemmas: source of annotation (from README) factor is 0.8.
 Universal POS tags: 14 out of 17 found in the corpus.
 Universal POS tags: source of annotation (from README) factor is 0.8.
-Features: 40059 out of 55320 total words have one or more features.
+Features: 40070 out of 55336 total words have one or more features.
 Features: source of annotation (from README) factor is 0.8.
 Universal relations: 28 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 0.8.
-Udapi: found 3183 bugs.
-Udapi: worst expected case (threshold) is one bug per 10 words. There are 55320 words.
+Udapi: found 3179 bugs.
+Udapi: worst expected case (threshold) is one bug per 10 words. There are 55336 words.
 Genres: found 1 out of 14 known.
+validate.py --lang got --max-err=10 UD_Gothic-PROIEL/got_proiel-ud-dev.conllu
+*** PASSED ***
+validate.py --lang got --max-err=10 UD_Gothic-PROIEL/got_proiel-ud-test.conllu
+*** PASSED ***
+validate.py --lang got --max-err=10 UD_Gothic-PROIEL/got_proiel-ud-train.conllu
+*** PASSED ***
+Validity: 1
 (weight=0.0769230769230769) * (score{features}=0.8) = 0.0615384615384615
 (weight=0.0769230769230769) * (score{genres}=0.0714285714285714) = 0.00549450549450549
 (weight=0.0769230769230769) * (score{lemmas}=0.8) = 0.0615384615384615
-(weight=0.256410256410256) * (score{size}=0.580960723812424) = 0.148964288157032
+(weight=0.256410256410256) * (score{size}=0.581002587556875) = 0.148975022450481
 (weight=0.0512820512820513) * (score{split}=1) = 0.0512820512820513
 (weight=0.0769230769230769) * (score{tags}=0.658823529411765) = 0.0506787330316742
-(weight=0.307692307692308) * (score{udapi}=0.424620390455531) = 0.130652427832471
+(weight=0.307692307692308) * (score{udapi}=0.425509613994506) = 0.130926035075233
 (weight=0.0769230769230769) * (score{udeprels}=0.605405405405405) = 0.0465696465696466
-(TOTAL score=0.556718575444304) * (availability=1) * (validity=1) = 0.556718575444304
+(TOTAL score=0.557002916980514) * (availability=1) * (validity=1) = 0.557002916980514
 STARS = 3
-UD_Gothic	0.556718575444304	3
-Switched to branch 'dev'
-Your branch is up-to-date with 'origin/dev'.
+UD_Gothic-PROIEL	0.557002916980514	3
