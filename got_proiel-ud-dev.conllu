@@ -11744,12 +11744,12 @@
 # text = jabai auk Xristus in izwis leik raihtis
 # sent_id = 44277
 1	jabai	jabai	SCONJ	G-	_	5	mark	_	ref=ROM_8.10
-2	auk	auk	ADV	Df	_	1	discourse	_	ref=ROM_8.10
+2	auk	auk	ADV	Df	_	5	discourse	_	ref=ROM_8.10
 3	Xristus	Xristus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	ref=ROM_8.10
 4	in	in	ADP	R-	_	5	case	_	ref=ROM_8.10
 5	izwis	jūs	PRON	Pp	Case=Dat|Gender=Fem,Masc|Number=Plur|Person=2|PronType=Prs	0	root	_	ref=ROM_8.10
 6	leik	leik	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	1	nsubj	_	ref=ROM_8.10
-7	raihtis	raihtis	ADV	Df	_	1	discourse	_	ref=ROM_8.10
+7	raihtis	raihtis	ADV	Df	_	5	discourse	_	ref=ROM_8.10
 
 # source = The Gothic Bible, Romans 8
 # text = saei ist in taihswon gudis saei jah bidjiþ faur uns

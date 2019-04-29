@@ -22222,7 +22222,7 @@
 # text = jabai nu gasaiƕiþ sunu mans ussteigan þadei was faurþis
 # sent_id = 43304
 1	jabai	jabai	SCONJ	G-	_	3	mark	_	ref=JOHN_6.62
-2	nu	nu	ADV	Df	_	1	discourse	_	ref=JOHN_6.62
+2	nu	nu	ADV	Df	_	3	discourse	_	ref=JOHN_6.62
 3	gasaiƕiþ	ga-saiƕan	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=JOHN_6.62
 4	sunu	sunus	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	6	nsubj	_	ref=JOHN_6.62
 5	mans	manna#2	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	ref=JOHN_6.62
