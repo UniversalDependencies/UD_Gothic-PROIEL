@@ -679,7 +679,7 @@
 8	af	af	ADP	R-	_	9	case	_	ref=MATT_5.42
 9	þus	þu	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=2|PronType=Prs	10	obl	_	ref=MATT_5.42
 10	leiƕan	leiƕan	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	7	xcomp	_	ref=MATT_5.42
-11	sis	sik	AUX	Pk	Case=Dat|Gender=Masc|Number=Sing|Person=3	10	aux	_	ref=MATT_5.42
+11	sis	sik	PRON	Pk	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	10	expl	_	ref=MATT_5.42
 12	ni	ni	ADV	Df	Polarity=Neg	13	advmod	_	ref=MATT_5.42
 13	uswandjais	us-wandjan	VERB	V-	Mood=Opt|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	ref=MATT_5.42
 
@@ -1529,7 +1529,7 @@
 10	wulþau	wulþus	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	7	nmod	_	ref=MATT_6.29
 11	seinamma	*seins	ADJ	Pt	Case=Dat|Gender=Masc|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	10	nmod	_	ref=MATT_6.29
 12	gawasida	ga-wasjan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	ccomp	_	ref=MATT_6.29
-13	sik	sik	AUX	Pk	Case=Acc|Gender=Masc|Number=Sing|Person=3	12	aux	_	ref=MATT_6.29
+13	sik	sik	PRON	Pk	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	12	expl	_	ref=MATT_6.29
 14	swe	swe	ADV	Df	_	12	advcl	_	ref=MATT_6.29
 15	ains	ains	NUM	Ma	Case=Nom|Gender=Masc|Number=Sing	14	nsubj	_	ref=MATT_6.29
 16	þize	sa	ADJ	Pd	Case=Gen|Gender=Masc|Number=Plur	15	nmod	_	ref=MATT_6.29
@@ -2047,7 +2047,7 @@
 7	hindar	hindar	ADP	R-	_	8	case	_	ref=MARK_5.21
 8	marein	marei	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	2	obl	_	ref=MARK_5.21
 9	gaqemun	ga-qiman	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=MARK_5.21
-10	sik	sik	AUX	Pk	Case=Acc|Gender=Masc|Number=Sing|Person=3	9	aux	_	ref=MARK_5.21
+10	sik	sik	PRON	Pk	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	9	expl	_	ref=MARK_5.21
 11	manageins	managei	NOUN	Nb	Case=Nom|Gender=Fem|Number=Plur	9	nsubj	_	ref=MARK_5.21
 12	filu	filu	ADV	Df	Degree=Pos	11	amod	_	ref=MARK_5.21
 13	du	du	ADP	R-	_	14	case	_	ref=MARK_5.21
@@ -2214,7 +2214,7 @@
 # text = gawandjands sik in managein qaþ
 # sent_id = 37627
 1	gawandjands	ga-wandjan	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	5	advcl	_	ref=MARK_5.30
-2	sik	sik	AUX	Pk	Case=Acc|Gender=Masc|Number=Sing|Person=3	1	aux	_	ref=MARK_5.30
+2	sik	sik	PRON	Pk	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	1	expl	_	ref=MARK_5.30
 3	in	in	ADP	R-	_	4	case	_	ref=MARK_5.30
 4	managein	managei	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	1	obl	_	ref=MARK_5.30
 5	qaþ	qiþan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=MARK_5.30
@@ -3006,7 +3006,7 @@
 1	unte	unte	ADV	Df	_	3	discourse	_	ref=MARK_6.20
 2	Herodis	Herodes	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	ref=MARK_6.20
 3	ohta	ogan*	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=MARK_6.20
-4	sis	sik	AUX	Pk	Case=Dat|Gender=Masc|Number=Sing|Person=3	3	aux	_	ref=MARK_6.20
+4	sis	sik	PRON	Pk	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	3	expl	_	ref=MARK_6.20
 5	Iohannen	Iohannes	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	3	obj	_	ref=MARK_6.20
 6	kunnands	kunnan	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	3	advcl	_	ref=MARK_6.20|LId=1
 7	ina	is	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obj	_	ref=MARK_6.20
@@ -3345,7 +3345,7 @@
 4	weihis	weihs	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	3	amod	_	ref=LUKE_4.1
 5	fulls	fulls	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	6	advmod	_	ref=LUKE_4.1
 6	gawandida	ga-wandjan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=LUKE_4.1
-7	sik	sik	AUX	Pk	Case=Acc|Gender=Masc|Number=Sing|Person=3	6	aux	_	ref=LUKE_4.1
+7	sik	sik	PRON	Pk	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	6	expl	_	ref=LUKE_4.1
 8	fram	fram	ADP	R-	_	9	case	_	ref=LUKE_4.1
 9	Iaurdanau	Iaurdanus*	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	6	obl	_	ref=LUKE_4.1
 10	jah	jah	CCONJ	C-	_	6	cc	_	ref=LUKE_4.1
@@ -3632,7 +3632,7 @@
 # sent_id = 45119
 1	jah	jah	CCONJ	C-	_	2	cc	_	ref=LUKE_4.14
 2	gawandida	ga-wandjan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=LUKE_4.14
-3	sik	sik	AUX	Pk	Case=Acc|Gender=Masc|Number=Sing|Person=3	2	aux	_	ref=LUKE_4.14
+3	sik	sik	PRON	Pk	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	2	expl	_	ref=LUKE_4.14
 4	Iesus	Iesus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	ref=LUKE_4.14
 5	in	in	ADP	R-	_	6	case	_	ref=LUKE_4.14
 6	mahtai	mahts	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	2	obl	_	ref=LUKE_4.14
@@ -4590,7 +4590,7 @@
 6	ina	is	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obj	_	ref=LUKE_7.9
 7	jah	jah	CCONJ	C-	_	5	cc	_	ref=LUKE_7.9
 8	wandjands	wandjan	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	15	advcl	_	ref=LUKE_7.9
-9	sik	sik	AUX	Pk	Case=Acc|Gender=Masc|Number=Sing|Person=3	8	aux	_	ref=LUKE_7.9
+9	sik	sik	PRON	Pk	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	8	expl	_	ref=LUKE_7.9
 10	du	du	ADP	R-	_	14	case	_	ref=LUKE_7.9
 11	þizai	sa	DET	Pd	Case=Dat|Gender=Fem|Number=Sing	14	det	_	ref=LUKE_7.9
 12	afarlaistjandein	afar-laistjan	VERB	V-	Case=Dat|Gender=Fem|Number=Sing|Strength=Weak|Tense=Pres|VerbForm=Part|Voice=Act	14	acl	_	ref=LUKE_7.9
@@ -4620,7 +4620,7 @@
 # sent_id = 45334
 1	jah	jah	CCONJ	C-	_	8	cc	_	ref=LUKE_7.10
 2	gawandjandans	ga-wandjan	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Strength=Weak|Tense=Pres|VerbForm=Part|Voice=Act	8	advcl	_	ref=LUKE_7.10
-3	sik	sik	AUX	Pk	Case=Acc|Gender=Masc|Number=Sing|Person=3	2	aux	_	ref=LUKE_7.10
+3	sik	sik	PRON	Pk	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	2	expl	_	ref=LUKE_7.10
 4	þai	sa	DET	Pd	Case=Nom|Gender=Masc|Number=Plur	5	det	_	ref=LUKE_7.10
 5	insandidans	in-sandjan	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Strength=Weak|Tense=Past|VerbForm=Part|Voice=Pass	8	nsubj	_	ref=LUKE_7.10
 6	du	du	ADP	R-	_	7	case	_	ref=LUKE_7.10
@@ -5473,7 +5473,7 @@
 # sent_id = 45399
 1	jah	jah	CCONJ	C-	_	7	cc	_	ref=LUKE_7.44
 2	gawandjands	ga-wandjan	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	7	advcl	_	ref=LUKE_7.44
-3	sik	sik	AUX	Pk	Case=Acc|Gender=Masc|Number=Sing|Person=3	2	aux	_	ref=LUKE_7.44
+3	sik	sik	PRON	Pk	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	2	expl	_	ref=LUKE_7.44
 4	du	du	ADP	R-	_	6	case	_	ref=LUKE_7.44
 5	þizai	sa	DET	Pd	Case=Dat|Gender=Fem|Number=Sing	6	det	_	ref=LUKE_7.44
 6	qinon	qino	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	2	obl	_	ref=LUKE_7.44
@@ -6629,7 +6629,7 @@
 4	in	in	ADP	R-	_	5	case	_	ref=LUKE_8.37
 5	skip	skip	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	3	obl	_	ref=LUKE_8.37
 6	gawandida	ga-wandjan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=LUKE_8.37
-7	sik	sik	AUX	Pk	Case=Acc|Gender=Masc|Number=Sing|Person=3	6	aux	_	ref=LUKE_8.37
+7	sik	sik	PRON	Pk	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	6	expl	_	ref=LUKE_8.37
 
 # source = The Gothic Bible, Luke 8
 # text = baþ þan ina sa wair af þammei þos unhulþons usiddjedun ei wesi miþ imma
@@ -6680,7 +6680,7 @@
 2	þan	þan	ADV	Df	_	1	discourse	_	ref=LUKE_8.40
 3	miþþanei	miþþanei	SCONJ	G-	_	4	mark	_	ref=LUKE_8.40
 4	gawandida	ga-wandjan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	advcl	_	ref=LUKE_8.40
-5	sik	sik	AUX	Pk	Case=Acc|Gender=Fem|Number=Sing|Person=3	4	aux	_	ref=LUKE_8.40
+5	sik	sik	PRON	Pk	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	4	expl	_	ref=LUKE_8.40
 6	Iesus	Iesus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	ref=LUKE_8.40
 7	andnam	and-niman	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	ccomp	_	ref=LUKE_8.40
 8	ina	is	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obj	_	ref=LUKE_8.40
@@ -7420,13 +7420,13 @@
 2	saƕazuh	saƕazuh	ADJ	Px	Case=Nom|Gender=Masc|Number=Sing	7	nsubj:pass	_	ref=LUKE_18.14
 3	saei	saei	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	4	nsubj	_	ref=LUKE_18.14
 4	hauheiþ	hauhjan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	acl	_	ref=LUKE_18.14
-5	sik	sik	AUX	Pk	Case=Acc|Gender=Masc|Number=Plur|Person=3	4	aux	_	ref=LUKE_18.14
+5	sik	sik	PRON	Pk	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	4	expl	_	ref=LUKE_18.14
 6	silba	silba	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	3	amod	_	ref=LUKE_18.14
 7	gahnaiwjada	ga-hnaiwjan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	ref=LUKE_18.14
 8	iþ	iþ	CCONJ	C-	_	7	cc	_	ref=LUKE_18.14
 9	saei	saei	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	10	nsubj	_	ref=LUKE_18.14
 10	hnaiweiþ	hnaiwjan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	nsubj:pass	_	ref=LUKE_18.14
-11	sik	sik	AUX	Pk	Case=Acc|Gender=Masc|Number=Plur|Person=3	10	aux	_	ref=LUKE_18.14
+11	sik	sik	PRON	Pk	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	10	expl	_	ref=LUKE_18.14
 12	silba	silba	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	9	amod	_	ref=LUKE_18.14
 13	ushauhjada	us-hauhjan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	7	conj	_	ref=LUKE_18.14
 
@@ -10832,7 +10832,7 @@
 5	waurd	waurd	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	2	obj	_	ref=JOHN_19.8
 6	mais	mais	ADV	Df	Degree=Cmp	7	advmod	_	ref=JOHN_19.8
 7	ohta	ogan*	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=JOHN_19.8
-8	sis	sik	AUX	Pk	Case=Dat|Gender=Masc|Number=Plur|Person=3	7	aux	_	ref=JOHN_19.8
+8	sis	sik	PRON	Pk	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	7	expl	_	ref=JOHN_19.8
 
 # source = The Gothic Bible, John 19
 # text = jah galaiþ in praitauriaun aftra jah qaþ du Iesua
@@ -13719,7 +13719,7 @@
 9	jah	jah	CCONJ	C-	_	8	cc	_	ref=1TIM_2.9
 10	inahein	inahei	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	8	conj	_	ref=1TIM_2.9
 11	fetjandeins	fetjan	VERB	V-	Case=Acc|Gender=Fem|Number=Plur|Strength=Weak|Tense=Pres|VerbForm=Part|Voice=Act	1	ccomp	_	ref=1TIM_2.9
-12	sik	sik	AUX	Pk	Case=Acc|Gender=Fem|Number=Plur|Person=3	11	aux	_	ref=1TIM_2.9
+12	sik	sik	PRON	Pk	Case=Acc|Gender=Fem|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	11	expl	_	ref=1TIM_2.9
 13	ni	ni	ADV	Df	Polarity=Neg	15	advmod	_	ref=1TIM_2.9
 14	in	in	ADP	R-	_	15	case	_	ref=1TIM_2.9
 15	flahtom	flahtom	NOUN	Nb	Case=Dat|Gender=Fem|Number=Plur	11	obl	_	ref=1TIM_2.9
@@ -13749,7 +13749,7 @@
 2	in	in	ADP	R-	_	3	case	_	ref=1TIM_2.11
 3	hauniþai	hauniþa	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	4	obl	_	ref=1TIM_2.11
 4	galaisjai	ga-laisjan	VERB	V-	Mood=Opt|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=1TIM_2.11
-5	sik	sik	AUX	Pk	Case=Acc|Gender=Masc|Number=Sing|Person=3	4	aux	_	ref=1TIM_2.11
+5	sik	sik	PRON	Pk	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	4	expl	_	ref=1TIM_2.11
 6	in	in	ADP	R-	_	8	case	_	ref=1TIM_2.11
 7	allai	alls	DET	Px	Case=Dat|Gender=Fem|Number=Sing	8	det	_	ref=1TIM_2.11
 8	ufhauseinai	ufhauseins	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	4	obl	_	ref=1TIM_2.11
@@ -13892,7 +13892,7 @@
 2	auk	auk	ADV	Df	_	4	discourse	_	ref=PHILEM_1.15
 3	duþe	duþe	ADV	Df	_	4	advmod	_	ref=PHILEM_1.15
 4	afgaf	af-giban	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=PHILEM_1.15
-5	sik	sik	AUX	Pk	Case=Acc|Gender=Masc|Number=Sing|Person=3	4	aux	_	ref=PHILEM_1.15
+5	sik	sik	PRON	Pk	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	4	expl	_	ref=PHILEM_1.15
 6	du	du	ADP	R-	_	7	case	_	ref=PHILEM_1.15
 7	ƕeilai	ƕeila	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	4	obl	_	ref=PHILEM_1.15
 8	ei	ei	SCONJ	G-	_	11	mark	_	ref=PHILEM_1.15
