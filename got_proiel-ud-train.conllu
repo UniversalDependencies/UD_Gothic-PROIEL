@@ -23267,7 +23267,7 @@
 # source = The Gothic Bible, John 7
 # text = nibai in distahein þiudo skuli gaggan jah laisjan þiudos
 # sent_id = 43382
-1	nibai	nibai	ADV	Df	_	5	advmod	_	ref=JOHN_7.35|LId=2
+1	nibai	nibai	ADV	Df	Polarity=Neg	5	advmod	_	ref=JOHN_7.35|LId=2
 2	in	in	ADP	R-	_	3	case	_	ref=JOHN_7.35
 3	distahein	distaheins*	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	6	obl	_	ref=JOHN_7.35
 4	þiudo	þiuda	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	3	nmod	_	ref=JOHN_7.35
@@ -23947,7 +23947,7 @@
 # source = The Gothic Bible, John 8
 # text = nibai usqimai sis silbin ei qiþiþ
 # sent_id = 43437
-1	nibai	nibai	ADV	Df	_	2	advmod	_	ref=JOHN_8.22|LId=2
+1	nibai	nibai	ADV	Df	Polarity=Neg	2	advmod	_	ref=JOHN_8.22|LId=2
 2	usqimai	us-qiman	VERB	V-	Mood=Opt|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=JOHN_8.22
 3	sis	sik	PRON	Pk	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	2	iobj	_	ref=JOHN_8.22
 4	silbin	silba	PRON	Pk	Case=Dat|Gender=Masc,Neut|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	3	det	_	ref=JOHN_8.22
