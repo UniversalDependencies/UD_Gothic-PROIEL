@@ -7186,7 +7186,7 @@
 # text = jabai jah guþ ni og jah mannan ni aista iþ in þizei usþriutiþ mis so widuwo fraweita þo ibai und andi qimandei usagljai mis
 # sent_id = 45900
 1	jabai	jabai	SCONJ	G-	_	5	mark	_	ref=LUKE_18.4
-2	jah	jah	ADV	Df	_	1	advmod	_	ref=LUKE_18.4
+2	jah	jah	ADV	Df	_	5	advmod	_	ref=LUKE_18.4
 3	guþ	guþ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	5	obj	_	ref=LUKE_18.4
 4	ni	ni	ADV	Df	Polarity=Neg	5	advmod	_	ref=LUKE_18.4
 5	og	ogan*	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	17	advcl	_	ref=LUKE_18.4
@@ -9273,7 +9273,7 @@
 5	in	in	ADP	R-	_	6	case	_	ref=JOHN_11.15
 6	izwara	jūs	PRON	Pp	Case=Gen|Gender=Fem,Masc|Number=Plur|Person=2|PronType=Prs	4	obl	_	ref=JOHN_11.15
 7	ei	ei	SCONJ	G-	_	8	mark	_	ref=JOHN_11.15
-8	galaubjaiþ	ga-laubjan	VERB	V-	Mood=Opt|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	9	advcl	_	ref=JOHN_11.15
+8	galaubjaiþ	ga-laubjan	VERB	V-	Mood=Opt|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	11	advcl	_	ref=JOHN_11.15
 9	unte	unte	SCONJ	G-	_	11	mark	_	ref=JOHN_11.15
 10	ni	ni	ADV	Df	Polarity=Neg	11	advmod	_	ref=JOHN_11.15
 11	was	wisan	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	4	ccomp	_	ref=JOHN_11.15|LId=1
@@ -10367,7 +10367,7 @@
 # source = The Gothic Bible, John 17
 # text = ni bidja ei usnimais ins us þamma fairƕau ak ei bairgais im faura þamma unseljin
 # sent_id = 44084
-1	ni	ni	ADV	Df	Polarity=Neg	3	advmod	_	ref=JOHN_17.15
+1	ni	ni	ADV	Df	Polarity=Neg	4	advmod	_	ref=JOHN_17.15
 2	bidja	bidjan	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=JOHN_17.15
 3	ei	ei	SCONJ	G-	_	4	mark	_	ref=JOHN_17.15
 4	usnimais	us-niman	VERB	V-	Mood=Opt|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	2	ccomp	_	ref=JOHN_17.15
@@ -10375,9 +10375,9 @@
 6	us	us	ADP	R-	_	8	case	_	ref=JOHN_17.15
 7	þamma	sa	DET	Pd	Case=Dat|Gender=Masc|Number=Sing	8	det	_	ref=JOHN_17.15
 8	fairƕau	fairƕus	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	4	obl	_	ref=JOHN_17.15
-9	ak	ak	CCONJ	C-	_	3	cc	_	ref=JOHN_17.15
+9	ak	ak	CCONJ	C-	_	4	cc	_	ref=JOHN_17.15
 10	ei	ei	SCONJ	G-	_	11	mark	_	ref=JOHN_17.15
-11	bairgais	bairgan	VERB	V-	Mood=Opt|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	ref=JOHN_17.15
+11	bairgais	bairgan	VERB	V-	Mood=Opt|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	ref=JOHN_17.15
 12	im	is	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Prs	11	iobj	_	ref=JOHN_17.15
 13	faura	faura	ADP	R-	_	15	case	_	ref=JOHN_17.15
 14	þamma	sa	DET	Pd	Case=Dat|Gender=Neut|Number=Sing	15	det	_	ref=JOHN_17.15
@@ -10574,7 +10574,7 @@
 23	frijodes	frijon	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	20	advcl	_	ref=JOHN_17.24
 24	mik	ik	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=1|PronType=Prs	23	obj	_	ref=JOHN_17.24
 25	faur	faur	ADP	R-	_	26	case	_	ref=JOHN_17.24
-26	gaskaft	gaskafts	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	22	obl	_	ref=JOHN_17.24
+26	gaskaft	gaskafts	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	23	obl	_	ref=JOHN_17.24
 27	fairƕaus	fairƕus	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	26	nmod	_	ref=JOHN_17.24
 
 # source = The Gothic Bible, John 17
@@ -11718,7 +11718,7 @@
 7	ak	ak	CCONJ	C-	_	6	cc	_	ref=ROM_8.9
 8	in	in	ADP	R-	_	9	case	_	ref=ROM_8.9
 9	ahmin	ahma	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	6	conj	_	ref=ROM_8.9
-10	sweþauh	sweþauh	ADV	Df	_	11	advmod	_	ref=ROM_8.9
+10	sweþauh	sweþauh	ADV	Df	_	14	advmod	_	ref=ROM_8.9
 11	jabai	jabai	SCONJ	G-	_	14	mark	_	ref=ROM_8.9
 12	ahma	ahma	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	14	nsubj	_	ref=ROM_8.9
 13	gudis	guþ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	12	nmod	_	ref=ROM_8.9
@@ -11748,7 +11748,7 @@
 3	Xristus	Xristus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	ref=ROM_8.10
 4	in	in	ADP	R-	_	5	case	_	ref=ROM_8.10
 5	izwis	jūs	PRON	Pp	Case=Dat|Gender=Fem,Masc|Number=Plur|Person=2|PronType=Prs	0	root	_	ref=ROM_8.10
-6	leik	leik	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	1	nsubj	_	ref=ROM_8.10
+6	leik	leik	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	5	nsubj	_	ref=ROM_8.10
 7	raihtis	raihtis	ADV	Df	_	5	discourse	_	ref=ROM_8.10
 
 # source = The Gothic Bible, Romans 8
@@ -12006,12 +12006,12 @@
 3	galiugaguda	galiugaguþ	NOUN	Nb	Case=Nom|Gender=Neut|Number=Plur	5	nsubj	_	ref=1COR_10.19
 4	ƕa	ƕas	ADJ	Px	Case=Nom|Gender=Neut|Number=Sing	5	xcomp	_	ref=1COR_10.19
 5	sijaina	wisan	VERB	V-	Mood=Opt|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=1COR_10.19|LId=1
-6	aiþþau	aiþþau	CCONJ	C-	_	1	cc	_	ref=1COR_10.19
+6	aiþþau	aiþþau	CCONJ	C-	_	5	cc	_	ref=1COR_10.19
 7	þatei	þatei	SCONJ	G-	_	11	mark	_	ref=1COR_10.19
 8	galiugam	galiug	NOUN	Nb	Case=Dat|Gender=Neut|Number=Plur	9	iobj	_	ref=1COR_10.19
 9	saljada	saljan	VERB	V-	Aspect=Perf|Case=Nom|Gender=Neut|Number=Plur|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	11	nsubj	_	ref=1COR_10.19|LId=1
 10	ƕa	ƕas	ADJ	Px	Case=Nom|Gender=Neut|Number=Sing	11	xcomp	_	ref=1COR_10.19
-11	sijai	wisan	VERB	V-	Mood=Opt|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	ref=1COR_10.19|LId=1
+11	sijai	wisan	VERB	V-	Mood=Opt|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	conj	_	ref=1COR_10.19|LId=1
 
 # source = The Gothic Bible, 1 Corinthians 10
 # text = ak þatei saljand þiudos skohslam saljand jan ni guda
@@ -12466,16 +12466,16 @@
 7	swikunþans	swikunþs	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur|Strength=Strong	8	xcomp	_	ref=2COR_5.11
 8	wisan	wisan	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	2	xcomp	_	ref=2COR_5.11|LId=1
 9	uns	weis	PRON	Pp	Case=Acc|Gender=Masc|Number=Plur|Person=1|PronType=Prs	8	nsubj	_	ref=2COR_5.11
-10	ni	ni	ADV	Df	Polarity=Neg	11	advmod	_	ref=2COR_5.12
+10	ni	ni	ADV	Df	Polarity=Neg	15	advmod	_	ref=2COR_5.12
 11	ei	ei	SCONJ	G-	_	15	mark	_	ref=2COR_5.12
 12	aftra	aftra	ADV	Df	_	15	advmod	_	ref=2COR_5.12
 13	uns	weis	PRON	Pp	Case=Acc|Gender=Masc|Number=Plur|Person=1|PronType=Prs	15	obj	_	ref=2COR_5.12
 14	silbans	silba	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	13	amod	_	ref=2COR_5.12
 15	uskannjaima	us-kannjan	VERB	V-	Mood=Opt|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	8	advcl	_	ref=2COR_5.12
 16	izwis	jūs	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=2|PronType=Prs	15	iobj	_	ref=2COR_5.12
-17	ak	ak	CCONJ	C-	_	11	cc	_	ref=2COR_5.12
+17	ak	ak	CCONJ	C-	_	15	cc	_	ref=2COR_5.12
 18	lew	lew	NOUN	Nb	Case=Acc|Gender=Masc,Neut|Number=Sing	19	obj	_	ref=2COR_5.12
-19	gibandans	giban	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Strength=Weak|Tense=Pres|VerbForm=Part|Voice=Act	11	conj	_	ref=2COR_5.12
+19	gibandans	giban	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Strength=Weak|Tense=Pres|VerbForm=Part|Voice=Act	15	conj	_	ref=2COR_5.12
 20	izwis	jūs	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=2|PronType=Prs	19	iobj	_	ref=2COR_5.12
 21	ƕoftuljos	ƕoftuli	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	18	nmod	_	ref=2COR_5.12
 22	fram	fram	ADP	R-	_	23	case	_	ref=2COR_5.12
@@ -12505,7 +12505,7 @@
 # sent_id = 64114
 1	jaþþe	jaþþe	SCONJ	G-	_	2	mark	_	ref=2COR_5.13
 2	fullafraþjam	fulla-fraþjan	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=2COR_5.13
-3	izwis	jūs	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=2|PronType=Prs	1	obl	_	ref=2COR_5.13
+3	izwis	jūs	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=2|PronType=Prs	2	obl	_	ref=2COR_5.13
 
 # source = The Gothic Bible, 2 Corinthians 5
 # text = unte friaþwa Xristaus dishabaiþ uns domjandans þata þatei ains faur allans gaswalt

@@ -5115,8 +5115,8 @@
 8	fiskos	fisks	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	4	conj	_	ref=LUKE_9.13
 9	twai	twai	NUM	Ma	Case=Nom|Gender=Masc|Number=Plur	8	nummod	_	ref=LUKE_9.13
 10	niba	nibai	SCONJ	G-	_	15	mark	_	ref=LUKE_9.13
-11	þau	þau	ADV	Df	_	10	advmod	_	ref=LUKE_9.13
-12	þatei	þatei	SCONJ	G-	_	10	advmod	_	ref=LUKE_9.13
+11	þau	þau	ADV	Df	_	15	advmod	_	ref=LUKE_9.13
+12	þatei	þatei	SCONJ	G-	_	15	advmod	_	ref=LUKE_9.13
 13	weis	weis	PRON	Pp	Case=Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	15	nsubj	_	ref=LUKE_9.13
 14	gaggandans	gaggan	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Strength=Weak|Tense=Pres|VerbForm=Part|Voice=Act	15	advcl	_	ref=LUKE_9.13
 15	bugjaima	bugjan	VERB	V-	Mood=Opt|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	1	advcl	_	ref=LUKE_9.13
@@ -8298,17 +8298,17 @@
 2	uþ	-uh	ADV	Df	_	4	advmod	_	ref=JOHN_12.6
 3	þan	þan	ADV	Df	_	4	discourse	_	ref=JOHN_12.6
 4	qaþ	qiþan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=JOHN_12.6
-5	ni	ni	ADV	Df	Polarity=Neg	6	advmod	_	ref=JOHN_12.6
+5	ni	ni	ADV	Df	Polarity=Neg	11	advmod	_	ref=JOHN_12.6
 6	þeei	þeei	SCONJ	G-	_	11	mark	_	ref=JOHN_12.6
 7	ina	is	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nmod	_	ref=JOHN_12.6
 8	þize	sa	DET	Pd	Case=Gen|Gender=Masc|Number=Plur	9	det	_	ref=JOHN_12.6
 9	þarbane	þarbs	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	10	nmod	_	ref=JOHN_12.6
 10	kara	kara	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	11	nsubj	_	ref=JOHN_12.6
 11	wesi	wisan	VERB	V-	Mood=Opt|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	advcl	_	ref=JOHN_12.6|LId=1
-12	ak	ak	CCONJ	C-	_	6	cc	_	ref=JOHN_12.6
+12	ak	ak	CCONJ	C-	_	11	cc	_	ref=JOHN_12.6
 13	unte	unte	SCONJ	G-	_	15	mark	_	ref=JOHN_12.6
 14	þiubs	þiufs*	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	15	xcomp	_	ref=JOHN_12.6
-15	was	wisan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	6	conj	_	ref=JOHN_12.6|LId=1
+15	was	wisan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	11	conj	_	ref=JOHN_12.6|LId=1
 16	jah	jah	CCONJ	C-	_	15	cc	_	ref=JOHN_12.6
 17	arka	arka	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	18	obj	_	ref=JOHN_12.6
 18	habaida	haban	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	15	conj	_	ref=JOHN_12.6
@@ -9223,15 +9223,15 @@
 # source = The Gothic Bible, John 12
 # text = nih þan qam ei stojau manased ak ei ganasjau manased
 # sent_id = 43843
-1	nih	nih	ADV	Df	Polarity=Neg	4	advmod	_	ref=JOHN_12.47
+1	nih	nih	ADV	Df	Polarity=Neg	5	advmod	_	ref=JOHN_12.47
 2	þan	þan	ADV	Df	_	3	discourse	_	ref=JOHN_12.47
 3	qam	qiman	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=JOHN_12.47
 4	ei	ei	SCONJ	G-	_	5	mark	_	ref=JOHN_12.47
 5	stojau	stojan	VERB	V-	Mood=Opt|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	3	advcl	_	ref=JOHN_12.47
 6	manased	manaseþs	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	5	obj	_	ref=JOHN_12.47
-7	ak	ak	CCONJ	C-	_	4	cc	_	ref=JOHN_12.47
+7	ak	ak	CCONJ	C-	_	5	cc	_	ref=JOHN_12.47
 8	ei	ei	SCONJ	G-	_	9	mark	_	ref=JOHN_12.47
-9	ganasjau	ga-nasjan	VERB	V-	Mood=Opt|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	ref=JOHN_12.47
+9	ganasjau	ga-nasjan	VERB	V-	Mood=Opt|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	5	conj	_	ref=JOHN_12.47
 10	manased	manaseþs	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	9	obj	_	ref=JOHN_12.47
 
 # source = The Gothic Bible, John 12
@@ -9701,12 +9701,12 @@
 14	þaurbeima	þaurban	VERB	V-	Mood=Opt|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	12	obj	_	ref=JOHN_13.29
 15	du	du	ADP	R-	_	16	case	_	ref=JOHN_13.29
 16	dulþai	dulþs	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	14	obl	_	ref=JOHN_13.29
-17	aiþþau	aiþþau	CCONJ	C-	_	3	cc	_	ref=JOHN_13.29
+17	aiþþau	aiþþau	CCONJ	C-	_	9	cc	_	ref=JOHN_13.29
 18	þaim	sa	DET	Pd	Case=Dat|Gender=Masc|Number=Plur	19	det	_	ref=JOHN_13.29
 19	unledam	unleþs	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	22	iobj	_	ref=JOHN_13.29
 20	ei	ei	SCONJ	G-	_	22	mark	_	ref=JOHN_13.29
 21	ƕa	ƕas	ADJ	Px	Case=Acc|Gender=Neut|Number=Sing	22	obj	_	ref=JOHN_13.29
-22	gibau	giban	VERB	V-	Mood=Opt|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	ref=JOHN_13.29
+22	gibau	giban	VERB	V-	Mood=Opt|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	9	conj	_	ref=JOHN_13.29
 
 # source = The Gothic Bible, John 13
 # text = biþe andnam þana hlaib jains suns galaiþ ut
@@ -11733,13 +11733,13 @@
 2	ufarskafts	ufarskafts	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	ref=ROM_11.16
 3	weiha	weihs	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Strength=Strong	0	root	_	ref=ROM_11.16
 4	jah	jah	ADV	Df	_	5	advmod	_	ref=ROM_11.16
-5	daigs	daigs	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	ref=ROM_11.16
-6	jah	jah	CCONJ	C-	_	1	cc	_	ref=ROM_11.16
+5	daigs	daigs	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	ref=ROM_11.16
+6	jah	jah	CCONJ	C-	_	3	cc	_	ref=ROM_11.16
 7	jabai	jabai	SCONJ	G-	_	9	mark	_	ref=ROM_11.16
 8	waurts	waurts	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	9	nsubj	_	ref=ROM_11.16
 9	weiha	weihs	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Strength=Strong	11	orphan	_	ref=ROM_11.16
 10	jah	jah	ADV	Df	_	11	advmod	_	ref=ROM_11.16
-11	astos	asts	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	1	conj	_	ref=ROM_11.16
+11	astos	asts	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	3	conj	_	ref=ROM_11.16
 
 # source = The Gothic Bible, Romans 11
 # text = iþ jabai sumai þize aste usbruknodedun iþ þu wilþeis alewabagms wisands intrusgiþs warst in ins jah gamains þizai waurhtai jah smairþra alewabagmis warst ni ƕop ana þans astans
@@ -13168,7 +13168,7 @@
 # source = The Gothic Bible, Galatians 2
 # text = þatainei þizei unledane ei gamuneima þatei usdaudida þata silbo taujan
 # sent_id = 44721
-1	þatainei	þatainei	ADV	Df	_	4	advmod	_	ref=GAL_2.10
+1	þatainei	þatainei	ADV	Df	_	5	advmod	_	ref=GAL_2.10
 2	þizei	sa	DET	Pd	Case=Gen|Gender=Masc,Neut|Number=Plur	3	det	_	ref=GAL_2.10
 3	unledane	unleþs	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	5	iobj	_	ref=GAL_2.10
 4	ei	ei	SCONJ	G-	_	5	mark	_	ref=GAL_2.10

@@ -979,9 +979,9 @@
 5	und	und	ADP	R-	_	8	case	_	ref=MATT_10.25
 6	ƕan	ƕan	ADV	Du	PronType=Int	7	advmod	_	ref=MATT_10.25
 7	filu	filu	ADV	Df	Degree=Pos	8	advmod	_	ref=MATT_10.25
-8	mais	mais	ADV	Df	Degree=Cmp	1	advmod	_	ref=MATT_10.25
+8	mais	mais	ADV	Df	Degree=Cmp	4	advmod	_	ref=MATT_10.25
 9	þans	sa	DET	Pd	Case=Acc|Gender=Masc|Number=Plur	10	det	_	ref=MATT_10.25
-10	innakundans	innakunds	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	1	obj	_	ref=MATT_10.25
+10	innakundans	innakunds	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	4	obj	_	ref=MATT_10.25
 11	is	is	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	det	_	ref=MATT_10.25
 
 # source = The Gothic Bible, Matthew 10
@@ -5394,13 +5394,13 @@
 8	þatei	þatei	SCONJ	G-	_	10	mark	_	ref=MARK_3.22
 9	Baiailzaibul	Baiailzaibul	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	10	obj	_	ref=MARK_3.22
 10	habaiþ	haban	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	ccomp	_	ref=MARK_3.22
-11	jah	jah	CCONJ	C-	_	8	cc	_	ref=MARK_3.22
+11	jah	jah	CCONJ	C-	_	10	cc	_	ref=MARK_3.22
 12	þatei	þatei	SCONJ	G-	_	17	mark	_	ref=MARK_3.22
 13	in	in	ADP	R-	_	15	case	_	ref=MARK_3.22
 14	þamma	sa	DET	Pd	Case=Dat|Gender=Masc|Number=Sing	15	det	_	ref=MARK_3.22
 15	reikistin	reikeis*	ADJ	A-	Case=Dat|Degree=Sup|Gender=Masc|Number=Sing|Strength=Weak	17	advmod	_	ref=MARK_3.22
 16	unhulþono	unhulþo	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	15	nmod	_	ref=MARK_3.22
-17	uswairpiþ	us-wairpan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	conj	_	ref=MARK_3.22
+17	uswairpiþ	us-wairpan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	conj	_	ref=MARK_3.22
 18	þaim	sa	DET	Pd	Case=Dat|Gender=Fem|Number=Plur	19	det	_	ref=MARK_3.22
 19	unhulþom	unhulþo	NOUN	Nb	Case=Dat|Gender=Fem|Number=Plur	17	iobj	_	ref=MARK_3.22
 
@@ -5780,7 +5780,7 @@
 13	suns	suns	ADV	Df	_	14	advmod	_	ref=MARK_4.5
 14	urrann	ur-rinnan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	ref=MARK_4.5
 15	in	in	SCONJ	G-	_	18	mark	_	ref=MARK_4.5
-16	þizei	saei	PRON	Pr	Case=Gen|Gender=Neut|Number=Sing|PronType=Rel	15	iobj	_	ref=MARK_4.5
+16	þizei	saei	PRON	Pr	Case=Gen|Gender=Neut|Number=Sing|PronType=Rel	18	iobj	_	ref=MARK_4.5
 17	ni	ni	ADV	Df	Polarity=Neg	18	advmod	_	ref=MARK_4.5
 18	habaida	haban	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	14	advcl	_	ref=MARK_4.5
 19	diupaizos	diups	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Strength=Strong	20	amod	_	ref=MARK_4.5
@@ -5918,7 +5918,7 @@
 26	ni	ni	ADV	Df	Polarity=Neg	27	advmod	_	ref=MARK_4.12
 27	fraþjaina	fraþjan	VERB	V-	Mood=Opt|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	24	conj	_	ref=MARK_4.12
 28	ibai	ibai	SCONJ	G-	_	30	mark	_	ref=MARK_4.12
-29	ƕan	ƕan	ADV	Df	_	28	advmod	_	ref=MARK_4.12
+29	ƕan	ƕan	ADV	Df	_	30	advmod	_	ref=MARK_4.12
 30	gawandjaina	ga-wandjan	VERB	V-	Mood=Opt|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	15	advcl	_	ref=MARK_4.12
 31	sik	sik	AUX	Pk	Case=Acc|Gender=Masc|Number=Sing|Person=3	30	aux	_	ref=MARK_4.12
 32	jah	jah	CCONJ	C-	_	30	cc	_	ref=MARK_4.12
@@ -13074,7 +13074,7 @@
 13	wairþai	wairþan	VERB	V-	Mood=Opt|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	acl	_	ref=LUKE_1.20
 14	þata	sa	ADJ	Pd	Case=Nom|Gender=Neut|Number=Sing	13	nsubj	_	ref=LUKE_1.20
 15	duþe	duþe	SCONJ	G-	_	18	mark	_	ref=LUKE_1.20
-16	ei	ei	SCONJ	G-	_	15	advmod	_	ref=LUKE_1.20
+16	ei	ei	SCONJ	G-	_	18	advmod	_	ref=LUKE_1.20
 17	ni	ni	ADV	Df	Polarity=Neg	18	advmod	_	ref=LUKE_1.20
 18	galaubides	ga-laubjan	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	3	advcl	_	ref=LUKE_1.20
 19	waurdam	waurd	NOUN	Nb	Case=Dat|Gender=Neut|Number=Plur	18	iobj	_	ref=LUKE_1.20
@@ -13393,7 +13393,7 @@
 9	ufarskadweid	ufar-skadwjan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	ref=LUKE_1.35
 10	þus	þu	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=2|PronType=Prs	9	iobj	_	ref=LUKE_1.35
 11	duþe	duþe	SCONJ	G-	_	17	mark	_	ref=LUKE_1.35
-12	ei	ei	SCONJ	G-	_	11	advmod	_	ref=LUKE_1.35
+12	ei	ei	SCONJ	G-	_	17	advmod	_	ref=LUKE_1.35
 13	jah	jah	CCONJ	C-	_	17	cc	_	ref=LUKE_1.35
 14	saei	saei	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	15	nsubj:pass	_	ref=LUKE_1.35
 15	gabairada	ga-bairan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	16	acl	_	ref=LUKE_1.35
@@ -14186,7 +14186,7 @@
 16	haitada	haitan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	13	acl	_	ref=LUKE_2.4
 17	Beþlaihaim	Beþlaihaim	PROPN	Ne	_	16	xcomp	_	ref=LUKE_2.4
 18	duþe	duþe	SCONJ	G-	_	20	mark	_	ref=LUKE_2.4
-19	ei	ei	SCONJ	G-	_	18	advmod	_	ref=LUKE_2.4
+19	ei	ei	SCONJ	G-	_	20	advmod	_	ref=LUKE_2.4
 20	was	wisan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	advcl	_	ref=LUKE_2.4|LId=1
 21	us	us	ADP	R-	_	22	case	_	ref=LUKE_2.4
 22	garda	gards	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	20	xcomp	_	ref=LUKE_2.4
@@ -21288,9 +21288,9 @@
 14	jainar	jainar	ADV	Df	_	13	advmod	_	ref=JOHN_6.22
 15	alja	alja	ADV	Df	_	10	amod	_	ref=JOHN_6.22
 16	ain	ains	NUM	Ma	Case=Nom|Gender=Neut|Number=Sing	15	nummod	_	ref=JOHN_6.22
-17	jah	jah	CCONJ	C-	_	9	cc	_	ref=JOHN_6.22
+17	jah	jah	CCONJ	C-	_	13	cc	_	ref=JOHN_6.22
 18	þatei	þatei	SCONJ	G-	_	19	mark	_	ref=JOHN_6.22
-19	miþ-qam	miþ-qiman	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	9	conj	_	ref=JOHN_6.22
+19	miþ-qam	miþ-qiman	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	13	conj	_	ref=JOHN_6.22
 20	ni	ni	ADV	Df	Polarity=Neg	19	advmod	_	ref=JOHN_6.22
 21	siponjam	siponeis	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	19	iobj	_	ref=JOHN_6.22
 22	seinaim	*seins	ADJ	Pt	Case=Dat|Gender=Fem|Number=Plur|Person=3|Poss=Yes|Reflex=Yes	21	nmod	_	ref=JOHN_6.22
@@ -21298,11 +21298,11 @@
 24	in	in	ADP	R-	_	26	case	_	ref=JOHN_6.22
 25	þata	sa	DET	Pd	Case=Acc|Gender=Neut|Number=Sing	26	det	_	ref=JOHN_6.22
 26	skip	skip	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	19	obl	_	ref=JOHN_6.22
-27	ak	ak	CCONJ	C-	_	18	cc	_	ref=JOHN_6.22
+27	ak	ak	CCONJ	C-	_	19	cc	_	ref=JOHN_6.22
 28	ainai	ains	NUM	Ma	Case=Nom|Gender=Masc|Number=Plur	31	xcomp	_	ref=JOHN_6.22
 29	siponjos	siponeis	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	31	nsubj	_	ref=JOHN_6.22
 30	is	is	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	29	det	_	ref=JOHN_6.22
-31	galiþun	ga-leiþan	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	18	conj	_	ref=JOHN_6.22
+31	galiþun	ga-leiþan	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	19	conj	_	ref=JOHN_6.22
 
 # source = The Gothic Bible, John 6
 # text = anþara þan skipa qemun us Tibairiadau neƕa þamma stada þarei matidedun hlaif ana þammei awiliudoda frauja
@@ -21391,15 +21391,15 @@
 # sent_id = 62903
 1	sokeiþ	sokjan	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=JOHN_6.26
 2	mik	ik	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=1|PronType=Prs	1	obj	_	ref=JOHN_6.26
-3	ni	ni	ADV	Df	Polarity=Neg	4	advmod	_	ref=JOHN_6.26
+3	ni	ni	ADV	Df	Polarity=Neg	5	advmod	_	ref=JOHN_6.26
 4	þatei	þatei	SCONJ	G-	_	5	mark	_	ref=JOHN_6.26
 5	seƕuþ	saiƕan	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	1	advcl	_	ref=JOHN_6.26
 6	taiknins	taikns	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	5	obj	_	ref=JOHN_6.26
 7	jah	jah	CCONJ	C-	_	6	cc	_	ref=JOHN_6.26
 8	fauratanja	fauratani	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	6	conj	_	ref=JOHN_6.26
-9	ak	ak	CCONJ	C-	_	4	cc	_	ref=JOHN_6.26
+9	ak	ak	CCONJ	C-	_	5	cc	_	ref=JOHN_6.26
 10	þatei	þatei	SCONJ	G-	_	11	mark	_	ref=JOHN_6.26
-11	matideduþ	matjan	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	ref=JOHN_6.26
+11	matideduþ	matjan	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	5	conj	_	ref=JOHN_6.26
 12	þize	sa	DET	Pd	Case=Gen|Gender=Masc|Number=Plur	13	det	_	ref=JOHN_6.26
 13	hlaibe	hlaifs	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	11	obj	_	ref=JOHN_6.26
 14	jah	jah	CCONJ	C-	_	11	cc	_	ref=JOHN_6.26
@@ -21678,7 +21678,7 @@
 2	atstaig	at-steigan	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=JOHN_6.38
 3	us	us	ADP	R-	_	4	case	_	ref=JOHN_6.38
 4	himina	himins	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	2	obl	_	ref=JOHN_6.38
-5	nih	nih	ADV	Df	Polarity=Neg	6	advmod	_	ref=JOHN_6.38
+5	nih	nih	ADV	Df	Polarity=Neg	7	advmod	_	ref=JOHN_6.38
 6	þeei	þeei	SCONJ	G-	_	7	mark	_	ref=JOHN_6.38
 7	taujau	taujan	VERB	V-	Mood=Opt|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	2	advcl	_	ref=JOHN_6.38
 8	wiljan	wilja	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	7	obj	_	ref=JOHN_6.38
@@ -22937,14 +22937,14 @@
 3	atgaf	at-giban	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=JOHN_7.22
 4	izwis	jūs	PRON	Pp	Case=Dat|Gender=Fem,Masc|Number=Plur|Person=2|PronType=Prs	3	iobj	_	ref=JOHN_7.22
 5	bimait	bimait	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	3	obj	_	ref=JOHN_7.22
-6	ni	ni	ADV	Df	Polarity=Neg	7	advmod	_	ref=JOHN_7.22
+6	ni	ni	ADV	Df	Polarity=Neg	10	advmod	_	ref=JOHN_7.22
 7	þatei	þatei	SCONJ	G-	_	10	mark	_	ref=JOHN_7.22
 8	fram	fram	ADP	R-	_	9	case	_	ref=JOHN_7.22
 9	Mose	Moses	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	10	xcomp	_	ref=JOHN_7.22
 10	sijai	wisan	VERB	V-	Mood=Opt|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	advcl	_	ref=JOHN_7.22|LId=1
-11	ak	ak	CCONJ	C-	_	7	cc	_	ref=JOHN_7.22
+11	ak	ak	CCONJ	C-	_	10	cc	_	ref=JOHN_7.22
 12	us	us	ADP	R-	_	13	case	_	ref=JOHN_7.22
-13	attam	atta	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	7	conj	_	ref=JOHN_7.22
+13	attam	atta	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	10	conj	_	ref=JOHN_7.22
 14	jah	jah	CCONJ	C-	_	3	cc	_	ref=JOHN_7.22
 15	in	in	ADP	R-	_	16	case	_	ref=JOHN_7.22
 16	sabbato	sabbato	NOUN	Nb	_	17	obl	_	ref=JOHN_7.22
@@ -23728,7 +23728,7 @@
 # source = The Gothic Bible, John 8
 # text = jah jabai ik weitwodja bi mik silban sunja ist so weitwodiþa meina unte wait ƕaþro qam jah ƕaþ galeiþa iþ jus ni wituþ ƕaþro qima aiþþau ƕaþ galeiþa
 # sent_id = 43421
-1	jah	jah	ADV	Df	_	2	advmod	_	ref=JOHN_8.14
+1	jah	jah	ADV	Df	_	4	advmod	_	ref=JOHN_8.14
 2	jabai	jabai	SCONJ	G-	_	4	mark	_	ref=JOHN_8.14
 3	ik	ik	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	ref=JOHN_8.14
 4	weitwodja	weitwodjan	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	9	advcl	_	ref=JOHN_8.14
@@ -23773,7 +23773,7 @@
 # source = The Gothic Bible, John 8
 # text = jaþ þan jabai stoja ik staua meina sunjeina ist unte ains ni im ak ik jah saei sandida mik atta
 # sent_id = 43423
-1	jaþ	jah	ADV	Df	_	3	advmod	_	ref=JOHN_8.16
+1	jaþ	jah	ADV	Df	_	4	advmod	_	ref=JOHN_8.16
 2	þan	þan	ADV	Df	_	9	discourse	_	ref=JOHN_8.16
 3	jabai	jabai	SCONJ	G-	_	4	mark	_	ref=JOHN_8.16
 4	stoja	stojan	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	9	advcl	_	ref=JOHN_8.16
@@ -25493,11 +25493,11 @@
 4	ist	wisan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	ccomp	_	ref=JOHN_9.20|LId=1
 5	sunus	sunus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	4	xcomp	_	ref=JOHN_9.20
 6	unsar	unsar	ADJ	Ps	Case=Nom|Gender=Masc,Neut|Number=Sing|Person=1|Poss=Yes	5	nmod	_	ref=JOHN_9.20
-7	jah	jah	CCONJ	C-	_	2	cc	_	ref=JOHN_9.20
+7	jah	jah	CCONJ	C-	_	4	cc	_	ref=JOHN_9.20
 8	þatei	þatei	SCONJ	G-	_	11	mark	_	ref=JOHN_9.20
 9	blinds	blinds	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	10	advmod	_	ref=JOHN_9.20
 10	gabaurans	ga-bairan	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	11	xcomp	_	ref=JOHN_9.20
-11	warþ	wairþan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	ref=JOHN_9.20
+11	warþ	wairþan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	ref=JOHN_9.20
 
 # source = The Gothic Bible, John 9
 # text = iþ ƕaiwa nu saiƕiþ ni witum aiþþau ƕas uslauk imma þo augona weis ni witum
@@ -32238,8 +32238,8 @@
 4	alla	alls	ADJ	Px	Case=Nom|Gender=Neut|Number=Plur	2	nsubj	_	ref=1COR_12.19
 5	ains	ains	NUM	Ma	Case=Nom|Gender=Masc|Number=Sing	6	nummod	_	ref=1COR_12.19
 6	liþus	liþus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	2	xcomp	_	ref=1COR_12.19
-7	ƕar	ƕar	ADV	Du	PronType=Int	1	xcomp	_	ref=1COR_12.19
-8	leik	leik	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	1	nsubj	_	ref=1COR_12.19
+7	ƕar	ƕar	ADV	Du	PronType=Int	2	xcomp	_	ref=1COR_12.19
+8	leik	leik	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	2	nsubj	_	ref=1COR_12.19
 
 # source = The Gothic Bible, 1 Corinthians 12
 # text = iþ nu managai liþjus iþ ain leik
@@ -32334,17 +32334,17 @@
 4	allos	alls	DET	Px	Case=Acc|Gender=Fem|Number=Plur	5	det	_	ref=1COR_13.3
 5	aihtins	aihts	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	3	obj	_	ref=1COR_13.3
 6	meinos	meins	ADJ	Ps	Case=Acc|Gender=Fem|Number=Plur|Person=1|Poss=Yes	5	nmod	_	ref=1COR_13.3
-7	jah	jah	CCONJ	C-	_	2	cc	_	ref=1COR_13.3
+7	jah	jah	CCONJ	C-	_	3	cc	_	ref=1COR_13.3
 8	jabai	jabai	SCONJ	G-	_	9	mark	_	ref=1COR_13.3
-9	atgibau	at-giban	VERB	V-	Mood=Opt|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	ref=1COR_13.3
+9	atgibau	at-giban	VERB	V-	Mood=Opt|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	ref=1COR_13.3
 10	leik	leik	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	9	obj	_	ref=1COR_13.3
 11	mein	meins	ADJ	Ps	Case=Nom|Gender=Neut|Number=Sing|Person=1|Poss=Yes	10	nmod	_	ref=1COR_13.3
 12	ei	ei	SCONJ	G-	_	13	mark	_	ref=1COR_13.3
 13	gabrannjaidau	ga-brannjan	VERB	V-	Mood=Opt|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Pass	9	advcl	_	ref=1COR_13.3
-14	iþ	iþ	CCONJ	C-	_	2	cc	_	ref=1COR_13.3
+14	iþ	iþ	CCONJ	C-	_	3	cc	_	ref=1COR_13.3
 15	friaþwa	frijaþwa	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	17	obj	_	ref=1COR_13.3
 16	ni	ni	ADV	Df	Polarity=Neg	17	advmod	_	ref=1COR_13.3
-17	habau	haban	VERB	V-	Mood=Opt|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	ref=1COR_13.3
+17	habau	haban	VERB	V-	Mood=Opt|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	ref=1COR_13.3
 18	ni	ni	ADV	Df	Polarity=Neg	19	advmod	_	ref=1COR_13.3
 19	waiht	waiht	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	22	obj	_	ref=1COR_13.3
 20	botos	bota	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	19	nmod	_	ref=1COR_13.3
@@ -32760,11 +32760,11 @@
 3	ƕas	ƕas	ADJ	Px	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	ref=1COR_14.27
 4	rodjai	rodjan	VERB	V-	Mood=Opt|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=1COR_14.27
 5	bi	bi	ADP	R-	_	6	case	_	ref=1COR_14.27
-6	twans	twai	NUM	Ma	Case=Acc|Gender=Masc|Number=Plur	1	obl	_	ref=1COR_14.27
+6	twans	twai	NUM	Ma	Case=Acc|Gender=Masc|Number=Plur	4	obl	_	ref=1COR_14.27
 7	aiþþau	aiþþau	CCONJ	C-	_	6	cc	_	ref=1COR_14.27
 8	maist	mikils	ADJ	A-	Case=Acc|Degree=Sup|Gender=Neut|Number=Sing|Strength=Strong	9	advmod	_	ref=1COR_14.27
 9	þrins	þreis*	NUM	Ma	Case=Acc|Gender=Masc|Number=Plur	6	conj	_	ref=1COR_14.27
-10	jah	jah	CCONJ	C-	_	1	cc	_	ref=1COR_14.27
+10	jah	jah	CCONJ	C-	_	4	cc	_	ref=1COR_14.27
 
 # source = The Gothic Bible, 1 Corinthians 15
 # text = Aþþan kannja izwis broþrjus þatei aiwaggeli þatei merida izwis þatuh jah andnemuþ in þammei jah standiþ þairh þatei jah ganisiþ
@@ -32822,21 +32822,21 @@
 13	unsaros	unsar	ADJ	Ps	Case=Acc|Gender=Fem|Number=Plur|Person=1|Poss=Yes	12	nmod	_	ref=1COR_15.3
 14	afar	afar	ADP	R-	_	15	case	_	ref=1COR_15.3
 15	bokom	boka	NOUN	Nb	Case=Dat|Gender=Fem|Number=Plur	10	obl	_	ref=1COR_15.3
-16	jaþ	jah	CCONJ	C-	_	8	cc	_	ref=1COR_15.4
+16	jaþ	jah	CCONJ	C-	_	10	cc	_	ref=1COR_15.4
 17	þatei	þatei	SCONJ	G-	_	19	mark	_	ref=1COR_15.4
 18	ganawistroþs	ga-nawistron	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	19	xcomp	_	ref=1COR_15.4
-19	was	wisan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	8	conj	_	ref=1COR_15.4|LId=1
-20	jaþ	jah	CCONJ	C-	_	8	cc	_	ref=1COR_15.4
+19	was	wisan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	10	conj	_	ref=1COR_15.4|LId=1
+20	jaþ	jah	CCONJ	C-	_	10	cc	_	ref=1COR_15.4
 21	þatei	þatei	SCONJ	G-	_	22	mark	_	ref=1COR_15.4
-22	urrais	ur-reisan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	8	conj	_	ref=1COR_15.4
+22	urrais	ur-reisan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	10	conj	_	ref=1COR_15.4
 23	þridjin	þridja	ADJ	Mo	Case=Dat|Gender=Masc,Neut|Number=Sing	24	nmod	_	ref=1COR_15.4
 24	daga	dags	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	22	obl	_	ref=1COR_15.4
 25	afar	afar	ADP	R-	_	26	case	_	ref=1COR_15.4
 26	bokom	boka	NOUN	Nb	Case=Dat|Gender=Fem|Number=Plur	22	obl	_	ref=1COR_15.4
-27	jaþ	jah	CCONJ	C-	_	8	cc	_	ref=1COR_15.5
+27	jaþ	jah	CCONJ	C-	_	10	cc	_	ref=1COR_15.5
 28	þatei	þatei	SCONJ	G-	_	30	mark	_	ref=1COR_15.5
 29	ataugids	at-augjan	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	30	xcomp	_	ref=1COR_15.5
-30	ist	wisan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	conj	_	ref=1COR_15.5|LId=1
+30	ist	wisan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	conj	_	ref=1COR_15.5|LId=1
 31	Kefin	Kefas	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	29	iobj	_	ref=1COR_15.5
 32	jah	jah	CCONJ	C-	_	30	cc	_	ref=1COR_15.5
 33	afar	afar	ADP	R-	_	34	case	_	ref=1COR_15.5
@@ -34714,13 +34714,13 @@
 10	þairh	þairh	ADP	R-	_	12	case	_	ref=2COR_2.4
 11	managa	manags	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur|Strength=Strong	12	amod	_	ref=2COR_2.4
 12	tagra	tagr	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	8	obl	_	ref=2COR_2.4
-13	ni	ni	ADV	Df	Polarity=Neg	14	advmod	_	ref=2COR_2.4
+13	ni	ni	ADV	Df	Polarity=Neg	15	advmod	_	ref=2COR_2.4
 14	þeei	þeei	SCONJ	G-	_	15	mark	_	ref=2COR_2.4
 15	saurgaiþ	saurgan	VERB	V-	Mood=Opt|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	8	advcl	_	ref=2COR_2.4
-16	ak	ak	CCONJ	C-	_	14	cc	_	ref=2COR_2.4
+16	ak	ak	CCONJ	C-	_	15	cc	_	ref=2COR_2.4
 17	ei	ei	SCONJ	G-	_	19	mark	_	ref=2COR_2.4
 18	frijaþwa	frijaþwa	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	19	obj	_	ref=2COR_2.4
-19	kunneiþ	kunnan	VERB	V-	Mood=Opt|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	14	conj	_	ref=2COR_2.4|LId=1
+19	kunneiþ	kunnan	VERB	V-	Mood=Opt|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	15	conj	_	ref=2COR_2.4|LId=1
 20	þoei	saei	PRON	Pr	Case=Acc|Gender=Fem|Number=Sing|PronType=Rel	21	obj	_	ref=2COR_2.4
 21	haba	haban	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	18	acl	_	ref=2COR_2.4
 22	ufarassau	ufarassus	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	24	obl	_	ref=2COR_2.4
@@ -35209,7 +35209,7 @@
 14	ana	ana	ADP	R-	_	15	case	_	ref=2COR_3.13
 15	andawleizn	andawleizn	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	12	obl	_	ref=2COR_3.13
 16	duþe	duþe	SCONJ	G-	_	19	mark	_	ref=2COR_3.13
-17	ei	ei	SCONJ	G-	_	16	advmod	_	ref=2COR_3.13
+17	ei	ei	SCONJ	G-	_	19	advmod	_	ref=2COR_3.13
 18	ni	ni	ADV	Df	Polarity=Neg	19	advmod	_	ref=2COR_3.13
 19	fairweitidedeina	fair-weitjan	VERB	V-	Mood=Opt|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	12	advcl	_	ref=2COR_3.13
 20	sunjus	sunus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	19	nsubj	_	ref=2COR_3.13
@@ -37181,9 +37181,9 @@
 2	unhrains	unhrains	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	3	xcomp	_	ref=2COR_11.6
 3	im	wisan	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=2COR_11.6|LId=1
 4	waurda	waurd	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	3	obl	_	ref=2COR_11.6
-5	akei	akei	CCONJ	C-	_	1	cc	_	ref=2COR_11.6
-6	ni	ni	ADV	Df	Polarity=Neg	1	advmod	_	ref=2COR_11.6
-7	kunþja	kunþi	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	1	obl	_	ref=2COR_11.6
+5	akei	akei	CCONJ	C-	_	3	cc	_	ref=2COR_11.6
+6	ni	ni	ADV	Df	Polarity=Neg	3	advmod	_	ref=2COR_11.6
+7	kunþja	kunþi	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	3	obl	_	ref=2COR_11.6
 
 # source = The Gothic Bible, 2 Corinthians 11
 # text = aþþan in allamma gabairhtidai in allaim du izwis
@@ -37452,21 +37452,21 @@
 5	gaþiwaiþ	ga-þiwan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	ccomp	_	ref=2COR_11.20
 6	jabai	jabai	SCONJ	G-	_	8	mark	_	ref=2COR_11.20
 7	ƕas	ƕas	ADJ	Px	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	ref=2COR_11.20
-8	fraïtiþ	fra-ïtan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	ref=2COR_11.20
+8	fraïtiþ	fra-ïtan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	conj	_	ref=2COR_11.20
 9	jabai	jabai	SCONJ	G-	_	11	mark	_	ref=2COR_11.20
 10	ƕas	ƕas	ADJ	Px	Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	ref=2COR_11.20
-11	usnimiþ	us-niman	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	ref=2COR_11.20
+11	usnimiþ	us-niman	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	conj	_	ref=2COR_11.20
 12	jabai	jabai	SCONJ	G-	_	16	mark	_	ref=2COR_11.20
 13	ƕas	ƕas	ADJ	Px	Case=Nom|Gender=Masc|Number=Sing	16	nsubj	_	ref=2COR_11.20
 14	in	in	ADP	R-	_	15	case	_	ref=2COR_11.20
 15	arbaidai	arbaiþs	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	16	obl	_	ref=2COR_11.20
-16	briggiþ	briggan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	ref=2COR_11.20
+16	briggiþ	briggan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	conj	_	ref=2COR_11.20
 17	jabai	jabai	SCONJ	G-	_	22	mark	_	ref=2COR_11.20
 18	ƕas	ƕas	ADJ	Px	Case=Nom|Gender=Masc|Number=Sing	22	nsubj	_	ref=2COR_11.20
 19	izwis	jūs	PRON	Pp	Case=Acc|Gender=Masc|Number=Plur|Person=2|PronType=Prs	22	obj	_	ref=2COR_11.20
 20	in	in	ADP	R-	_	21	case	_	ref=2COR_11.20
 21	andawleizn	andawleizn	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	22	obl	_	ref=2COR_11.20
-22	slahiþ	slahan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	ref=2COR_11.20
+22	slahiþ	slahan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	conj	_	ref=2COR_11.20
 
 # source = The Gothic Bible, 2 Corinthians 11
 # text = bi unsweriþai qiþa swe þatei weis siukai weseima
@@ -38255,7 +38255,7 @@
 20	mik	ik	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=1|PronType=Prs	19	obj	_	ref=2COR_12.20
 21	ibai	ibai	SCONJ	G-	_	23	mark	_	ref=2COR_12.20
 22	aufto	aufto	ADV	Df	_	23	orphan	_	ref=2COR_12.20
-23	þwairheins	þwairhei	NOUN	Nb	Case=Nom|Gender=Fem|Number=Plur	3	conj	_	ref=2COR_12.20
+23	þwairheins	þwairhei	NOUN	Nb	Case=Nom|Gender=Fem|Number=Plur	10	conj	_	ref=2COR_12.20
 24	aljan	aljan	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	23	conj	_	ref=2COR_12.20
 25	jiukos	jiuka	NOUN	Nb	Case=Nom|Gender=Fem|Number=Plur	23	conj	_	ref=2COR_12.20
 26	bihaita	bihait	NOUN	Nb	Case=Nom|Gender=Neut|Number=Plur	23	conj	_	ref=2COR_12.20
@@ -38476,12 +38476,12 @@
 3	weis	weis	PRON	Pp	Case=Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	5	nsubj	_	ref=2COR_13.7
 4	gakusanai	ga-kiusan	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	5	xcomp	_	ref=2COR_13.7
 5	þugkjaima	þugkjan	VERB	V-	Mood=Opt|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=2COR_13.7
-6	ak	ak	CCONJ	C-	_	2	cc	_	ref=2COR_13.7
+6	ak	ak	CCONJ	C-	_	5	cc	_	ref=2COR_13.7
 7	ei	ei	SCONJ	G-	_	11	mark	_	ref=2COR_13.7
 8	jus	jūs	PRON	Pp	Case=Nom|Gender=Masc|Number=Plur|Person=2|PronType=Prs	11	nsubj	_	ref=2COR_13.7
 9	þata	sa	DET	Pd	Case=Acc|Gender=Neut|Number=Sing	10	det	_	ref=2COR_13.7
 10	godo	goþs	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	11	obj	_	ref=2COR_13.7
-11	taujaiþ	taujan	VERB	V-	Mood=Opt|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	ref=2COR_13.7
+11	taujaiþ	taujan	VERB	V-	Mood=Opt|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	5	conj	_	ref=2COR_13.7
 12	iþ	iþ	CCONJ	C-	_	11	cc	_	ref=2COR_13.7
 13	weis	weis	PRON	Pp	Case=Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	16	nsubj	_	ref=2COR_13.7
 14	swe	swe	ADV	Df	_	16	xcomp	_	ref=2COR_13.7
@@ -40283,7 +40283,7 @@
 11	in	in	ADP	R-	_	12	case	_	ref=EPH_3.3
 12	leitilamma	leitils	ADJ	A-	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	10	advmod	_	ref=EPH_3.3
 13	duþþe	duþe	SCONJ	G-	_	16	mark	_	ref=EPH_3.4
-14	ei	ei	SCONJ	G-	_	13	advmod	_	ref=EPH_3.4
+14	ei	ei	SCONJ	G-	_	16	advmod	_	ref=EPH_3.4
 15	siggwandans	siggwan	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Strength=Weak|Tense=Pres|VerbForm=Part|Voice=Act	16	advcl	_	ref=EPH_3.4
 16	mageiþ	magan*	VERB	V-	Mood=Opt|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	5	advcl	_	ref=EPH_3.4
 17	fraþjan	fraþjan	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	16	xcomp	_	ref=EPH_3.4
@@ -41591,7 +41591,7 @@
 27	du	du	ADP	R-	_	28	case	_	ref=EPH_6.22
 28	izwis	jūs	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=2|PronType=Prs	26	obl	_	ref=EPH_6.22
 29	duþþe	duþe	SCONJ	G-	_	31	mark	_	ref=EPH_6.22
-30	ei	ei	SCONJ	G-	_	29	advmod	_	ref=EPH_6.22
+30	ei	ei	SCONJ	G-	_	31	advmod	_	ref=EPH_6.22
 31	kunneiþ	kunnan	VERB	V-	Mood=Opt|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	26	advcl	_	ref=EPH_6.22|LId=1
 32	ƕa	ƕas	PRON	Pi	Case=Nom|Gender=Neut|Number=Sing|PronType=Int	35	nsubj	_	ref=EPH_6.22
 33	bi	bi	ADP	R-	_	34	case	_	ref=EPH_6.22
@@ -42352,8 +42352,8 @@
 5	trauan	trauan	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	4	xcomp	_	ref=PHIL_3.4
 6	in	in	ADP	R-	_	7	case	_	ref=PHIL_3.4
 7	leika	leik	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	5	obl	_	ref=PHIL_3.4
-8	ik	ik	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	1	nsubj	_	ref=PHIL_3.4
-9	mais	mais	ADV	Df	Degree=Cmp	1	advmod	_	ref=PHIL_3.4
+8	ik	ik	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	ref=PHIL_3.4
+9	mais	mais	ADV	Df	Degree=Cmp	4	advmod	_	ref=PHIL_3.4
 
 # source = The Gothic Bible, Philippians 3
 # text = bimait ahtaudogs us knodai Israelis kunjis Bainiameinis Haibraius us Haibraium bi witoda Fareisaius bi aljana wrakjands aikklesjon bi garaihtein þizai sei in witoda ist wisands usfairina
@@ -42566,7 +42566,7 @@
 # source = The Gothic Bible, Philippians 3
 # text = jah jabai ƕa aljaleikos hugjiþ jah þata izwis guþ andhuljiþ
 # sent_id = 46181
-1	jah	jah	CCONJ	C-	_	2	cc	_	ref=PHIL_3.15
+1	jah	jah	CCONJ	C-	_	5	cc	_	ref=PHIL_3.15
 2	jabai	jabai	SCONJ	G-	_	5	mark	_	ref=PHIL_3.15
 3	ƕa	ƕas	ADJ	Px	Case=Acc|Gender=Neut|Number=Sing	5	obl	_	ref=PHIL_3.15
 4	aljaleikos	aljaleikos	ADV	Df	Degree=Cmp	5	advmod	_	ref=PHIL_3.15
@@ -43508,7 +43508,7 @@
 21	du	du	ADP	R-	_	22	case	_	ref=COL_4.8
 22	izwis	jūs	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=2|PronType=Prs	20	obl	_	ref=COL_4.8
 23	duþe	duþe	SCONJ	G-	_	25	mark	_	ref=COL_4.8
-24	ei	ei	SCONJ	G-	_	23	advmod	_	ref=COL_4.8
+24	ei	ei	SCONJ	G-	_	25	advmod	_	ref=COL_4.8
 25	kunnjai	kunnan	VERB	V-	Mood=Opt|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	20	advcl	_	ref=COL_4.8|LId=1
 26	ƕa	ƕas	PRON	Pi	Case=Nom|Gender=Neut|Number=Sing|PronType=Int	29	nsubj	_	ref=COL_4.8
 27	bi	bi	ADP	R-	_	28	case	_	ref=COL_4.8
@@ -45297,7 +45297,7 @@
 4	usluto	us-luton	VERB	V-	Mood=Opt|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=2THESS_2.3
 5	ƕamma	ƕas	DET	Px	Case=Dat|Gender=Masc,Neut|Number=Sing	6	det	_	ref=2THESS_2.3
 6	haidau	haidus	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	4	obl	_	ref=2THESS_2.3
-7	unte	unte	SCONJ	G-	_	8	mark	_	ref=2THESS_2.3
+7	unte	unte	SCONJ	G-	_	9	mark	_	ref=2THESS_2.3
 8	niba	nibai	SCONJ	G-	_	9	mark	_	ref=2THESS_2.3
 9	qimiþ	qiman	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	advcl	_	ref=2THESS_2.3
 10	afstass	afstass	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	9	nsubj	_	ref=2THESS_2.3
@@ -45390,9 +45390,9 @@
 15	jah	jah	ADV	Df	_	17	advmod	_	ref=2THESS_3.1
 16	at	at	ADP	R-	_	17	case	_	ref=2THESS_3.1
 17	izwis	jūs	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=2|PronType=Prs	14	obl	_	ref=2THESS_3.1
-18	jah	jah	CCONJ	C-	_	8	cc	_	ref=2THESS_3.2
+18	jah	jah	CCONJ	C-	_	11	cc	_	ref=2THESS_3.2
 19	ei	ei	SCONJ	G-	_	20	mark	_	ref=2THESS_3.2
-20	uslausjaindau	us-lausjan	VERB	V-	Mood=Opt|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Pass	8	conj	_	ref=2THESS_3.2
+20	uslausjaindau	us-lausjan	VERB	V-	Mood=Opt|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Pass	11	conj	_	ref=2THESS_3.2
 21	af	af	ADP	R-	_	25	case	_	ref=2THESS_3.2
 22	gastojanaim	ga-stojan	VERB	V-	Aspect=Perf|Case=Dat|Number=Plur|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	25	acl	_	ref=2THESS_3.2
 23	jah	jah	CCONJ	C-	_	22	cc	_	ref=2THESS_3.2
