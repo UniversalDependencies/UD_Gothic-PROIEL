@@ -3946,8 +3946,8 @@
 1	andanahtja	andanahti	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	3	nsubj:pass	_	ref=MARK_1.32
 2	þan	þan	ADV	Df	_	7	discourse	_	ref=MARK_1.32
 3	waurþanamma	wairþan	VERB	V-	Aspect=Perf|Case=Dat|Gender=Neut|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	7	advcl	_	ref=MARK_1.32
-4	þan	þan	ADV	Df	_	7	advmod	_	ref=MARK_1.32
-5	gasaggq	ga-siggqan	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	aux	_	ref=MARK_1.32
+4	þan	þan	ADV	Dq	PronType=Rel	5	advmod	_	ref=MARK_1.32
+5	gasaggq	ga-siggqan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	7	advcl	_	ref=MARK_1.32
 6	sauil	sauïl	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	5	nsubj	_	ref=MARK_1.32
 7	berun	bairan	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=MARK_1.32
 8	du	du	ADP	R-	_	9	case	_	ref=MARK_1.32
@@ -6249,7 +6249,7 @@
 11	keiniþ	keinan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	ref=MARK_4.27
 12	jah	jah	CCONJ	C-	_	11	cc	_	ref=MARK_4.27
 13	liudiþ	liudan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	conj	_	ref=MARK_4.27
-14	swe	swe	SCONJ	G-	_	16	advmod	_	ref=MARK_4.27
+14	swe	swe	ADV	Dq	PronType=Rel	16	advmod	_	ref=MARK_4.27
 15	ni	ni	ADV	Df	Polarity=Neg	16	advmod	_	ref=MARK_4.27
 16	wait	witan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	advcl	_	ref=MARK_4.27|LId=1
 17	is	is	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	nsubj	_	ref=MARK_4.27
@@ -26944,7 +26944,7 @@
 # source = The Gothic Bible, John 15
 # text = swe sa weinatains ni mag akran bairan af sis silbin niba ist ana weinatriwa swah nih jus niba in mis sijuþ
 # sent_id = 43968
-1	swe	swe	SCONJ	G-	_	5	advmod	_	ref=JOHN_15.4
+1	swe	swe	ADV	Dq	PronType=Rel	5	advmod	_	ref=JOHN_15.4
 2	sa	sa	DET	Pd	Case=Nom|Gender=Masc|Number=Sing	3	det	_	ref=JOHN_15.4
 3	weinatains	weinatains	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	ref=JOHN_15.4
 4	ni	ni	ADV	Df	Polarity=Neg	5	advmod	_	ref=JOHN_15.4
@@ -41294,7 +41294,7 @@
 3	frijoþ	frijon	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=EPH_5.25
 4	qenins	qens	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	3	obj	_	ref=EPH_5.25
 5	izwaros	izwar	ADJ	Ps	Case=Acc|Gender=Fem|Number=Plur|Person=2|Poss=Yes	4	nmod	_	ref=EPH_5.25
-6	swaswe	swaswe	SCONJ	G-	_	9	advmod	_	ref=EPH_5.25
+6	swaswe	swaswe	ADV	Dq	PronType=Rel	9	advmod	_	ref=EPH_5.25
 7	jah	jah	ADV	Df	_	9	advmod	_	ref=EPH_5.25
 8	Xristus	Xristus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	ref=EPH_5.25
 9	frijoda	frijon	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	advcl	_	ref=EPH_5.25
@@ -43754,7 +43754,7 @@
 10	þaim	sa	DET	Pd	Case=Dat|Number=Plur	11	det	_	ref=1THESS_2.10
 11	galaubjandam	ga-laubjan	VERB	V-	Case=Dat|Gender=Masc|Number=Plur|Strength=Weak|Tense=Pres|VerbForm=Part|Voice=Act	9	appos	_	ref=1THESS_2.10
 12	wesum	wisan	AUX	V-	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	4	cop	_	ref=1THESS_2.10|LId=1
-13	swaswe	swaswe	SCONJ	G-	_	14	advmod	_	ref=1THESS_2.11
+13	swaswe	swaswe	ADV	Dq	PronType=Rel	14	advmod	_	ref=1THESS_2.11
 14	wituþ	witan	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	21	advcl	_	ref=1THESS_2.11|LId=1
 15	ainƕarjanoh	ainƕarjizuh	ADJ	Px	Case=Acc|Gender=Masc|Number=Sing	21	obj	_	ref=1THESS_2.11
 16	izwara	jūs	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=2|PronType=Prs	15	nmod	_	ref=1THESS_2.11
