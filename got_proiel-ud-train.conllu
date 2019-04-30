@@ -3947,7 +3947,7 @@
 2	þan	þan	ADV	Df	_	7	discourse	_	ref=MARK_1.32
 3	waurþanamma	wairþan	VERB	V-	Aspect=Perf|Case=Dat|Gender=Neut|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	7	advcl	_	ref=MARK_1.32
 4	þan	þan	ADV	Df	_	7	advmod	_	ref=MARK_1.32
-5	gasaggq	ga-siggqan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	aux	_	ref=MARK_1.32
+5	gasaggq	ga-siggqan	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	aux	_	ref=MARK_1.32
 6	sauil	sauïl	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	5	nsubj	_	ref=MARK_1.32
 7	berun	bairan	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=MARK_1.32
 8	du	du	ADP	R-	_	9	case	_	ref=MARK_1.32
