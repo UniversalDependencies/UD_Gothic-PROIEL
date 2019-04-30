@@ -5116,7 +5116,7 @@
 9	twai	twai	NUM	Ma	Case=Nom|Gender=Masc|Number=Plur	8	nummod	_	ref=LUKE_9.13
 10	niba	nibai	SCONJ	G-	_	15	mark	_	ref=LUKE_9.13
 11	þau	þau	ADV	Df	_	15	advmod	_	ref=LUKE_9.13
-12	þatei	þatei	SCONJ	G-	_	15	advmod	_	ref=LUKE_9.13
+12	þatei	þatei	SCONJ	G-	_	15	mark	_	ref=LUKE_9.13
 13	weis	weis	PRON	Pp	Case=Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	15	nsubj	_	ref=LUKE_9.13
 14	gaggandans	gaggan	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Strength=Weak|Tense=Pres|VerbForm=Part|Voice=Act	15	advcl	_	ref=LUKE_9.13
 15	bugjaima	bugjan	VERB	V-	Mood=Opt|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	1	advcl	_	ref=LUKE_9.13
