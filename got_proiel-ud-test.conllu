@@ -13832,7 +13832,7 @@
 4	bimaita	bimait	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	1	obl	_	ref=COL_2.11
 5	Xristaus	Xristus	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	ref=COL_2.11
 6	miþ	miþ-ganawistron	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	1	advcl	_	ref=COL_2.12
-7	ganawistrodai	ganawistrodai	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	6	flat	_	ref=COL_2.12
+7	ganawistrodai	ganawistrodai	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	6	fixed	_	ref=COL_2.12
 8	imma	is	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	iobj	_	ref=COL_2.12
 9	in	in	ADP	R-	_	10	case	_	ref=COL_2.12
 10	daupeinai	daupeins	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	6	obl	_	ref=COL_2.12

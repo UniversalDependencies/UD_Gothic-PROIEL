@@ -3529,7 +3529,7 @@
 5	auþidai	auþida	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	9	obl	_	ref=MARK_1.13
 6	dage	dags	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	7	nmod	_	ref=MARK_1.13
 7	fidwor	fidwor	NUM	Ma	Case=Acc|Gender=Neut|Number=Plur	9	obl	_	ref=MARK_1.13
-8	tiguns	tigjus	NUM	Ma	Case=Acc|Gender=Neut|Number=Plur	7	flat	_	ref=MARK_1.13
+8	tiguns	tigjus	NUM	Ma	Case=Acc|Gender=Neut|Number=Plur	7	fixed	_	ref=MARK_1.13
 9	fraisans	fraisan	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	ref=MARK_1.13
 10	fram	fram	ADP	R-	_	11	case	_	ref=MARK_1.13
 11	Satanin	Satana	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	9	obl:agent	_	ref=MARK_1.13
@@ -8515,7 +8515,7 @@
 28	ni	ni	ADV	Df	Polarity=Neg	29	advmod	_	ref=MARK_10.30
 29	andnimai	and-niman	VERB	V-	Mood=Opt|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	conj	_	ref=MARK_10.30
 30	·r·	taihuntaihundfalþs	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	29	advmod	_	ref=MARK_10.30
-31	falþ	falþ	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	30	flat	_	ref=MARK_10.30
+31	falþ	falþ	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	30	fixed	_	ref=MARK_10.30
 32	nu	nu	ADV	Df	_	29	advmod	_	ref=MARK_10.30
 33	in	in	ADP	R-	_	35	case	_	ref=MARK_10.30
 34	þamma	sa	DET	Pd	Case=Dat|Gender=Masc,Neut|Number=Sing	35	det	_	ref=MARK_10.30
