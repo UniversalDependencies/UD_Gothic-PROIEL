@@ -3,9 +3,9 @@ commit d71d1b63fd448a8b098d4b5a0329f8da3f7413b0
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 Date:   Sat Apr 21 19:02:58 2018 +0200
 Evaluating the following revision of UD_Gothic-PROIEL:
-commit 327088f93735c60e186526d8bdd19ab2df6f29ce
+commit eba16cda1b52fde77e93aba01e57d7037145de46
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Fri May 10 21:18:21 2019 +0200
+Date:   Tue Nov 12 17:14:49 2019 +0100
 Size: counted 55336 of 55336 words (nodes).
 Size: min(0, log((N/1000)**2)) = 8.02684738259657.
 Size: maximum value 13.815511 is for 1000000 words or more.
