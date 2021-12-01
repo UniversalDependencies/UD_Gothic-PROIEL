@@ -20,6 +20,9 @@ The development set consists of Matthew 5 and 6, Mark 5 and 6, Luke 4, 7, 8 and 
 
 # Changelog
 
+* 2022-05-15 UD 2.10
+  * MISC ref= changed to Ref= to match other UD treebanks.
+
 V2.2 Repository renamed from UD_Gothic to UD_Gothic-PROIEL.
 V2.0 The treebank was converted to UDv2 and the data splits were changed.
 
