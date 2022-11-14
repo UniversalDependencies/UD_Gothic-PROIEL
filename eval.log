@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit ba6fbf413cb14afa25145b931c79fb60ef9456e2
-Author: www-data (nschneid) <nschneid@github.com>
-Date:   Wed May 11 05:10:30 2022 +0200
-Evaluating the following revision of UD_Gothic-PROIEL:
-commit a66f2bf2c109e1f5a09e3ae90dcaf7d5fbcdaded
-Merge: fd20059 a9faab8
+commit 13e6b709a8bc643c3f902800321a7beda46feb8d
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Sun Nov 13 22:03:41 2022 +0100
+Evaluating the following revision of UD_Gothic-PROIEL:
+commit a1f64e72abed7efbe2db776a29624e74a8be9cd1
+Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Sat May 14 14:26:53 2022 +0200
 Size: counted 55336 of 55336 words (nodes).
 Size: min(0, log((N/1000)**2)) = 8.02684738259657.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -25,11 +25,18 @@ Udapi: found 2992 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 55336 words.
 Genres: found 1 out of 17 known.
 validate.py --lang got --max-err=10 UD_Gothic-PROIEL/got_proiel-ud-dev.conllu
+[Line 2927 Sent 37678 Node 9]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [7, 11]. Outer subjects are allowed if a clause acts as the predicate of another clause.
+[Line 5947 Sent 45433 Node 11]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [2, 6]. Outer subjects are allowed if a clause acts as the predicate of another clause.
+[Line 7802 Sent 45949 Node 24]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [6, 22]. Outer subjects are allowed if a clause acts as the predicate of another clause.
+[Line 8839 Sent 43671 Node 12]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [14, 16]. Outer subjects are allowed if a clause acts as the predicate of another clause.
+[Line 8999 Sent 43682 Node 6]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [4, 5]. Outer subjects are allowed if a clause acts as the predicate of another clause.
+[Line 10558 Sent 44093 Node 7]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [9, 11]. Outer subjects are allowed if a clause acts as the predicate of another clause.
+[Line 11750 Sent 44277 Node 5]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [3, 6]. Outer subjects are allowed if a clause acts as the predicate of another clause.
+[Line 11760 Sent 44278 Node 4]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [1, 8]. Outer subjects are allowed if a clause acts as the predicate of another clause.
 [Line 12593 Sent 46295 Node 5]: [L3 Syntax orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'obl'.
-[Line 12763 Sent 44706 Node 34]: [L3 Syntax orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'appos'.
-[Line 12766 Sent 44706 Node 37]: [L3 Syntax orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'appos'.
-Syntax errors: 3
-*** FAILED *** with 3 errors
+...suppressing further errors regarding Syntax
+Syntax errors: 11
+*** FAILED *** with 11 errors
 Exit code: 1
 validate.py --lang got --max-err=10 UD_Gothic-PROIEL/got_proiel-ud-test.conllu
 [Line 2380 Sent 37794 Node 7]: [L3 Syntax orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'obl'.
@@ -42,22 +49,22 @@ validate.py --lang got --max-err=10 UD_Gothic-PROIEL/got_proiel-ud-test.conllu
 [Line 5602 Sent 45573 Node 25]: [L3 Syntax orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'appos'.
 [Line 5603 Sent 45573 Node 26]: [L3 Syntax orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'orphan'.
 ...suppressing further errors regarding Syntax
-Syntax errors: 22
-*** FAILED *** with 22 errors
+Syntax errors: 23
+*** FAILED *** with 23 errors
 Exit code: 1
 validate.py --lang got --max-err=10 UD_Gothic-PROIEL/got_proiel-ud-train.conllu
+[Line 968 Sent 47093 Node 10]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [9, 11]. Outer subjects are allowed if a clause acts as the predicate of another clause.
+[Line 997 Sent 47096 Node 8]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [5, 6]. Outer subjects are allowed if a clause acts as the predicate of another clause.
+[Line 1002 Sent 47096 Node 13]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [10, 11]. Outer subjects are allowed if a clause acts as the predicate of another clause.
 [Line 5846 Sent 37539 Node 16]: [L3 Syntax orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'appos'.
 [Line 5847 Sent 37539 Node 17]: [L3 Syntax orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'appos'.
 [Line 5848 Sent 37539 Node 18]: [L3 Syntax orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'appos'.
 [Line 5849 Sent 37539 Node 19]: [L3 Syntax orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'orphan'.
 [Line 5851 Sent 37539 Node 21]: [L3 Syntax orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'appos'.
 [Line 5852 Sent 37539 Node 22]: [L3 Syntax orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'orphan'.
-[Line 6093 Sent 37551 Node 20]: [L3 Syntax orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'appos'.
-[Line 6094 Sent 37551 Node 21]: [L3 Syntax orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'appos'.
-[Line 6095 Sent 37551 Node 22]: [L3 Syntax orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'appos'.
 ...suppressing further errors regarding Syntax
-Syntax errors: 51
-*** FAILED *** with 51 errors
+Syntax errors: 76
+*** FAILED *** with 76 errors
 Exit code: 1
 Validity: 0.01
 (weight=0.0769230769230769) * (score{features}=0.8) = 0.0615384615384615
