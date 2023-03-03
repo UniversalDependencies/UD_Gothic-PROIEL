@@ -14018,10 +14018,10 @@
 3	all	alls	DET	Px	Case=Nom|Gender=Neut|Number=Sing	1	det	_	Ref=COL_2.22
 4	du	du	ADP	R-	_	5	case	_	Ref=COL_2.22
 5	riurein	riurei	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	0	root	_	Ref=COL_2.22
-6	þairh	þairh	ADP	R-	_	5	advmod	_	Ref=COL_2.22
+6	þairh	þairh	ADP	R-	_	9	mark	_	Ref=COL_2.22
 7	þatei	þatei	SCONJ	G-	_	9	mark	_	Ref=COL_2.22
 8	is	is	PRON	Pp	Case=Gen|Gender=Neut|Number=Sing|Person=3|PronType=Prs	9	nsubj:pass	_	Ref=COL_2.22
-9	brukjaidau	brūkjan	VERB	V-	Mood=Opt|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	6	ccomp	_	Ref=COL_2.22
+9	brukjaidau	brūkjan	VERB	V-	Mood=Opt|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	5	advcl	_	Ref=COL_2.22
 10	bi	bi	ADP	R-	_	11	case	_	Ref=COL_2.22
 11	anabusnim	anabusns	NOUN	Nb	Case=Dat|Gender=Fem|Number=Plur	5	obl	_	Ref=COL_2.22
 12	jah	jah	CCONJ	C-	_	11	cc	_	Ref=COL_2.22
