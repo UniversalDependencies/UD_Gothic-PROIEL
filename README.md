@@ -4,9 +4,9 @@ The UD Gothic treebank is based on the Gothic data from the PROIEL treebank, and
 
 # Introduction
 
-The UD Gothic treebank is based on the Gothic data in the PROIEL treebank, which is maintained at the Department of Philosophy, Classics, History of Arts and Ideas at the University of Oslo.  The conversion is based on the 20180408 release of the PROIEL treebank available from https://github.com/proiel/proiel-treebank/releases. The original annotators are acknowledged in the files available there. The conversion code is available in the Rubygem proiel-cli, https://github.com/proiel/proiel-cli.
+The UD Gothic treebank is based on the Gothic data in the PROIEL treebank, which is maintained at the Department of Philosophy, Classics, History of Arts and Ideas at the University of Oslo.  The conversion is based on the 20180408 release of the PROIEL treebank available from [https://github.com/proiel/proiel-treebank/releases](https://github.com/proiel/proiel-treebank/releases). The original annotators are acknowledged in the files available there. The conversion code is available in the Rubygem proiel-cli and released as part of the [PROIEL command-line interface](https://github.com/proiel/proiel-cli).
 
-The treebank contains the text of Wulfila's Bible translation. The original annotation guidelines are available at http://folk.uio.no/daghaug/syntactic_guidelines.pdf. The text and tokenization comes from the Wulfila project www.wulfila.be.
+The treebank contains the text of Wulfila's Bible (New Testament) translation. The original annotation guidelines are available at [http://folk.uio.no/daghaug/syntactic_guidelines.pdf](http://folk.uio.no/daghaug/syntactic_guidelines.pdf). The text and tokenization comes from the [Wulfila project](http://www.wulfila.be/).
 
 # Acknowledgements
 
