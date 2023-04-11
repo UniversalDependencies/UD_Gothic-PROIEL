@@ -3355,8 +3355,8 @@
 7	ainana	ains	NUM	Ma	Case=Acc|Gender=Masc|Number=Sing	4	parataxis	_	ref=MARK_15.27
 8	af	af	ADP	R-	_	9	case	_	ref=MARK_15.27
 9	taihswon	taihswa	ADJ	A-	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	7	orphan	_	ref=MARK_15.27
-10	jah	jah	CCONJ	C-	_	7	orphan	_	ref=MARK_15.27
-11	ainana	ains	NUM	Ma	Case=Acc|Gender=Masc|Number=Sing	7	orphan	_	ref=MARK_15.27
+10	jah	jah	CCONJ	C-	_	7	cc	_	ref=MARK_15.27
+11	ainana	ains	NUM	Ma	Case=Acc|Gender=Masc|Number=Sing	7	conj	_	ref=MARK_15.27
 12	af	af	ADP	R-	_	13	case	_	ref=MARK_15.27
 13	hleidumein	hleiduma	ADJ	A-	Case=Dat|Degree=Cmp|Gender=Fem|Number=Sing	11	orphan	_	ref=MARK_15.27
 14	is	is	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	det	_	ref=MARK_15.27
@@ -5598,11 +5598,11 @@
 21	þrins	þreis*	NUM	Ma	Case=Acc|Gender=Fem,Masc|Number=Plur	20	nummod	_	ref=LUKE_9.33
 22	aina	ains	NUM	Ma	Case=Acc|Gender=Fem|Number=Sing	19	parataxis	_	ref=LUKE_9.33
 23	þus	þu	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=2|PronType=Prs	22	orphan	_	ref=LUKE_9.33
-24	jah	jah	CCONJ	C-	_	22	orphan	_	ref=LUKE_9.33
-25	aina	ains	NUM	Ma	Case=Acc|Gender=Fem|Number=Sing	22	orphan	_	ref=LUKE_9.33
+24	jah	jah	CCONJ	C-	_	22	cc	_	ref=LUKE_9.33
+25	aina	ains	NUM	Ma	Case=Acc|Gender=Fem|Number=Sing	22	conj	_	ref=LUKE_9.33
 26	Mose	Moses	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	25	orphan	_	ref=LUKE_9.33
 27	jah	jah	CCONJ	C-	_	22	cc	_	ref=LUKE_9.33
-28	aina	ains	NUM	Ma	Case=Acc|Gender=Fem|Number=Sing	22	orphan	_	ref=LUKE_9.33
+28	aina	ains	NUM	Ma	Case=Acc|Gender=Fem|Number=Sing	22	conj	_	ref=LUKE_9.33
 29	Helijin	Helias	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	28	orphan	_	ref=LUKE_9.33
 30	ni	ni	ADV	Df	Polarity=Neg	31	advmod	_	ref=LUKE_9.33
 31	witands	witan	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|Variant=Short|VerbForm=Part|Voice=Act	8	advcl	_	ref=LUKE_9.33|LId=1
@@ -6979,9 +6979,9 @@
 19	þatei	saei	PRON	Pr	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	21	obj	_	ref=LUKE_10.24
 20	jus	jūs	PRON	Pp	Case=Nom|Gender=Fem,Masc|Number=Plur|Person=2|PronType=Prs	21	nsubj	_	ref=LUKE_10.24
 21	hauseiþ	hausjan	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	18	obj	_	ref=LUKE_10.24
-22	jah	jah	CCONJ	C-	_	18	orphan	_	ref=LUKE_10.24
+22	jah	jah	CCONJ	C-	_	18	cc	_	ref=LUKE_10.24
 23	ni	ni	ADV	Df	Polarity=Neg	24	advmod	_	ref=LUKE_10.24
-24	gahausidedun	ga-hausjan	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	18	orphan	_	ref=LUKE_10.24
+24	gahausidedun	ga-hausjan	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	18	conj	_	ref=LUKE_10.24
 
 # source = The Gothic Bible, Luke 10
 # text = jah sai witodafasteis sums ustoþ fraisands ina jah qiþands
@@ -11916,11 +11916,11 @@
 7	þis	sa	DET	Pd	Case=Gen|Gender=Masc,Neut|Number=Sing	9	det	_	ref=ROM_11.24
 8	wilþeins	wilþeis	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc,Neut|Number=Sing	9	amod	_	ref=ROM_11.24
 9	alewabagmis	alewabagms	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	6	obl:arg	_	ref=ROM_11.24
-10	jah	jah	CCONJ	C-	_	3	orphan	_	ref=ROM_11.24
+10	jah	jah	CCONJ	C-	_	3	cc	_	ref=ROM_11.24
 11	aljakuns	aljakuns	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	12	xcomp	_	ref=ROM_11.24
 12	wisands	wisan	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|Variant=Short|VerbForm=Part|Voice=Act	14	advcl	_	ref=ROM_11.24|LId=1
 13	intrusgans	in-trusgjan	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	14	xcomp	_	ref=ROM_11.24
-14	warst	wairþan	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	3	orphan	_	ref=ROM_11.24
+14	warst	wairþan	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	ref=ROM_11.24
 15	in	in	ADP	R-	_	17	case	_	ref=ROM_11.24
 16	godana	goþs	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	17	amod	_	ref=ROM_11.24
 17	alewabagm	alewabagms	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	13	obl	_	ref=ROM_11.24
@@ -12277,10 +12277,10 @@
 7	sums	sums	PRON	Px	Case=Nom|Gender=Masc|Number=Sing	2	conj	_	ref=1COR_11.21
 8	gredags	gredags	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	7	orphan	_	ref=1COR_11.21
 9	sumz	sums	PRON	Px	Case=Nom|Gender=Masc|Number=Sing	13	nsubj	_	ref=1COR_11.21
-10	uþ	-uh	CCONJ	C-	_	7	orphan	_	ref=1COR_11.21
+10	uþ	-uh	CCONJ	C-	_	7	cc	_	ref=1COR_11.21
 11	þan	þan	ADV	Df	_	13	discourse	_	ref=1COR_11.21
 12	drugkans	drigkan	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	13	xcomp	_	ref=1COR_11.21
-13	ist	wisan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	orphan	_	ref=1COR_11.21|LId=1
+13	ist	wisan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	conj	_	ref=1COR_11.21|LId=1
 
 # source = The Gothic Bible, 1 Corinthians 11
 # text = ibai auk gardins ni habaiþ du matjan jah drigkan
@@ -12781,9 +12781,9 @@
 4	ei	ei	SCONJ	G-	_	6	mark	_	ref=2COR_8.13
 5	anþaraim	anþar	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur|Variant=Short	6	orphan	_	ref=2COR_8.13
 6	iusila	iusila	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	2	advcl	_	ref=2COR_8.13
-7	iþ	iþ	CCONJ	C-	_	6	orphan	_	ref=2COR_8.13
+7	iþ	iþ	CCONJ	C-	_	6	cc	_	ref=2COR_8.13
 8	izwis	jūs	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=2|PronType=Prs	9	orphan	_	ref=2COR_8.13
-9	aglo	aglo	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	6	orphan	_	ref=2COR_8.13
+9	aglo	aglo	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	6	conj	_	ref=2COR_8.13
 10	ak	ak	CCONJ	C-	_	2	cc	_	ref=2COR_8.13
 11	us	us	ADP	R-	_	12	case	_	ref=2COR_8.13
 12	ibnassau	ibnassus	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	2	conj	_	ref=2COR_8.13
