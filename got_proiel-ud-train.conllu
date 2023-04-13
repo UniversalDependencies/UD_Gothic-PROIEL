@@ -19125,7 +19125,7 @@
 # source = The Gothic Bible, Luke 17
 # text = ƕas þan izwara skalk aigands arjandan aiþþau haldandan saei atgaggandin af haiþjai qiþai
 # sent_id = 45841
-1	ƕas	ƕas	PRON	Pi	Case=Nom|Gender=Masc|Number=Sing|PronType=Int	13	nsubj	_	ref=LUKE_17.7
+1	ƕas	ƕas	PRON	Pi	Case=Nom|Gender=Masc|Number=Sing|PronType=Int	13	nsubj:outer	_	ref=LUKE_17.7
 2	þan	þan	ADV	Df	_	13	discourse	_	ref=LUKE_17.7
 3	izwara	jūs	PRON	Pp	Case=Gen|Gender=Fem,Masc|Number=Plur|Person=2|PronType=Prs	1	nmod	_	ref=LUKE_17.7
 4	skalk	skalks	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	5	obj	_	ref=LUKE_17.7
@@ -35416,7 +35416,7 @@
 # text = unte guþ saei qaþ ur riqiza liuhaþ skeinan saei jah liuhtida in hairtam unsaraim du liuhadein kunþjis wulþaus gudis in andwairþja Iesuis Xristaus
 # sent_id = 46266
 1	unte	unte	ADV	Df	_	11	discourse	_	ref=2COR_4.6
-2	guþ	guþ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	ref=2COR_4.6
+2	guþ	guþ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	11	nsubj:outer	_	ref=2COR_4.6
 3	saei	saei	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	4	nsubj	_	ref=2COR_4.6
 4	qaþ	qiþan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	acl	_	ref=2COR_4.6
 5	ur	us	ADP	R-	_	6	case	_	ref=2COR_4.6

@@ -5935,7 +5935,7 @@
 # text = iþ þai ana þamma staina ize þan hausjand miþ faheidai andnimand þata waurd jah þai waurtins ni haband þaiei du mela galaubjand jah in mela fraistubnjos afstandand
 # sent_id = 45433
 1	iþ	iþ	CCONJ	C-	_	11	cc	_	ref=LUKE_8.13
-2	þai	sa	PRON	Pd	Case=Nom|Gender=Masc|Number=Plur	11	nsubj	_	ref=LUKE_8.13
+2	þai	sa	PRON	Pd	Case=Nom|Gender=Masc|Number=Plur	11	nsubj:outer	_	ref=LUKE_8.13
 3	ana	ana	ADP	R-	_	5	case	_	ref=LUKE_8.13
 4	þamma	sa	DET	Pd	Case=Dat|Gender=Masc|Number=Sing	5	det	_	ref=LUKE_8.13
 5	staina	stains	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	2	nmod	_	ref=LUKE_8.13
