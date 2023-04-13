@@ -10297,7 +10297,7 @@
 7	Iudaium	Iudaius	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	6	obl:arg	_	ref=JOHN_18.14
 8	þatei	þatei	SCONJ	G-	_	10	mark	_	ref=JOHN_18.14
 9	batizo	batiza	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	10	xcomp	_	ref=JOHN_18.14
-10	ist	wisan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	csubj:pass	_	ref=JOHN_18.14|LId=1
+10	ist	wisan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	ccomp	_	ref=JOHN_18.14|LId=1
 11	ainana	ains	NUM	Ma	Case=Acc|Gender=Masc|Number=Sing	12	nummod	_	ref=JOHN_18.14
 12	mannan	manna	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	13	obj	_	ref=JOHN_18.14|LId=2
 13	fraqistjan	fra-qistjan	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	10	ccomp	_	ref=JOHN_18.14

@@ -32973,7 +32973,7 @@
 3	Xristus	Xristus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	4	nsubj:pass	_	ref=1COR_15.12
 4	merjada	merjan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	10	advcl	_	ref=1COR_15.12
 5	þatei	þatei	SCONJ	G-	_	6	mark	_	ref=1COR_15.12
-6	urrais	ur-reisan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	csubj:pass	_	ref=1COR_15.12
+6	urrais	ur-reisan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	ccomp	_	ref=1COR_15.12
 7	us	us	ADP	R-	_	8	case	_	ref=1COR_15.12
 8	dauþaim	dauþs	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur|Strength=Strong	6	obl	_	ref=1COR_15.12
 9	ƕaiwa	ƕaiwa	ADV	Du	PronType=Int	10	advmod	_	ref=1COR_15.12
