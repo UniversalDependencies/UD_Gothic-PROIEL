@@ -198,7 +198,7 @@
 3	qiþiþ	qiþan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	acl	_	ref=MATT_5.22
 4	broþr	broþar	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	3	obl:arg	_	ref=MATT_5.22
 5	seinamma	*seins	DET	Pt	Case=Dat|Gender=Masc|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	4	det	_	ref=MATT_5.22
-6	raka	raka	X	F-	_	3	obj	_	ref=MATT_5.22
+6	raka	raka	NOUN	F-	_	3	obj	_	ref=MATT_5.22
 7	skula	skula	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	8	xcomp	_	ref=MATT_5.22
 8	wairþiþ	wairþan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_5.22
 9	gaqumþai	gaqumþs	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	7	nmod	_	ref=MATT_5.22
@@ -2490,8 +2490,8 @@
 # source = The Gothic Bible, Mark 5
 # text = taleiþa kumei þatei ist gaskeiriþ
 # sent_id = 37648
-1	taleiþa	taleiþa	X	F-	_	4	vocative	_	ref=MARK_5.41
-2	kumei	kumei	X	F-	_	4	vocative	_	ref=MARK_5.41
+1	taleiþa	taleiþa	NOUN	F-	_	4	vocative	_	ref=MARK_5.41
+2	kumei	kumei	NOUN	F-	_	4	vocative	_	ref=MARK_5.41
 3	þatei	saei	PRON	Pr	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	4	nsubj	_	ref=MARK_5.41
 4	ist	wisan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MARK_5.41|LId=1
 5	gaskeiriþ	ga-skeirjan	VERB	V-	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	4	xcomp	_	ref=MARK_5.41

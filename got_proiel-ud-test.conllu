@@ -1447,7 +1447,7 @@
 5	seinamma	*seins	DET	Pt	Case=Dat|Gender=Masc|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	4	det	_	ref=MARK_7.11
 6	aiþþau	aiþþau	CCONJ	C-	_	7	cc	_	ref=MARK_7.11
 7	aiþein	aiþei	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	4	conj	_	ref=MARK_7.11
-8	kaurban	kaurban	X	F-	_	2	ccomp	_	ref=MARK_7.11
+8	kaurban	kaurban	VERB	F-	_	2	ccomp	_	ref=MARK_7.11
 9	þatei	saei	PRON	Pr	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	10	nsubj	_	ref=MARK_7.11
 10	ist	wisan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	advcl	_	ref=MARK_7.11|LId=1
 11	maiþms	maiþms	NOUN	Nb	Case=Nom|Gender=Fem,Masc|Number=Sing	10	xcomp	_	ref=MARK_7.11
@@ -1887,7 +1887,7 @@
 # source = The Gothic Bible, Mark 7
 # text = aiffaþa þatei ist uslukn
 # sent_id = 37751
-1	aiffaþa	aiffaþa	X	F-	_	0	root	_	ref=MARK_7.34
+1	aiffaþa	aiffaþa	VERB	F-	_	0	root	_	ref=MARK_7.34
 2	þatei	saei	PRON	Pr	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	3	nsubj	_	ref=MARK_7.34
 3	ist	wisan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	advcl	_	ref=MARK_7.34|LId=1
 4	uslukn	us-luknan	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	3	xcomp	_	ref=MARK_7.34
@@ -3507,10 +3507,10 @@
 # source = The Gothic Bible, Mark 15
 # text = ailoe ailoe lima sibakþanei
 # sent_id = 38320
-1	ailoe	ailoe	X	F-	_	0	root	_	ref=MARK_15.34
-2	ailoe	ailoe	X	F-	_	1	vocative	_	ref=MARK_15.34
-3	lima	lima	X	F-	_	1	vocative	_	ref=MARK_15.34
-4	sibakþanei	sibakþanei	X	F-	_	1	vocative	_	ref=MARK_15.34
+1	ailoe	ailoe	VERB	F-	_	0	root	_	ref=MARK_15.34
+2	ailoe	ailoe	NOUN	F-	_	1	vocative	_	ref=MARK_15.34
+3	lima	lima	NOUN	F-	_	1	vocative	_	ref=MARK_15.34
+4	sibakþanei	sibakþanei	NOUN	F-	_	1	vocative	_	ref=MARK_15.34
 
 # source = The Gothic Bible, Mark 15
 # text = þatei ist gaskeiriþ
@@ -8438,7 +8438,7 @@
 # source = The Gothic Bible, John 12
 # text = osanna þiuþida sa qimanda in namin fraujins þiudans Israelis
 # sent_id = 43782
-1	osanna	osanna	X	F-	_	2	vocative	_	ref=JOHN_12.13
+1	osanna	osanna	NOUN	F-	_	2	vocative	_	ref=JOHN_12.13
 2	þiuþida	þiuþjan	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Strength=Weak|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	ref=JOHN_12.13
 3	sa	sa	DET	Pd	Case=Nom|Gender=Masc|Number=Sing	4	det	_	ref=JOHN_12.13
 4	qimanda	qiman	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Weak|Tense=Pres|VerbForm=Part|Voice=Act	2	nsubj:pass	_	ref=JOHN_12.13
