@@ -1319,8 +1319,8 @@
 13	þans	sa	DET	Pd	Case=Acc|Gender=Masc|Number=Plur	14	det	_	ref=MARK_7.6
 14	liutans	liuts	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	12	appos	_	ref=MARK_7.6
 15	swe	swe	ADV	Df	_	16	advmod	_	ref=MARK_7.6
-16	gameliþ	ga-meljan	VERB	V-	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	9	acl	_	ref=MARK_7.6
-17	ist	wisan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	16	aux:pass	_	ref=MARK_7.6|LId=1
+16	gameliþ	ga-meljan	VERB	V-	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	17	xcomp	_	ref=MARK_7.6
+17	ist	wisan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	advcl	_	ref=MARK_7.6|LId=1
 
 # source = The Gothic Bible, Mark 7
 # text = so managei wairilom mik sweraiþ iþ hairto ize fairra habaiþ sik mis

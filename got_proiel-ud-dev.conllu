@@ -131,10 +131,10 @@
 3	izwis	jūs	PRON	Pp	Case=Dat|Gender=Fem,Masc|Number=Plur|Person=2|PronType=Prs	1	obl:arg	_	ref=MATT_5.20
 4	þatei	þatei	SCONJ	G-	_	17	mark	_	ref=MATT_5.20
 5	nibai	nibai	SCONJ	G-	_	7	mark	_	ref=MATT_5.20
-6	managizo	manags	ADJ	A-	Case=Nom|Degree=Cmp|Gender=Fem|Number=Sing|Strength=Weak	7	xcomp	_	ref=MATT_5.20
+6	managizo	manags	ADJ	A-	Case=Nom|Degree=Cmp|Gender=Neut|Number=Sing|Strength=Weak	7	nsubj	_	ref=MATT_5.20
 7	wairþiþ	wairþan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	17	ccomp	_	ref=MATT_5.20
 8	izwaraizos	izwar	DET	Ps	Case=Gen|Gender=Fem|Number=Sing|Person=2|Poss=Yes	9	det	_	ref=MATT_5.20
-9	garaihteins	garaihteins	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	ref=MATT_5.20
+9	garaihteins	garaihtei	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	ref=MATT_5.20
 10	þau	þau	ADV	Df	_	6	advmod	_	ref=MATT_5.20
 11	þize	sa	DET	Pd	Case=Gen|Gender=Masc|Number=Plur	12	det	_	ref=MATT_5.20
 12	bokarje	bokareis	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	10	nmod	_	ref=MATT_5.20
@@ -8952,7 +8952,7 @@
 6	iþ	iþ	CCONJ	C-	_	14	cc	_	ref=JOHN_10.41
 7	allata	alls	PRON	Px	Case=Nom|Gender=Neut|Number=Sing	14	nsubj	_	ref=JOHN_10.41
 8	þatei	saei	PRON	Pr	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	9	obj	_	ref=JOHN_10.41
-9	qaþ	qiþan	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	7	aux	_	ref=JOHN_10.41
+9	qaþ	qiþan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	7	acl	_	ref=JOHN_10.41
 10	Iohannes	Iohannes	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	ref=JOHN_10.41
 11	bi	bi	ADP	R-	_	12	case	_	ref=JOHN_10.41
 12	þana	sa	PRON	Pd	Case=Acc|Gender=Masc|Number=Sing	9	obl	_	ref=JOHN_10.41
