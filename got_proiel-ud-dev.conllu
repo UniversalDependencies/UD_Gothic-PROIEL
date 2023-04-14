@@ -6702,7 +6702,7 @@
 2	sai	sai	INTJ	I-	_	3	discourse	_	ref=LUKE_8.41
 3	qam	qiman	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=LUKE_8.41
 4	wair	wair	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	ref=LUKE_8.41
-5	þizei	saei	PRON	Pr	Case=Gen|Gender=Masc|Number=Sing|PronType=Rel	6	det	_	ref=LUKE_8.41
+5	þizei	saei	PRON	Pr	Case=Gen|Gender=Masc|Number=Sing|PronType=Rel	6	acl	_	ref=LUKE_8.41
 6	namo	namo	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	7	nsubj	_	ref=LUKE_8.41
 7	Iaeirus	Iaeirus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	4	acl	_	ref=LUKE_8.41
 8	sah	sah	PRON	Pd	Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	ref=LUKE_8.41
@@ -8319,7 +8319,7 @@
 4	saei	saei	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	5	nsubj	_	ref=JOHN_10.12
 5	nist	nist	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	ref=JOHN_10.12
 6	hairdeis	hairdeis	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	5	xcomp	_	ref=JOHN_10.12
-7	þizei	saei	PRON	Pr	Case=Gen|Gender=Masc|Number=Sing|PronType=Rel	10	det	_	ref=JOHN_10.12
+7	þizei	saei	PRON	Pr	Case=Gen|Gender=Masc|Number=Sing|PronType=Rel	10	acl	_	ref=JOHN_10.12
 8	ni	ni	ADV	Df	Polarity=Neg	9	advmod	_	ref=JOHN_10.12
 9	sind	wisan	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	acl	_	ref=JOHN_10.12|LId=1
 10	lamba	lamb	NOUN	Nb	Case=Nom|Gender=Neut|Number=Plur	9	nsubj	_	ref=JOHN_10.12
@@ -9005,7 +9005,7 @@
 12	is	is	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	det	_	ref=JOHN_11.2
 13	skufta	skufta	NOUN	Nb	Case=Dat|Gender=Masc,Neut|Number=Sing	10	obl	_	ref=JOHN_11.2
 14	seinamma	*seins	DET	Pt	Case=Dat|Gender=Masc,Neut|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	13	det	_	ref=JOHN_11.2
-15	þizozei	saei	PRON	Pr	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	16	det	_	ref=JOHN_11.2
+15	þizozei	saei	PRON	Pr	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	16	acl	_	ref=JOHN_11.2
 16	broþar	broþar	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	19	nsubj	_	ref=JOHN_11.2
 17	Lazarus	Lazarus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	16	appos	_	ref=JOHN_11.2
 18	siuks	siuks	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	19	xcomp	_	ref=JOHN_11.2
@@ -13658,7 +13658,7 @@
 17	andabauht	andabauhts	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	14	xcomp	_	ref=1TIM_2.6
 18	faur	faur	ADP	R-	_	19	case	_	ref=1TIM_2.6
 19	allans	alls	PRON	Px	Case=Acc|Gender=Masc|Number=Plur	17	nmod	_	ref=1TIM_2.6
-20	þizei	saei	PRON	Pr	Case=Gen|Gender=Masc|Number=Sing|PronType=Rel	21	det	_	ref=1TIM_2.6
+20	þizei	saei	PRON	Pr	Case=Gen|Gender=Masc|Number=Sing|PronType=Rel	21	acl	_	ref=1TIM_2.6
 21	weitwodein	weitwodei	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	17	acl	_	ref=1TIM_2.6
 22	melam	mel	NOUN	Nb	Case=Dat|Gender=Neut|Number=Plur	21	nmod	_	ref=1TIM_2.6
 23	swesaim	swes	ADJ	A-	Case=Dat|Degree=Pos|Number=Plur|Strength=Strong	22	amod	_	ref=1TIM_2.6
