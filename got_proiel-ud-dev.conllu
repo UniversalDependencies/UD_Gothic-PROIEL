@@ -3716,7 +3716,7 @@
 3	ana	ana	ADP	R-	_	4	case	_	ref=LUKE_4.18
 4	mis	ik	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	0	root	_	ref=LUKE_4.18
 5	in	in	SCONJ	G-	_	7	mark	_	ref=LUKE_4.18
-6	þizei	saei	PRON	Pr	Case=Gen|Gender=Masc|Number=Sing|PronType=Rel	5	aux	_	ref=LUKE_4.18
+6	þizei	saei	PRON	Pr	Case=Gen|Gender=Masc|Number=Sing|PronType=Rel	5	fixed	_	ref=LUKE_4.18
 7	gasalboda	ga-salbon	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	4	advcl	_	ref=LUKE_4.18
 8	mik	ik	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=1|PronType=Prs	7	obj	_	ref=LUKE_4.18
 9	du	du	ADP	R-	_	10	mark	_	ref=LUKE_4.18
@@ -5776,7 +5776,7 @@
 7	uskijanata	us-keinan	VERB	V-	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	8	advcl	_	ref=LUKE_8.6
 8	gaþaursnoda	ga-þaursnan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	ref=LUKE_8.6
 9	in	in	SCONJ	G-	_	12	mark	_	ref=LUKE_8.6
-10	þizei	saei	PRON	Pr	Case=Gen|Gender=Neut|Number=Sing|PronType=Rel	9	aux	_	ref=LUKE_8.6
+10	þizei	saei	PRON	Pr	Case=Gen|Gender=Neut|Number=Sing|PronType=Rel	9	fixed	_	ref=LUKE_8.6
 11	ni	ni	ADV	Df	Polarity=Neg	12	advmod	_	ref=LUKE_8.6
 12	habaida	haban	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	8	advcl	_	ref=LUKE_8.6
 13	qrammiþa	qrammiþa	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	12	obj	_	ref=LUKE_8.6

@@ -8077,7 +8077,7 @@
 16	ana	ana	ADP	R-	_	17	case	_	ref=LUKE_19.44
 17	staina	stains	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	12	obl	_	ref=LUKE_19.44
 18	in	in	SCONJ	G-	_	21	mark	_	ref=LUKE_19.44
-19	þizei	saei	PRON	Pr	Case=Gen|Gender=Neut|Number=Sing|PronType=Rel	18	aux	_	ref=LUKE_19.44
+19	þizei	saei	PRON	Pr	Case=Gen|Gender=Neut|Number=Sing|PronType=Rel	18	fixed	_	ref=LUKE_19.44
 20	ni	ni	ADV	Df	Polarity=Neg	21	advmod	_	ref=LUKE_19.44
 21	ufkunþes	uf-kunnan	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	12	advcl	_	ref=LUKE_19.44
 22	þata	sa	DET	Pd	Case=Acc|Gender=Neut|Number=Sing	23	det	_	ref=LUKE_19.44
