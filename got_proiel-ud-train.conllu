@@ -8694,17 +8694,17 @@
 # sent_id = 37990
 1	fragif	fra-giban	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MARK_10.37
 2	ugkis	wit	PRON	Pp	Case=Dat|Gender=Masc|Number=Dual|Person=1|PronType=Prs	1	obl:arg	_	ref=MARK_10.37
-3	ei	ei	SCONJ	G-	_	4	mark	_	ref=MARK_10.37
-4	ains	ains	NUM	Ma	Case=Nom|Gender=Masc|Number=Sing	1	ccomp	_	ref=MARK_10.37
+3	ei	ei	SCONJ	G-	_	1	ccomp	_	ref=MARK_10.37
+4	ains	ains	NUM	Ma	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	ref=MARK_10.37
 5	af	af	ADP	R-	_	6	case	_	ref=MARK_10.37
-6	taihswon	taihswa	ADJ	A-	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	4	orphan	_	ref=MARK_10.37
+6	taihswon	taihswa	ADJ	A-	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	3	obl	_	ref=MARK_10.37
 7	þeinai	þeins	DET	Ps	Case=Dat|Gender=Fem|Number=Sing|Person=2|Poss=Yes	6	det	_	ref=MARK_10.37
 8	jah	jah	CCONJ	C-	_	13	cc	_	ref=MARK_10.37
 9	ains	ains	NUM	Ma	Case=Nom|Gender=Masc|Number=Sing	13	nsubj	_	ref=MARK_10.37
 10	af	af	ADP	R-	_	11	case	_	ref=MARK_10.37
 11	hleidumein	hleiduma	ADJ	A-	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	13	obl	_	ref=MARK_10.37
 12	þeinai	þeins	DET	Ps	Case=Dat|Gender=Fem|Number=Sing|Person=2|Poss=Yes	11	det	_	ref=MARK_10.37
-13	sitaiwa	sitan	VERB	V-	Mood=Opt|Number=Dual|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	ref=MARK_10.37
+13	sitaiwa	sitan	VERB	V-	Mood=Opt|Number=Dual|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	ref=MARK_10.37
 14	in	in	ADP	R-	_	15	case	_	ref=MARK_10.37
 15	wulþau	wulþus	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	13	obl	_	ref=MARK_10.37
 16	þeinamma	þeins	DET	Ps	Case=Dat|Gender=Masc|Number=Sing|Person=2|Poss=Yes	15	det	_	ref=MARK_10.37
@@ -22222,8 +22222,8 @@
 # text = jabai nu gasaiƕiþ sunu mans ussteigan þadei was faurþis
 # sent_id = 43304
 1	jabai	jabai	SCONJ	G-	_	3	mark	_	ref=JOHN_6.62
-2	nu	nu	ADV	Df	_	3	discourse	_	ref=JOHN_6.62
-3	gasaiƕiþ	ga-saiƕan	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=JOHN_6.62
+2	nu	nu	ADV	Df	_	0	root	_	ref=JOHN_6.62
+3	gasaiƕiþ	ga-saiƕan	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	2	advcl	_	ref=JOHN_6.62
 4	sunu	sunus	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	6	nsubj	_	ref=JOHN_6.62
 5	mans	manna	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	ref=JOHN_6.62|LId=2
 6	ussteigan	us-steigan	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	3	ccomp	_	ref=JOHN_6.62
@@ -26301,15 +26301,15 @@
 # sent_id = 43924
 1	niu	niu	ADV	Du	PronType=Int	2	advmod	_	ref=JOHN_14.10
 2	galaubeis	ga-laubjan	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=JOHN_14.10
-3	þatei	þatei	SCONJ	G-	_	4	mark	_	ref=JOHN_14.10
-4	ik	ik	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	2	ccomp	_	ref=JOHN_14.10
+3	þatei	þatei	SCONJ	G-	_	2	ccomp	_	ref=JOHN_14.10
+4	ik	ik	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	ref=JOHN_14.10
 5	in	in	ADP	R-	_	6	case	_	ref=JOHN_14.10
-6	attin	atta	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	4	orphan	_	ref=JOHN_14.10
+6	attin	atta	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	3	xcomp	_	ref=JOHN_14.10
 7	jah	jah	CCONJ	C-	_	11	cc	_	ref=JOHN_14.10
 8	atta	atta	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	ref=JOHN_14.10
 9	in	in	ADP	R-	_	10	case	_	ref=JOHN_14.10
 10	mis	ik	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	11	xcomp	_	ref=JOHN_14.10
-11	ist	wisan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	ref=JOHN_14.10|LId=1
+11	ist	wisan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	ref=JOHN_14.10|LId=1
 
 # source = The Gothic Bible, John 14
 # text = þo waurda þoei ik rodja izwis af mis silbin ni rodja ak atta saei in mis ist sa taujiþ þo waurstwa
@@ -26354,8 +26354,8 @@
 # text = iþ jabai ni in þize waurstwe galaubeiþ mis
 # sent_id = 43927
 1	iþ	iþ	CCONJ	C-	_	7	cc	_	ref=JOHN_14.11
-2	jabai	jabai	SCONJ	G-	_	3	mark	_	ref=JOHN_14.11
-3	ni	ni	ADV	Df	Polarity=Neg	7	advcl	_	ref=JOHN_14.11
+2	jabai	jabai	SCONJ	G-	_	7	advcl	_	ref=JOHN_14.11
+3	ni	ni	ADV	Df	Polarity=Neg	2	fixed	_	ref=JOHN_14.11
 4	in	in	ADP	R-	_	6	case	_	ref=JOHN_14.11
 5	þize	sa	DET	Pd	Case=Gen|Gender=Masc,Neut|Number=Plur	6	det	_	ref=JOHN_14.11
 6	waurstwe	waurstw	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	7	obl	_	ref=JOHN_14.11
@@ -28906,10 +28906,10 @@
 # source = The Gothic Bible, Romans 9
 # text = unte ni us galaubeinai ak us waurstwam witodis
 # sent_id = 44330
-1	unte	unte	SCONJ	G-	_	4	mark	_	ref=ROM_9.32
+1	unte	unte	SCONJ	G-	_	0	root	_	ref=ROM_9.32
 2	ni	ni	ADV	Df	Polarity=Neg	4	advmod	_	ref=ROM_9.32
 3	us	us	ADP	R-	_	4	case	_	ref=ROM_9.32
-4	galaubeinai	galaubeins	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	0	root	_	ref=ROM_9.32
+4	galaubeinai	galaubeins	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	1	obl	_	ref=ROM_9.32
 5	ak	ak	CCONJ	C-	_	7	cc	_	ref=ROM_9.32
 6	us	us	ADP	R-	_	7	case	_	ref=ROM_9.32
 7	waurstwam	waurstw	NOUN	Nb	Case=Dat|Gender=Neut|Number=Plur	4	conj	_	ref=ROM_9.32
@@ -31862,10 +31862,10 @@
 # text = ni þatei bi auhsum us
 # sent_id = 46609
 1	ni	ni	ADV	Df	Polarity=Neg	0	root	_	ref=1COR_9.9
-2	þatei	þatei	SCONJ	G-	_	4	mark	_	ref=1COR_9.9
+2	þatei	þatei	SCONJ	G-	_	1	advcl	_	ref=1COR_9.9
 3	bi	bi	ADP	R-	_	4	case	_	ref=1COR_9.9
-4	auhsum	auhsus	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	1	advcl	_	ref=1COR_9.9
-5	us	us	ADP	R-	_	4	mark	_	ref=1COR_9.9
+4	auhsum	auhsus	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	2	obl	_	ref=1COR_9.9
+5	us	us	ADP	R-	_	2	fixed	_	ref=1COR_9.9
 
 # source = The Gothic Bible, 1 Corinthians 9
 # text = ei managizans gageigaidedjau
@@ -32460,22 +32460,22 @@
 # text = iþ jaþþe praufetja gatairanda
 # sent_id = 52504
 1	iþ	iþ	CCONJ	C-	_	4	cc	_	ref=1COR_13.8
-2	jaþþe	jaþþe	SCONJ	G-	_	3	mark	_	ref=1COR_13.8
-3	praufetja	praufetja	NOUN	Nb	Case=Nom|Gender=Neut|Number=Plur	4	advcl	_	ref=1COR_13.8
+2	jaþþe	jaþþe	SCONJ	G-	_	4	advcl	_	ref=1COR_13.8
+3	praufetja	praufetja	NOUN	Nb	Case=Nom|Gender=Neut|Number=Plur	2	nsubj	_	ref=1COR_13.8
 4	gatairanda	ga-tairan	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	ref=1COR_13.8
 
 # source = The Gothic Bible, 1 Corinthians 13
 # text = jaþþe razdos gaƕeiland
 # sent_id = 52505
-1	jaþþe	jaþþe	SCONJ	G-	_	2	mark	_	ref=1COR_13.8
-2	razdos	razda	NOUN	Nb	Case=Nom|Gender=Fem|Number=Plur	3	advcl	_	ref=1COR_13.8
+1	jaþþe	jaþþe	SCONJ	G-	_	3	advcl	_	ref=1COR_13.8
+2	razdos	razda	NOUN	Nb	Case=Nom|Gender=Fem|Number=Plur	1	nsubj	_	ref=1COR_13.8
 3	gaƕeiland	ga-ƕeilan	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=1COR_13.8
 
 # source = The Gothic Bible, 1 Corinthians 13
 # text = jaþþe kunþi gataurniþ
 # sent_id = 52506
-1	jaþþe	jaþþe	SCONJ	G-	_	2	mark	_	ref=1COR_13.8
-2	kunþi	kunþi	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	3	advcl	_	ref=1COR_13.8
+1	jaþþe	jaþþe	SCONJ	G-	_	3	advcl	_	ref=1COR_13.8
+2	kunþi	kunþi	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	1	nsubj	_	ref=1COR_13.8
 3	gataurniþ	ga-taurnan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=1COR_13.8
 
 # source = The Gothic Bible, 1 Corinthians 13
@@ -33238,9 +33238,9 @@
 5	ufhnaiwida	uf-hnaiwjan	VERB	V-	Aspect=Perf|Case=Nom|Gender=Neut|Number=Plur|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	6	xcomp	_	ref=1COR_15.27
 6	sind	wisan	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	parataxis	_	ref=1COR_15.27|LId=1
 7	bairht	bairhts	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	0	root	_	ref=1COR_15.27
-8	þatei	þatei	SCONJ	G-	_	10	mark	_	ref=1COR_15.27
+8	þatei	þatei	SCONJ	G-	_	7	ccomp	_	ref=1COR_15.27
 9	inu	inuh	ADP	R-	_	10	case	_	ref=1COR_15.27
-10	þana	sa	PRON	Pd	Case=Acc|Gender=Masc|Number=Sing	7	ccomp	_	ref=1COR_15.27
+10	þana	sa	PRON	Pd	Case=Acc|Gender=Masc|Number=Sing	8	obl	_	ref=1COR_15.27
 11	izei	izei	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	12	nsubj	_	ref=1COR_15.27
 12	ufhnaiwida	uf-hnaiwjan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	10	acl	_	ref=1COR_15.27
 13	uf	uf	ADP	R-	_	14	case	_	ref=1COR_15.27
@@ -36827,13 +36827,13 @@
 11	af	af	ADP	R-	_	12	case	_	ref=2COR_10.7
 12	sis	sik	PRON	Pk	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	9	obl	_	ref=2COR_10.7
 13	silbin	silba	PRON	Pk	Case=Dat|Gender=Masc,Neut|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	12	det	_	ref=2COR_10.7
-14	ei	ei	SCONJ	G-	_	20	mark	_	ref=2COR_10.7
+14	ei	ei	SCONJ	G-	_	8	acl	_	ref=2COR_10.7
 15	swaswe	swaswe	ADV	Dq	PronType=Rel	17	advcl	_	ref=2COR_10.7
 16	is	is	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	nsubj	_	ref=2COR_10.7
-17	Xristaus	Xristus	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	20	dislocated	_	ref=2COR_10.7
-18	swa	swa	ADV	Df	_	20	orphan	_	ref=2COR_10.7
+17	Xristaus	Xristus	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	14	dislocated	_	ref=2COR_10.7
+18	swa	swa	ADV	Df	_	14	advmod	_	ref=2COR_10.7
 19	jah	jah	ADV	Df	_	20	advmod	_	ref=2COR_10.7
-20	weis	weis	PRON	Pp	Case=Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	8	acl	_	ref=2COR_10.7
+20	weis	weis	PRON	Pp	Case=Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	14	nsubj	_	ref=2COR_10.7
 
 # source = The Gothic Bible, 2 Corinthians 10
 # text = aþþan sweþauh jabai ƕa managizo ƕopam bi waldufni unsar þatei atgaf frauja unsis du timreinai jah ni du gataurþai izwarai ni gaaiwiskonda
@@ -38253,9 +38253,9 @@
 18	ni	ni	ADV	Df	Polarity=Neg	19	advmod	_	ref=2COR_12.20
 19	wileiþ	wiljan	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	16	advcl	_	ref=2COR_12.20
 20	mik	ik	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=1|PronType=Prs	19	obj	_	ref=2COR_12.20
-21	ibai	ibai	SCONJ	G-	_	23	mark	_	ref=2COR_12.20
-22	aufto	aufto	ADV	Df	_	23	orphan	_	ref=2COR_12.20
-23	þwairheins	þwairhei	NOUN	Nb	Case=Nom|Gender=Fem|Number=Plur	10	conj	_	ref=2COR_12.20
+21	ibai	ibai	SCONJ	G-	_	10	conj	_	ref=2COR_12.20
+22	aufto	aufto	ADV	Df	_	21	advmod	_	ref=2COR_12.20
+23	þwairheins	þwairhei	NOUN	Nb	Case=Nom|Gender=Fem|Number=Plur	21	nsubj	_	ref=2COR_12.20
 24	aljan	aljan	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	23	conj	_	ref=2COR_12.20
 25	jiukos	jiuka	NOUN	Nb	Case=Nom|Gender=Fem|Number=Plur	23	conj	_	ref=2COR_12.20
 26	bihaita	bihait	NOUN	Nb	Case=Nom|Gender=Neut|Number=Plur	23	conj	_	ref=2COR_12.20
@@ -38743,8 +38743,8 @@
 # text = aþþan jabai sware
 # sent_id = 44746
 1	aþþan	aþþan	CCONJ	C-	_	0	root	_	ref=GAL_3.4
-2	jabai	jabai	SCONJ	G-	_	3	mark	_	ref=GAL_3.4
-3	sware	sware	ADV	Df	_	1	advcl	_	ref=GAL_3.4
+2	jabai	jabai	SCONJ	G-	_	1	advcl	_	ref=GAL_3.4
+3	sware	sware	ADV	Df	_	2	advmod	_	ref=GAL_3.4
 
 # source = The Gothic Bible, Galatians 3
 # text = saei nu andstaldiþ izwis ahmin jah waurkeiþ mahtins in izwis uz u waurstwam witodis þau uz u gahauseinai galaubeinais
@@ -38833,9 +38833,9 @@
 # text = aþþan þande jus Xristaus þannu Abrahamis fraiw sijuþ jab bi gahaitam arbjans
 # sent_id = 44752
 1	aþþan	aþþan	CCONJ	C-	_	8	cc	_	ref=GAL_3.29
-2	þande	þande	SCONJ	G-	_	3	mark	_	ref=GAL_3.29
-3	jus	jūs	PRON	Pp	Case=Nom|Gender=Masc|Number=Plur|Person=2|PronType=Prs	8	advcl	_	ref=GAL_3.29
-4	Xristaus	Xristus	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	3	orphan	_	ref=GAL_3.29
+2	þande	þande	SCONJ	G-	_	8	advcl	_	ref=GAL_3.29
+3	jus	jūs	PRON	Pp	Case=Nom|Gender=Masc|Number=Plur|Person=2|PronType=Prs	2	nsubj	_	ref=GAL_3.29
+4	Xristaus	Xristus	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	2	xcomp	_	ref=GAL_3.29
 5	þannu	þannu	ADV	Df	_	8	advmod	_	ref=GAL_3.29
 6	Abrahamis	Abraham	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	ref=GAL_3.29
 7	fraiw	fraiw	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	8	xcomp	_	ref=GAL_3.29
@@ -39022,11 +39022,11 @@
 2	wairþaiþ	wairþan	VERB	V-	Mood=Opt|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=GAL_4.12
 3	swe	swe	ADV	Df	_	4	mark	_	ref=GAL_4.12
 4	ik	ik	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	2	advcl:cmp	_	ref=GAL_4.12
-5	unte	unte	SCONJ	G-	_	7	mark	_	ref=GAL_4.12
+5	unte	unte	SCONJ	G-	_	2	advcl	_	ref=GAL_4.12
 6	jah	jah	ADV	Df	_	7	advmod	_	ref=GAL_4.12
-7	ik	ik	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	2	advcl	_	ref=GAL_4.12
+7	ik	ik	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	ref=GAL_4.12
 8	swe	swe	ADV	Df	_	9	mark	_	ref=GAL_4.12
-9	jus	jūs	PRON	Pp	Case=Nom|Gender=Masc|Number=Plur|Person=2|PronType=Prs	7	orphan	_	ref=GAL_4.12
+9	jus	jūs	PRON	Pp	Case=Nom|Gender=Masc|Number=Plur|Person=2|PronType=Prs	5	advcl:cmp	_	ref=GAL_4.12
 
 # source = The Gothic Bible, Galatians 4
 # text = broþrjus bidja izwis
@@ -41997,22 +41997,22 @@
 # source = The Gothic Bible, Philippians 2
 # text = Jabai ƕo nu gaþrafsteino in Xristau jabai ƕo gaþlaihte friaþwos jabai ƕo gamainduþe ahmins jabai ƕo mildiþo jah gableiþeino usfulleiþ meina fahed ei þata samo hugjaiþ þo samon friaþwa habandans samasaiwalai samafraþjai ni waiht bi haifstai aiþþau lausai hauheinai ak in allai hauneinai gahugdais anþar anþarana munands sis auhuman ni þo seina ƕarjizuh mitondans ak jah þo anþaraize ƕarjizuh
 # sent_id = 46155
-1	Jabai	jabai	SCONJ	G-	_	2	mark	_	ref=PHIL_2.1
-2	ƕo	ƕas	PRON	Px	Case=Nom|Gender=Fem|Number=Sing	20	advcl	_	ref=PHIL_2.1
+1	Jabai	jabai	SCONJ	G-	_	20	advcl	_	ref=PHIL_2.1
+2	ƕo	ƕas	PRON	Px	Case=Nom|Gender=Fem|Number=Sing	1	nsubj	_	ref=PHIL_2.1
 3	nu	nu	ADV	Df	_	20	discourse	_	ref=PHIL_2.1
 4	gaþrafsteino	gaþrafsteins	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	2	nmod	_	ref=PHIL_2.1
 5	in	in	ADP	R-	_	6	case	_	ref=PHIL_2.1
-6	Xristau	Xristus	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	2	orphan	_	ref=PHIL_2.1
-7	jabai	jabai	SCONJ	G-	_	8	mark	_	ref=PHIL_2.1
-8	ƕo	ƕas	PRON	Px	Case=Nom|Gender=Fem|Number=Sing	20	advcl	_	ref=PHIL_2.1
+6	Xristau	Xristus	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	1	obl	_	ref=PHIL_2.1
+7	jabai	jabai	SCONJ	G-	_	20	advcl	_	ref=PHIL_2.1
+8	ƕo	ƕas	PRON	Px	Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	ref=PHIL_2.1
 9	gaþlaihte	gaþlaihts	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	8	nmod	_	ref=PHIL_2.1
 10	friaþwos	frijaþwa	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	9	nmod	_	ref=PHIL_2.1
-11	jabai	jabai	SCONJ	G-	_	12	mark	_	ref=PHIL_2.1
-12	ƕo	ƕas	PRON	Px	Case=Nom|Gender=Fem|Number=Sing	20	advcl	_	ref=PHIL_2.1
+11	jabai	jabai	SCONJ	G-	_	20	advcl	_	ref=PHIL_2.1
+12	ƕo	ƕas	PRON	Px	Case=Nom|Gender=Fem|Number=Sing	11	nsubj	_	ref=PHIL_2.1
 13	gamainduþe	gamainduþs	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	12	nmod	_	ref=PHIL_2.1
 14	ahmins	ahma	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	13	nmod	_	ref=PHIL_2.1
-15	jabai	jabai	SCONJ	G-	_	16	mark	_	ref=PHIL_2.1
-16	ƕo	ƕas	PRON	Px	Case=Nom|Gender=Fem|Number=Sing	20	advcl	_	ref=PHIL_2.1
+15	jabai	jabai	SCONJ	G-	_	20	advcl	_	ref=PHIL_2.1
+16	ƕo	ƕas	PRON	Px	Case=Nom|Gender=Fem|Number=Sing	15	nsubj	_	ref=PHIL_2.1
 17	mildiþo	mildiþa	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	16	nmod	_	ref=PHIL_2.1
 18	jah	jah	CCONJ	C-	_	19	cc	_	ref=PHIL_2.1
 19	gableiþeino	gableiþeins	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	17	conj	_	ref=PHIL_2.1
@@ -42835,11 +42835,11 @@
 20	þisƕah	þisƕazuh	PRON	Px	Case=Nom|Gender=Neut|Number=Sing	30	dislocated	_	ref=PHIL_4.8
 21	þatei	saei	PRON	Pr	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	20	acl	_	ref=PHIL_4.8
 22	wailameri	wailamereis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	21	orphan	_	ref=PHIL_4.8
-23	jabai	jabai	SCONJ	G-	_	24	mark	_	ref=PHIL_4.8
-24	ƕo	ƕas	PRON	Px	Case=Nom|Gender=Fem|Number=Sing	30	advcl	_	ref=PHIL_4.8
+23	jabai	jabai	SCONJ	G-	_	30	advcl	_	ref=PHIL_4.8
+24	ƕo	ƕas	PRON	Px	Case=Nom|Gender=Fem|Number=Sing	23	nsubj	_	ref=PHIL_4.8
 25	godeino	godei	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	24	nmod	_	ref=PHIL_4.8
-26	jabai	jabai	SCONJ	G-	_	27	mark	_	ref=PHIL_4.8
-27	ƕo	ƕas	PRON	Px	Case=Nom|Gender=Fem|Number=Sing	30	advcl	_	ref=PHIL_4.8
+26	jabai	jabai	SCONJ	G-	_	30	advcl	_	ref=PHIL_4.8
+27	ƕo	ƕas	PRON	Px	Case=Nom|Gender=Fem|Number=Sing	26	nsubj	_	ref=PHIL_4.8
 28	hazeino	hazeins	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	27	nmod	_	ref=PHIL_4.8
 29	þata	sa	PRON	Pd	Case=Acc|Gender=Neut|Number=Sing	30	obj	_	ref=PHIL_4.8
 30	mitoþ	miton	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=PHIL_4.8
@@ -45297,9 +45297,9 @@
 4	usluto	us-luton	VERB	V-	Mood=Opt|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=2THESS_2.3
 5	ƕamma	ƕas	DET	Px	Case=Dat|Gender=Masc,Neut|Number=Sing	6	det	_	ref=2THESS_2.3
 6	haidau	haidus	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	4	obl	_	ref=2THESS_2.3
-7	unte	unte	SCONJ	G-	_	9	mark	_	ref=2THESS_2.3
+7	unte	unte	SCONJ	G-	_	4	advcl	_	ref=2THESS_2.3
 8	niba	nibai	SCONJ	G-	_	9	mark	_	ref=2THESS_2.3
-9	qimiþ	qiman	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	advcl	_	ref=2THESS_2.3
+9	qimiþ	qiman	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	advcl	_	ref=2THESS_2.3
 10	afstass	afstass	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	9	nsubj	_	ref=2THESS_2.3
 11	faurþis	faurþis	ADV	Df	_	9	advmod	_	ref=2THESS_2.3
 12	jah	jah	CCONJ	C-	_	14	cc	_	ref=2THESS_2.3
@@ -46535,10 +46535,10 @@
 5	ni	ni	ADV	Df	Polarity=Neg	6	advmod	_	ref=1TIM_5.16
 6	kaurjaidau	kaurjan	VERB	V-	Mood=Opt|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	2	conj	_	ref=1TIM_5.16
 7	aikklesjo	aikklesjo	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	6	nsubj:pass	_	ref=1TIM_5.16
-8	ei	ei	SCONJ	G-	_	11	mark	_	ref=1TIM_5.16
+8	ei	ei	SCONJ	G-	_	6	advcl	_	ref=1TIM_5.16
 9	þaim	sa	DET	Pd	Case=Dat|Gender=Fem|Number=Plur	11	det	_	ref=1TIM_5.16
 10	bi	bi	ADP	R-	_	11	case	_	ref=1TIM_5.16
-11	sunjai	sunja	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	6	advcl	_	ref=1TIM_5.16
+11	sunjai	sunja	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	8	obl	_	ref=1TIM_5.16
 
 # source = The Gothic Bible, 1 Timothy 5
 # text = in waurda jah in laiseinai
@@ -47124,10 +47124,10 @@
 52	ga-traua	ga-trauan	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	42	conj	_	ref=2TIM_1.5
 53	þ	-uh	CCONJ	C-	_	42	cc	_	ref=2TIM_1.5
 54	þan	þan	ADV	Df	_	52	discourse	_	ref=2TIM_1.5
-55	þatei	þatei	SCONJ	G-	_	58	mark	_	ref=2TIM_1.5
+55	þatei	þatei	SCONJ	G-	_	52	ccomp	_	ref=2TIM_1.5
 56	jah	jah	ADV	Df	_	58	advmod	_	ref=2TIM_1.5
 57	in	in	ADP	R-	_	58	case	_	ref=2TIM_1.5
-58	þus	þu	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=2|PronType=Prs	52	ccomp	_	ref=2TIM_1.5
+58	þus	þu	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=2|PronType=Prs	55	obl	_	ref=2TIM_1.5
 
 # source = The Gothic Bible, 2 Timothy 1
 # text = in þizozei waihtais gamaudja þuk anaqiujan anst gudis sei ist in þus þairh analagein handiwe meinaizo

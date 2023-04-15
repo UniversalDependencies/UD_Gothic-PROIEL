@@ -2372,12 +2372,12 @@
 # text = aþþan þan þans sibun hlaibans fidwor þusundjom ƕan managans spwreidans fullans gabruko usnemuþ
 # sent_id = 37794
 1	aþþan	aþþan	CCONJ	C-	_	13	cc	_	ref=MARK_8.20
-2	þan	þan	SCONJ	G-	_	5	mark	_	ref=MARK_8.20
+2	þan	þan	SCONJ	G-	_	13	advcl	_	ref=MARK_8.20
 3	þans	sa	DET	Pd	Case=Acc|Gender=Masc|Number=Plur	5	det	_	ref=MARK_8.20
 4	sibun	sibun	NUM	Ma	_	5	nummod	_	ref=MARK_8.20
-5	hlaibans	hlaifs	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	13	advcl	_	ref=MARK_8.20
+5	hlaibans	hlaifs	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	2	obj	_	ref=MARK_8.20
 6	fidwor	fidwor	NUM	Ma	_	7	nummod	_	ref=MARK_8.20
-7	þusundjom	þūsundi	NUM	Ma	Case=Dat|Gender=Fem|Number=Plur	5	orphan	_	ref=MARK_8.20
+7	þusundjom	þūsundi	NUM	Ma	Case=Dat|Gender=Fem|Number=Plur	2	obl	_	ref=MARK_8.20
 8	ƕan	ƕan	ADV	Du	PronType=Int	9	advmod	_	ref=MARK_8.20
 9	managans	manags	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur|Strength=Strong	10	amod	_	ref=MARK_8.20
 10	spwreidans	spwreidans	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	13	obj	_	ref=MARK_8.20
@@ -6512,8 +6512,8 @@
 # text = iþ jabai ni du izwis gawandjai
 # sent_id = 45646
 1	iþ	iþ	CCONJ	C-	_	6	cc	_	ref=LUKE_10.6
-2	jabai	jabai	SCONJ	G-	_	3	mark	_	ref=LUKE_10.6
-3	ni	ni	ADV	Df	Polarity=Neg	6	advcl	_	ref=LUKE_10.6
+2	jabai	jabai	SCONJ	G-	_	6	advcl	_	ref=LUKE_10.6
+3	ni	ni	ADV	Df	Polarity=Neg	2	fixed	_	ref=LUKE_10.6
 4	du	du	ADP	R-	_	5	case	_	ref=LUKE_10.6
 5	izwis	jūs	PRON	Pp	Case=Dat|Gender=Fem,Masc|Number=Plur|Person=2|PronType=Prs	6	obl	_	ref=LUKE_10.6
 6	gawandjai	ga-wandjan	VERB	V-	Mood=Opt|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=LUKE_10.6
@@ -10565,8 +10565,8 @@
 # text = aiþþau jabai waila duƕe mik slahis
 # sent_id = 63248
 1	aiþþau	aiþþau	CCONJ	C-	_	6	cc	_	ref=JOHN_18.23
-2	jabai	jabai	SCONJ	G-	_	3	mark	_	ref=JOHN_18.23
-3	waila	wáila	ADV	Df	_	6	advcl	_	ref=JOHN_18.23
+2	jabai	jabai	SCONJ	G-	_	6	advcl	_	ref=JOHN_18.23
+3	waila	wáila	ADV	Df	_	2	advmod	_	ref=JOHN_18.23
 4	duƕe	duƕe	ADV	Du	PronType=Int	6	advmod	_	ref=JOHN_18.23
 5	mik	ik	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=1|PronType=Prs	6	obj	_	ref=JOHN_18.23
 6	slahis	slahan	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=JOHN_18.23
@@ -11907,12 +11907,12 @@
 # source = The Gothic Bible, Romans 11
 # text = jabai auk þu us wistai usmaitans þis wilþeins alewabagmis jah aljakuns wisands intrusgans warst in godana alewabagm ƕan filu mais þai bi wistai intrusgjanda in swesana alewabagm
 # sent_id = 44400
-1	jabai	jabai	SCONJ	G-	_	3	mark	_	ref=ROM_11.24
+1	jabai	jabai	SCONJ	G-	_	24	advcl	_	ref=ROM_11.24
 2	auk	auk	ADV	Df	_	24	discourse	_	ref=ROM_11.24
-3	þu	þu	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	24	advcl	_	ref=ROM_11.24
+3	þu	þu	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	ref=ROM_11.24
 4	us	us	ADP	R-	_	5	case	_	ref=ROM_11.24
 5	wistai	wists	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	9	nmod	_	ref=ROM_11.24
-6	usmaitans	us-maitan	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	3	orphan	_	ref=ROM_11.24
+6	usmaitans	us-maitan	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	1	xcomp	_	ref=ROM_11.24
 7	þis	sa	DET	Pd	Case=Gen|Gender=Masc,Neut|Number=Sing	9	det	_	ref=ROM_11.24
 8	wilþeins	wilþeis	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc,Neut|Number=Sing|Strength=Weak	9	amod	_	ref=ROM_11.24
 9	alewabagmis	alewabagms	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	6	obl:arg	_	ref=ROM_11.24
@@ -11920,7 +11920,7 @@
 11	aljakuns	aljakuns	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	12	xcomp	_	ref=ROM_11.24
 12	wisands	wisan	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	14	advcl	_	ref=ROM_11.24|LId=1
 13	intrusgans	in-trusgjan	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	14	xcomp	_	ref=ROM_11.24
-14	warst	wairþan	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	ref=ROM_11.24
+14	warst	wairþan	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	ref=ROM_11.24
 15	in	in	ADP	R-	_	17	case	_	ref=ROM_11.24
 16	godana	goþs	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	17	amod	_	ref=ROM_11.24
 17	alewabagm	alewabagms	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	13	obl	_	ref=ROM_11.24
@@ -12778,12 +12778,12 @@
 1	ni	ni	ADV	Df	Polarity=Neg	2	advmod	_	ref=2COR_8.13
 2	swa	swa	ADV	Df	_	0	root	_	ref=2COR_8.13
 3	auk	auk	ADV	Df	_	2	discourse	_	ref=2COR_8.13
-4	ei	ei	SCONJ	G-	_	6	mark	_	ref=2COR_8.13
-5	anþaraim	anþar	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur|Strength=Strong	6	orphan	_	ref=2COR_8.13
-6	iusila	iusila	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	2	advcl	_	ref=2COR_8.13
+4	ei	ei	SCONJ	G-	_	2	advcl	_	ref=2COR_8.13
+5	anþaraim	anþar	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur|Strength=Strong	4	obl:arg	_	ref=2COR_8.13
+6	iusila	iusila	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	ref=2COR_8.13
 7	iþ	iþ	CCONJ	C-	_	9	cc	_	ref=2COR_8.13
 8	izwis	jūs	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=2|PronType=Prs	9	orphan	_	ref=2COR_8.13
-9	aglo	aglo	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	6	conj	_	ref=2COR_8.13
+9	aglo	aglo	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	4	conj	_	ref=2COR_8.13
 10	ak	ak	CCONJ	C-	_	12	cc	_	ref=2COR_8.13
 11	us	us	ADP	R-	_	12	case	_	ref=2COR_8.13
 12	ibnassau	ibnassus	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	2	conj	_	ref=2COR_8.13
@@ -13449,10 +13449,10 @@
 # text = unte jabai þairh witoþ garaihtei aiþþau jah Xristus sware gaswalt
 # sent_id = 44738
 1	unte	unte	ADV	Df	_	10	discourse	_	ref=GAL_2.21
-2	jabai	jabai	SCONJ	G-	_	5	mark	_	ref=GAL_2.21
+2	jabai	jabai	SCONJ	G-	_	10	advcl	_	ref=GAL_2.21
 3	þairh	þairh	ADP	R-	_	4	case	_	ref=GAL_2.21
-4	witoþ	witoþ	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	5	orphan	_	ref=GAL_2.21
-5	garaihtei	garaihtei	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	10	advcl	_	ref=GAL_2.21
+4	witoþ	witoþ	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	2	obl	_	ref=GAL_2.21
+5	garaihtei	garaihtei	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	ref=GAL_2.21
 6	aiþþau	aiþþau	ADV	Df	_	10	advmod	_	ref=GAL_2.21
 7	jah	jah	ADV	Df	_	10	advmod	_	ref=GAL_2.21
 8	Xristus	Xristus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	ref=GAL_2.21

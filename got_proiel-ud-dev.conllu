@@ -11744,12 +11744,12 @@
 # text = jabai auk Xristus in izwis leik raihtis
 # sent_id = 44277
 1	jabai	jabai	SCONJ	G-	_	5	mark	_	ref=ROM_8.10
-2	auk	auk	ADV	Df	_	5	discourse	_	ref=ROM_8.10
+2	auk	auk	ADV	Df	_	0	root	_	ref=ROM_8.10
 3	Xristus	Xristus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	ref=ROM_8.10
 4	in	in	ADP	R-	_	5	case	_	ref=ROM_8.10
-5	izwis	jūs	PRON	Pp	Case=Dat|Gender=Fem,Masc|Number=Plur|Person=2|PronType=Prs	0	root	_	ref=ROM_8.10
-6	leik	leik	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	5	nsubj	_	ref=ROM_8.10
-7	raihtis	raihtis	ADV	Df	_	5	discourse	_	ref=ROM_8.10
+5	izwis	jūs	PRON	Pp	Case=Dat|Gender=Fem,Masc|Number=Plur|Person=2|PronType=Prs	2	advcl	_	ref=ROM_8.10
+6	leik	leik	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	2	nsubj	_	ref=ROM_8.10
+7	raihtis	raihtis	ADV	Df	_	2	discourse	_	ref=ROM_8.10
 
 # source = The Gothic Bible, Romans 8
 # text = saei ist in taihswon gudis saei jah bidjiþ faur uns
@@ -12587,12 +12587,12 @@
 # text = swaei jabai ƕo in Xristau niuja gaskafts þo alþjona usliþun
 # sent_id = 46295
 1	swaei	swaei	ADV	Df	_	10	advmod	_	ref=2COR_5.17
-2	jabai	jabai	SCONJ	G-	_	7	mark	_	ref=2COR_5.17
+2	jabai	jabai	SCONJ	G-	_	10	advcl	_	ref=2COR_5.17
 3	ƕo	ƕas	DET	Px	Case=Nom|Gender=Fem|Number=Sing	7	det	_	ref=2COR_5.17
 4	in	in	ADP	R-	_	5	case	_	ref=2COR_5.17
-5	Xristau	Xristus	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	7	orphan	_	ref=2COR_5.17
+5	Xristau	Xristus	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	2	obl	_	ref=2COR_5.17
 6	niuja	niujis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Strength=Strong	7	amod	_	ref=2COR_5.17
-7	gaskafts	gaskafts	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	10	advcl	_	ref=2COR_5.17
+7	gaskafts	gaskafts	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	ref=2COR_5.17
 8	þo	sa	DET	Pd	Case=Nom|Gender=Neut|Number=Plur	9	det	_	ref=2COR_5.17
 9	alþjona	alþeis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur|Strength=Weak	10	nsubj	_	ref=2COR_5.17
 10	usliþun	us-leiþan	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=2COR_5.17
