@@ -11305,7 +11305,7 @@
 # text = þisƕaruh þei merjada so aiwaggeljo and alla manaseþ jah þatei gatawida so rodjada du gamundai izos
 # sent_id = 38197
 1	þisƕaruh	þisƕaruh	ADV	Df	_	3	advcl	_	ref=MARK_14.9
-2	þei	þei	ADV	Dq	PronType=Rel	1	aux	_	ref=MARK_14.9
+2	þei	þei	ADV	Dq	PronType=Rel	1	fixed	_	ref=MARK_14.9
 3	merjada	merjan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	13	advcl	_	ref=MARK_14.9
 4	so	sa	DET	Pd	Case=Nom|Gender=Fem|Number=Sing	5	det	_	ref=MARK_14.9
 5	aiwaggeljo	aiwaggeljo	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	3	nsubj:pass	_	ref=MARK_14.9
