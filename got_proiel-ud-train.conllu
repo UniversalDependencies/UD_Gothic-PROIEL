@@ -28825,7 +28825,7 @@
 6	in	in	ADP	R-	_	7	case	_	ref=ROM_9.28
 7	garaihtein	garaihtei	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	5	obl	_	ref=ROM_9.28
 8	unte	unte	SCONJ	G-	_	11	mark	_	ref=ROM_9.28
-9	waurd	waurd	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	11	nsubj	_	ref=ROM_9.28
+9	waurd	waurd	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	11	obj	_	ref=ROM_9.28
 10	gamaurgiþ	ga-maurgjan	VERB	V-	Aspect=Perf|Case=Acc|Gender=Neut|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	9	acl	_	ref=ROM_9.28
 11	taujiþ	taujan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	advcl	_	ref=ROM_9.28
 12	frauja	frauja	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	ref=ROM_9.28

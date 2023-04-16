@@ -11761,7 +11761,7 @@
 5	gudis	guþ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	ref=ROM_8.34
 6	saei	saei	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	8	nsubj	_	ref=ROM_8.34
 7	jah	jah	ADV	Df	_	8	advmod	_	ref=ROM_8.34
-8	bidjiþ	bidjan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	nsubj	_	ref=ROM_8.34
+8	bidjiþ	bidjan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	ref=ROM_8.34
 9	faur	faur	ADP	R-	_	10	case	_	ref=ROM_8.34
 10	uns	weis	PRON	Pp	Case=Acc|Gender=Fem|Number=Plur|Person=1|PronType=Prs	8	obl	_	ref=ROM_8.34
 
