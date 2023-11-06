@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit 04abe686385f14a9a6f68784bd723a6b60ded594
+commit e9726a6a7d6913193d90edb45a4cb549235c5b16
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Tue May 9 00:14:39 2023 +0200
+Date:   Sat Nov 4 17:10:55 2023 +0100
 Evaluating the following revision of UD_Gothic-PROIEL:
-commit 5d63bdedb257898d62332ceaf7ac409259e69026
-Merge: d99d243 a25bb21
+commit b78e1a3b0b3828f8664c1ff4a7a7268f07d1cce5
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Tue May 9 10:31:58 2023 +0200
 Size: counted 55336 of 55336 words (nodes).
 Size: min(0, log((N/1000)**2)) = 8.02684738259657.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -20,8 +20,8 @@ Features: source of annotation (from README) factor is 0.8.
 Universal relations: 28 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 0.8.
 Udapi:
-               TOTAL       5406
-Udapi: found 5406 bugs.
+               TOTAL       5403
+Udapi: found 5403 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 55336 words.
 Genres: found 1 out of 17 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang got --max-err=10 UD_Gothic-PROIEL/got_proiel-ud-dev.conllu
@@ -33,7 +33,8 @@ Genres: found 1 out of 17 known.
 [Line 29517 Sent 52284 Node 1]: [L3 Warning orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'orphan'.
 [Line 29525 Sent 52285 Node 2]: [L3 Warning orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'orphan'.
 [Line 29531 Sent 52286 Node 1]: [L3 Warning orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'orphan'.
-Warnings: 4
+[Line 31865 Sent 46609 Node 2]: [L3 Warning fixed-gap] Gaps in fixed expression [2, 5] 'þatei * * us'
+Warnings: 5
 *** PASSED ***
 Validity: 1
 (weight=0.0769230769230769) * (score{features}=0.8) = 0.0615384615384615
@@ -42,8 +43,8 @@ Validity: 1
 (weight=0.256410256410256) * (score{size}=0.581002587556875) = 0.148975022450481
 (weight=0.0512820512820513) * (score{split}=1) = 0.0512820512820513
 (weight=0.0769230769230769) * (score{tags}=0.564705882352941) = 0.0434389140271493
-(weight=0.307692307692308) * (score{udapi}=0.0230591296804974) = 0.00709511682476843
+(weight=0.307692307692308) * (score{udapi}=0.0236012722278445) = 0.00726192991625984
 (weight=0.0769230769230769) * (score{udeprels}=0.605405405405405) = 0.0465696465696466
-(TOTAL score=0.424962561108848) * (availability=1) * (validity=1) = 0.424962561108848
+(TOTAL score=0.425129374200339) * (availability=1) * (validity=1) = 0.425129374200339
 STARS = 2
-UD_Gothic-PROIEL	0.424962561108848	2
+UD_Gothic-PROIEL	0.425129374200339	2
