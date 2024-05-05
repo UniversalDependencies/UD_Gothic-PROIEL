@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit e9726a6a7d6913193d90edb45a4cb549235c5b16
+commit 78ce4b21495c6e4c17a7b07925bec1267d833d14
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sat Nov 4 17:10:55 2023 +0100
+Date:   Sun May 5 09:21:16 2024 +0200
 Evaluating the following revision of UD_Gothic-PROIEL:
-commit b78e1a3b0b3828f8664c1ff4a7a7268f07d1cce5
+commit 95fa5900f833596243f83b989780c757488df369
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Tue May 9 10:31:58 2023 +0200
+Date:   Mon Nov 6 12:03:46 2023 +0100
 Size: counted 55336 of 55336 words (nodes).
 Size: min(0, log((N/1000)**2)) = 8.02684738259657.
 Size: maximum value 13.815511 is for 1000000 words or more.
