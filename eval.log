@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit 78ce4b21495c6e4c17a7b07925bec1267d833d14
+commit c1984d97df0ecdcc1b50fbeaa8c96419c6321432
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sun May 5 09:21:16 2024 +0200
+Date:   Sun Nov 10 10:33:45 2024 +0100
 Evaluating the following revision of UD_Gothic-PROIEL:
-commit 95fa5900f833596243f83b989780c757488df369
+commit cee73d23091e2d46eb810144b1e15f8d1cd8bc89
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Mon Nov 6 12:03:46 2023 +0100
+Date:   Sun May 5 12:27:58 2024 +0200
 Size: counted 55336 of 55336 words (nodes).
 Size: min(0, log((N/1000)**2)) = 8.02684738259657.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -27,14 +27,22 @@ Genres: found 1 out of 17 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang got --max-err=10 UD_Gothic-PROIEL/got_proiel-ud-dev.conllu
 *** PASSED ***
 /net/work/people/zeman/unidep/tools/validate.py --lang got --max-err=10 UD_Gothic-PROIEL/got_proiel-ud-test.conllu
+[Line 6603 Sent 45653 Node 13]: [L3 Warning leaf-det] 'det' not expected to have children (13:izos:det --> 5:inngaggaiþ:acl)
+Warnings: 1
 *** PASSED ***
 /net/work/people/zeman/unidep/tools/validate.py --lang got --max-err=10 UD_Gothic-PROIEL/got_proiel-ud-train.conllu
+[Line 3597 Sent 37390 Node 11]: [L3 Warning leaf-det] 'det' not expected to have children (11:is:det --> 13:Seimonis:appos)
+[Line 9656 Sent 38070 Node 1]: [L3 Warning leaf-det] 'det' not expected to have children (1:allata:det --> 5:sokeiþ:acl)
+[Line 20537 Sent 46106 Node 5]: [L3 Warning leaf-det] 'det' not expected to have children (5:ƕarjis:det --> 6:þize:nmod)
+[Line 25441 Sent 43565 Node 17]: [L3 Warning leaf-det] 'det' not expected to have children (17:is:det --> 19:ussaiƕandins:appos)
 [Line 29510 Sent 52283 Node 1]: [L3 Warning orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'orphan'.
 [Line 29517 Sent 52284 Node 1]: [L3 Warning orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'orphan'.
 [Line 29525 Sent 52285 Node 2]: [L3 Warning orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'orphan'.
 [Line 29531 Sent 52286 Node 1]: [L3 Warning orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'orphan'.
 [Line 31865 Sent 46609 Node 2]: [L3 Warning fixed-gap] Gaps in fixed expression [2, 5] 'þatei * * us'
-Warnings: 5
+[Line 45065 Sent 43094 Node 18]: [L3 Warning leaf-det] 'det' not expected to have children (18:ainƕarjizuh:det --> 20:izwara:nmod)
+...suppressing further errors regarding Warning
+Warnings: 11
 *** PASSED ***
 Validity: 1
 (weight=0.0769230769230769) * (score{features}=0.8) = 0.0615384615384615
