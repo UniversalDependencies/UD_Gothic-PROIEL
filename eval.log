@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit 26e6c87a2f518322d15901a351199b6be6569062
+commit b39dc4111bb13658bc0c204b48bb78b492e45d2b
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Fri Nov 7 15:39:58 2025 +0100
+Date:   Tue May 5 17:01:41 2026 +0200
 Evaluating the following revision of UD_Gothic-PROIEL:
-commit c2b587d820bfabe736021e1b11e1cda3c464d6e1
-Merge: bb0d4ec 918a666
+commit 824f612bb58c7a42c7f296e0cb2e3cb245faec46
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Tue Nov 11 19:38:11 2025 +0100
 CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
 Language-treebank code (from CoNLL-U file name) = 'got_proiel'
 Language code (from CoNLL-U file name) = 'got'
@@ -25,64 +25,82 @@ Universal relations: 28 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 0.8.
 Genres: found 1 out of 18 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang got --max-err=10 UD_Gothic-PROIEL/got_proiel-ud-dev.conllu
-[Line 9 Sent 46818]: [L3 Warning pron-det-without-prontype] The word 'allaim' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 10 Sent 46818]: [L3 Warning pron-det-without-prontype] The word 'þaim' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 12 Sent 46818]: [L3 Warning pron-det-without-prontype] The word 'þamma' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 21 Sent 46819]: [L3 Warning pron-det-without-prontype] The word 'izwar' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 27 Sent 46819]: [L3 Warning pron-det-without-prontype] The word 'izwara' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 33 Sent 46819]: [L3 Warning pron-det-without-prontype] The word 'izwarana' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 34 Sent 46819]: [L3 Warning pron-det-without-prontype] The word 'þana' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 86 Sent 46823]: [L3 Warning pron-det-without-prontype] The word 'allata' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 98 Sent 46824]: [L3 Warning pron-det-without-prontype] The word 'þizo' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 119 Sent 46825]: [L3 Warning pron-det-without-prontype] The word 'sah' is tagged 'PRON' but it lacks the 'PronType' feature
-...suppressing further errors regarding Warning
-[Line 13580 Sent 44612]: [L3 Syntax too-many-objects] Multiple direct objects [6, 7, 8, 9] ('bidos', 'aihtronins', 'liteinins', 'awiliuda') under the predicate 'taujan'.
-Syntax errors: 1
+[Line 9 Sent 46818]: [L3 WARNING pron-det-without-prontype] The word 'allaim' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 10 Sent 46818]: [L3 WARNING pron-det-without-prontype] The word 'þaim' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 12 Sent 46818]: [L3 WARNING pron-det-without-prontype] The word 'þamma' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 21 Sent 46819]: [L3 WARNING pron-det-without-prontype] The word 'izwar' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 27 Sent 46819]: [L3 WARNING pron-det-without-prontype] The word 'izwara' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 33 Sent 46819]: [L3 WARNING pron-det-without-prontype] The word 'izwarana' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 34 Sent 46819]: [L3 WARNING pron-det-without-prontype] The word 'þana' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 86 Sent 46823]: [L3 WARNING pron-det-without-prontype] The word 'allata' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 98 Sent 46824]: [L3 WARNING pron-det-without-prontype] The word 'þizo' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 119 Sent 46825]: [L3 WARNING pron-det-without-prontype] The word 'sah' is tagged 'PRON' but it lacks the 'PronType' feature
+...suppressing further messages regarding WARNING/MORPHO
+[Line 3718 Sent 52365]: [L3 WARNING fixed-without-extpos] Fixed expression 'in þizei' does not have the 'ExtPos' feature
+[Line 5778 Sent 45420]: [L3 WARNING fixed-without-extpos] Fixed expression 'in þizei' does not have the 'ExtPos' feature
+[Line 13580 Sent 44612]: [L3 SYNTAX too-many-objects] Multiple direct objects [6, 7, 8, 9] ('bidos', 'aihtronins', 'liteinins', 'awiliuda') under the predicate 'taujan'.
 Warnings: 961
+SYNTAX errors: 1
 *** FAILED *** with 1 errors
 Exit code: 1
 /net/work/people/zeman/unidep/tools/validate.py --lang got --max-err=10 UD_Gothic-PROIEL/got_proiel-ud-test.conllu
-[Line 4 Sent 46928]: [L3 Warning pron-det-without-prontype] The word 'þata' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 28 Sent 62756]: [L3 Warning pron-det-without-prontype] The word 'sa' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 35 Sent 62756]: [L3 Warning pron-det-without-prontype] The word 'þai' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 38 Sent 62756]: [L3 Warning pron-det-without-prontype] The word 'þata' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 45 Sent 46930]: [L3 Warning pron-det-without-prontype] The word 'þata' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 50 Sent 46930]: [L3 Warning pron-det-without-prontype] The word 'sa' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 57 Sent 46930]: [L3 Warning pron-det-without-prontype] The word 'þai' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 59 Sent 46930]: [L3 Warning pron-det-without-prontype] The word 'þana' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 68 Sent 46931]: [L3 Warning pron-det-without-prontype] The word 'þaim' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 108 Sent 46934]: [L3 Warning pron-det-without-prontype] The word 'all' is tagged 'PRON' but it lacks the 'PronType' feature
-...suppressing further errors regarding Warning
-[Line 6603 Sent 45653]: [L3 Syntax leaf-det] 'det' not expected to have children (13:izos:det --> 5:inngaggaiþ:acl)
-Syntax errors: 1
-Warnings: 900
-*** FAILED *** with 1 errors
+[Line 4 Sent 46928]: [L3 WARNING pron-det-without-prontype] The word 'þata' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 28 Sent 62756]: [L3 WARNING pron-det-without-prontype] The word 'sa' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 35 Sent 62756]: [L3 WARNING pron-det-without-prontype] The word 'þai' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 38 Sent 62756]: [L3 WARNING pron-det-without-prontype] The word 'þata' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 45 Sent 46930]: [L3 WARNING pron-det-without-prontype] The word 'þata' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 50 Sent 46930]: [L3 WARNING pron-det-without-prontype] The word 'sa' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 57 Sent 46930]: [L3 WARNING pron-det-without-prontype] The word 'þai' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 59 Sent 46930]: [L3 WARNING pron-det-without-prontype] The word 'þana' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 68 Sent 46931]: [L3 WARNING pron-det-without-prontype] The word 'þaim' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 108 Sent 46934]: [L3 WARNING pron-det-without-prontype] The word 'all' is tagged 'PRON' but it lacks the 'PronType' feature
+...suppressing further messages regarding WARNING/MORPHO
+[Line 5484 Sent 45567]: [L3 SYNTAX obl-should-be-nmod] The parent (node [5] 'waurda') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 6515 Sent 45646]: [L3 WARNING fixed-without-extpos] Fixed expression 'jabai ni' does not have the 'ExtPos' feature
+[Line 6603 Sent 45653]: [L3 SYNTAX leaf-det] 'det' not expected to have children (13:izos:det --> 5:inngaggaiþ:acl)
+[Line 8079 Sent 46038]: [L3 WARNING fixed-without-extpos] Fixed expression 'in þizei' does not have the 'ExtPos' feature
+[Line 13834 Sent 43038]: [L3 WARNING fixed-without-extpos] Fixed expression 'miþ ganawistrodai' does not have the 'ExtPos' feature
+Warnings: 899
+SYNTAX errors: 2
+*** FAILED *** with 2 errors
 Exit code: 1
 /net/work/people/zeman/unidep/tools/validate.py --lang got --max-err=10 UD_Gothic-PROIEL/got_proiel-ud-train.conllu
-[Line 12 Sent 47017]: [L3 Warning pron-det-without-prontype] The word 'seinai' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 37 Sent 47019]: [L3 Warning pron-det-without-prontype] The word 'þamma' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 53 Sent 47021]: [L3 Warning pron-det-without-prontype] The word 'þeinos' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 59 Sent 47022]: [L3 Warning pron-det-without-prontype] The word 'sumai' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 60 Sent 47022]: [L3 Warning pron-det-without-prontype] The word 'þize' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 70 Sent 47023]: [L3 Warning pron-det-without-prontype] The word 'sa' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 79 Sent 47024]: [L3 Warning pron-det-without-prontype] The word 'þos' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 93 Sent 47025]: [L3 Warning pron-det-without-prontype] The word 'izwaraim' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 125 Sent 47029]: [L3 Warning pron-det-without-prontype] The word 'sa' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 139 Sent 62939]: [L3 Warning pron-det-without-prontype] The word 'þamma' is tagged 'DET' but it lacks the 'PronType' feature
-...suppressing further errors regarding Warning
-[Line 3597 Sent 37390]: [L3 Syntax leaf-det] 'det' not expected to have children (11:is:det --> 13:Seimonis:appos)
-[Line 5717 Sent 37531]: [L3 Syntax too-many-objects] Multiple direct objects [3, 6] ('ins', 'manag') under the predicate 'laisida'.
-[Line 8662 Sent 37986]: [L3 Syntax too-many-objects] Multiple direct objects [4, 5] ('þatei', 'þuk') under the predicate 'bidjos'.
-[Line 9656 Sent 38070]: [L3 Syntax leaf-det] 'det' not expected to have children (1:allata:det --> 5:sokeiþ:acl)
-[Line 20537 Sent 46106]: [L3 Syntax leaf-det] 'det' not expected to have children (5:ƕarjis:det --> 6:þize:nmod)
-[Line 25441 Sent 43565]: [L3 Syntax leaf-det] 'det' not expected to have children (17:is:det --> 19:ussaiƕandins:appos)
-[Line 45065 Sent 43094]: [L3 Syntax leaf-det] 'det' not expected to have children (18:ainƕarjizuh:det --> 20:izwara:nmod)
-[Line 45968 Sent 44608]: [L3 Syntax leaf-det] 'det' not expected to have children (16:þaim:det --> 19:wesun:acl)
-[Line 46947 Sent 44691]: [L3 Syntax too-many-objects] Multiple direct objects [10, 11, 12, 13, 14, 15] ('garaihtein', 'gagudein', 'galaubein', 'frijaþwa', 'þulain', 'qairrein') under the predicate 'laistjais'.
-[Line 47629 Sent 44565]: [L3 Syntax too-many-objects] Multiple direct objects [3, 4, 5, 6] ('garaihtein', 'galaubein', 'frijaþwa', 'gawairþi') under the predicate 'laistei'.
-Syntax errors: 10
-Warnings: 3072
-*** FAILED *** with 10 errors
+[Line 12 Sent 47017]: [L3 WARNING pron-det-without-prontype] The word 'seinai' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 37 Sent 47019]: [L3 WARNING pron-det-without-prontype] The word 'þamma' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 53 Sent 47021]: [L3 WARNING pron-det-without-prontype] The word 'þeinos' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 59 Sent 47022]: [L3 WARNING pron-det-without-prontype] The word 'sumai' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 60 Sent 47022]: [L3 WARNING pron-det-without-prontype] The word 'þize' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 70 Sent 47023]: [L3 WARNING pron-det-without-prontype] The word 'sa' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 79 Sent 47024]: [L3 WARNING pron-det-without-prontype] The word 'þos' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 93 Sent 47025]: [L3 WARNING pron-det-without-prontype] The word 'izwaraim' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 125 Sent 47029]: [L3 WARNING pron-det-without-prontype] The word 'sa' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 139 Sent 62939]: [L3 WARNING pron-det-without-prontype] The word 'þamma' is tagged 'DET' but it lacks the 'PronType' feature
+...suppressing further messages regarding WARNING/MORPHO
+[Line 3531 Sent 37387]: [L3 WARNING fixed-without-extpos] Fixed expression 'fidwor tiguns' does not have the 'ExtPos' feature
+[Line 3597 Sent 37390]: [L3 SYNTAX leaf-det] 'det' not expected to have children (11:is:det --> 13:Seimonis:appos)
+[Line 5717 Sent 37531]: [L3 SYNTAX too-many-objects] Multiple direct objects [3, 6] ('ins', 'manag') under the predicate 'laisida'.
+[Line 8517 Sent 37980]: [L3 WARNING fixed-without-extpos] Fixed expression '·r· falþ' does not have the 'ExtPos' feature
+[Line 8662 Sent 37986]: [L3 SYNTAX too-many-objects] Multiple direct objects [4, 5] ('þatei', 'þuk') under the predicate 'bidjos'.
+[Line 9656 Sent 38070]: [L3 SYNTAX leaf-det] 'det' not expected to have children (1:allata:det --> 5:sokeiþ:acl)
+[Line 11307 Sent 38197]: [L3 WARNING fixed-without-extpos] Fixed expression 'þisƕaruh þei' does not have the 'ExtPos' feature
+[Line 20537 Sent 46106]: [L3 SYNTAX leaf-det] 'det' not expected to have children (5:ƕarjis:det --> 6:þize:nmod)
+[Line 25441 Sent 43565]: [L3 SYNTAX leaf-det] 'det' not expected to have children (17:is:det --> 19:ussaiƕandins:appos)
+[Line 26357 Sent 43927]: [L3 WARNING fixed-without-extpos] Fixed expression 'jabai ni' does not have the 'ExtPos' feature
+[Line 29510 Sent 52283]: [L3 WARNING orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'orphan'.
+[Line 29517 Sent 52284]: [L3 WARNING orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'orphan'.
+[Line 29525 Sent 52285]: [L3 WARNING orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'orphan'.
+[Line 29531 Sent 52286]: [L3 WARNING orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'orphan'.
+[Line 31865 Sent 46609]: [L3 WARNING fixed-without-extpos] Fixed expression 'þatei us' does not have the 'ExtPos' feature
+[Line 31865 Sent 46609]: [L3 WARNING fixed-gap] Gaps in fixed expression [2, 5] 'þatei * * us'
+[Line 34378 Sent 46216]: [L3 SYNTAX obl-should-be-nmod] The parent (node [30] 'izwis') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 34726 Sent 46231]: [L3 SYNTAX obl-should-be-nmod] The parent (node [24] 'izwis') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+...suppressing further messages regarding WARNING/SYNTAX
+[Line 45065 Sent 43094]: [L3 SYNTAX leaf-det] 'det' not expected to have children (18:ainƕarjizuh:det --> 20:izwara:nmod)
+[Line 45968 Sent 44608]: [L3 SYNTAX leaf-det] 'det' not expected to have children (16:þaim:det --> 19:wesun:acl)
+...suppressing further messages regarding ERROR/SYNTAX
+Warnings: 3070
+SYNTAX errors: 12
+*** FAILED *** with 12 errors
 Exit code: 1
 Validity: 0.01
 (weight=0.111111111111111) * (score{features}=0.8) = 0.0888888888888889
