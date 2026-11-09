@@ -14792,7 +14792,7 @@
 # source = The Gothic Bible, Philemon 1
 # text = iþ nu þus jah mis bruks þanuh insandida
 # sent_id = 43124
-# parallel_id = bible/philem-1-11
+# parallel_id = bible/phlm-1-11
 1	iþ	iþ	CCONJ	C-	_	6	cc	_	Ref=PHILEM_1.11
 2	nu	nu	ADV	Df	_	6	advmod	_	Ref=PHILEM_1.11
 3	þus	þu	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=2|PronType=Prs	6	obl	_	Ref=PHILEM_1.11
@@ -14805,7 +14805,7 @@
 # source = The Gothic Bible, Philemon 1
 # text = iþ þu ina þat ist meinos brusts andnim
 # sent_id = 43125
-# parallel_id = bible/philem-1-12
+# parallel_id = bible/phlm-1-12
 1	iþ	iþ	CCONJ	C-	_	8	cc	_	Ref=PHILEM_1.12
 2	þu	þu	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	8	nsubj	_	Ref=PHILEM_1.12
 3	ina	is	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obj	_	Ref=PHILEM_1.12
@@ -14818,7 +14818,7 @@
 # source = The Gothic Bible, Philemon 1
 # text = þanei ik wilda at mis gahaban ei faur þuk mis andbahtidedi in bandjom aiwaggeljons
 # sent_id = 43126
-# parallel_id = bible/philem-1-13
+# parallel_id = bible/phlm-1-13
 1	þanei	saei	PRON	Pr	Case=Acc|Gender=Masc|Number=Sing|PronType=Rel	6	obj	_	Ref=PHILEM_1.13
 2	ik	ik	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Ref=PHILEM_1.13
 3	wilda	wiljan	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=PHILEM_1.13
@@ -14837,7 +14837,7 @@
 # source = The Gothic Bible, Philemon 1
 # text = iþ inu þein ragin ni waiht wilda taujan ei ni swaswe bi nauþai þiuþ þein sijai ak us lustum
 # sent_id = 43127
-# parallel_id = bible/philem-1-14
+# parallel_id = bible/phlm-1-14
 1	iþ	iþ	CCONJ	C-	_	7	cc	_	Ref=PHILEM_1.14
 2	inu	inuh	ADP	R-	_	4	case	_	Ref=PHILEM_1.14
 3	þein	þeins	DET	Ps	Case=Acc|Gender=Neut|Number=Sing|Person=2|Poss=Yes	4	det	_	Ref=PHILEM_1.14
@@ -14861,7 +14861,7 @@
 # source = The Gothic Bible, Philemon 1
 # text = aufto auk duþe afgaf sik du ƕeilai ei aiweinana ina andnimais ju ni swaswe skalk ak ufar skalk broþar liubana ussindo mis iþ ƕan filu mais þus jah in leika jah in fraujin
 # sent_id = 43128
-# parallel_id = bible/philem-1-15
+# parallel_id = bible/phlm-1-15
 1	aufto	aufto	ADV	Df	_	4	advmod	_	Ref=PHILEM_1.15
 2	auk	auk	ADV	Df	_	4	discourse	_	Ref=PHILEM_1.15
 3	duþe	duþe	ADV	Df	_	4	advmod	_	Ref=PHILEM_1.15
@@ -14899,7 +14899,7 @@
 # source = The Gothic Bible, Philemon 1
 # text = jabai nu mik habais du gamana andnim þana swe mik
 # sent_id = 43129
-# parallel_id = bible/philem-1-17
+# parallel_id = bible/phlm-1-17
 1	jabai	jabai	SCONJ	G-	_	4	mark	_	Ref=PHILEM_1.17
 2	nu	nu	ADV	Df	_	7	discourse	_	Ref=PHILEM_1.17
 3	mik	ik	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=1|PronType=Prs	4	obj	_	Ref=PHILEM_1.17
@@ -14914,7 +14914,7 @@
 # source = The Gothic Bible, Philemon 1
 # text = iþ jabai ƕa gaskoþ þus aiþþau skula ist þata mis rahnei
 # sent_id = 43130
-# parallel_id = bible/philem-1-18
+# parallel_id = bible/phlm-1-18
 1	iþ	iþ	CCONJ	C-	_	11	cc	_	Ref=PHILEM_1.18
 2	jabai	jabai	SCONJ	G-	_	4	mark	_	Ref=PHILEM_1.18
 3	ƕa	ƕas	PRON	Px	Case=Acc|Gender=Neut|Number=Sing	4	obl	_	Ref=PHILEM_1.18
@@ -14930,7 +14930,7 @@
 # source = The Gothic Bible, Philemon 1
 # text = ik Pawlus gamelida meinai handau
 # sent_id = 43131
-# parallel_id = bible/philem-1-19/part1
+# parallel_id = bible/phlm-1-19/part1
 1	ik	ik	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Ref=PHILEM_1.19
 2	Pawlus	Pawlus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	Ref=PHILEM_1.19
 3	gamelida	ga-meljan	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=PHILEM_1.19
@@ -14940,14 +14940,14 @@
 # source = The Gothic Bible, Philemon 1
 # text = ik usgiba
 # sent_id = 43132
-# parallel_id = bible/philem-1-19/part2
+# parallel_id = bible/phlm-1-19/part2
 1	ik	ik	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	Ref=PHILEM_1.19
 2	usgiba	us-giban	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=PHILEM_1.19
 
 # source = The Gothic Bible, Philemon 1
 # text = ei ni qiþau þus þatei jaþ þuk silban mis skula is
 # sent_id = 43133
-# parallel_id = bible/philem-1-19/part3
+# parallel_id = bible/phlm-1-19/part3
 1	ei	ei	SCONJ	G-	_	3	mark	_	Ref=PHILEM_1.19
 2	ni	ni	ADV	Df	Polarity=Neg	3	advmod	_	Ref=PHILEM_1.19
 3	qiþau	qiþan	VERB	V-	Mood=Opt|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=PHILEM_1.19
@@ -14963,7 +14963,7 @@
 # source = The Gothic Bible, Philemon 1
 # text = jai broþar ik þeina niutau in fraujin
 # sent_id = 43134
-# parallel_id = bible/philem-1-20/part1
+# parallel_id = bible/phlm-1-20/part1
 1	jai	jai	INTJ	I-	_	5	discourse	_	Ref=PHILEM_1.20
 2	broþar	broþar	NOUN	Nb	Case=Voc|Gender=Masc|Number=Sing	5	vocative	_	Ref=PHILEM_1.20
 3	ik	ik	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	Ref=PHILEM_1.20
@@ -14975,7 +14975,7 @@
 # source = The Gothic Bible, Philemon 1
 # text = anaþrafstei meinos brusts in Xristau
 # sent_id = 43135
-# parallel_id = bible/philem-1-20/part2
+# parallel_id = bible/phlm-1-20/part2
 1	anaþrafstei	ana-þrafstjan	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=PHILEM_1.20
 2	meinos	meins	DET	Ps	Case=Acc|Gender=Fem|Number=Plur|Person=1|Poss=Yes	3	det	_	Ref=PHILEM_1.20
 3	brusts	brusts	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	1	obj	_	Ref=PHILEM_1.20
@@ -14985,7 +14985,7 @@
 # source = The Gothic Bible, Philemon 1
 # text = gatrauands ufhauseinai þeinai gamelida þus witands þatei jah ufar þatei qiþa taujis
 # sent_id = 43136
-# parallel_id = bible/philem-1-21
+# parallel_id = bible/phlm-1-21
 1	gatrauands	ga-trauan	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	4	advcl	_	Ref=PHILEM_1.21
 2	ufhauseinai	ufhauseins	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	1	obl:arg	_	Ref=PHILEM_1.21
 3	þeinai	þeins	DET	Ps	Case=Dat|Gender=Fem|Number=Sing|Person=2|Poss=Yes	2	det	_	Ref=PHILEM_1.21
@@ -15002,7 +15002,7 @@
 # source = The Gothic Bible, Philemon 1
 # text = bijandz uþ þan manwei mis saliþwos
 # sent_id = 43137
-# parallel_id = bible/philem-1-22/part1
+# parallel_id = bible/phlm-1-22/part1
 1	bijandz	bijands	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	4	advcl	_	Ref=PHILEM_1.22
 2	uþ	-uh	CCONJ	C-	_	4	cc	_	Ref=PHILEM_1.22
 3	þan	þan	ADV	Df	_	4	discourse	_	Ref=PHILEM_1.22
@@ -15013,7 +15013,7 @@
 # source = The Gothic Bible, Philemon 1
 # text = wenja auk ei þairh bidos izwaros fragibaidau izwis
 # sent_id = 43138
-# parallel_id = bible/philem-1-22/part2
+# parallel_id = bible/phlm-1-22/part2
 1	wenja	wenjan	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=PHILEM_1.22
 2	auk	auk	ADV	Df	_	1	discourse	_	Ref=PHILEM_1.22
 3	ei	ei	SCONJ	G-	_	7	mark	_	Ref=PHILEM_1.22
@@ -15026,7 +15026,7 @@
 # source = The Gothic Bible, Philemon 1
 # text = goleiþ þuk Aipafras sa miþfrahunþana mis in Xristau Iesu
 # sent_id = 43139
-# parallel_id = bible/philem-1-23
+# parallel_id = bible/phlm-1-23
 1	goleiþ	goljan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=PHILEM_1.23
 2	þuk	þu	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	obj	_	Ref=PHILEM_1.23
 3	Aipafras	Aipafras	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	Ref=PHILEM_1.23

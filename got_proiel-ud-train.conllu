@@ -51628,7 +51628,7 @@
 # source = The Gothic Bible, Titus 1
 # text = Pawlus skalks gudis iþ apaustaulus Iesuis Xristaus bi galaubeinai gawalidaize gudis jah ufkunþja sunjos sei bi gagudein ist du wenai libainais aiweinons þoei gahaihait unliugands guþ faur mela aiweina iþ ataugida mela swesamma waurd sein in mereinai sei gatrauaida ist mis bi anabusnai nasjandis unsaris gudis Teitau walisin barna bi gamainjai galaubeinai
 # sent_id = 52432
-# parallel_id = bible/tit-1-1
+# parallel_id = bible/titus-1-1
 1	Pawlus	Pawlus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	0	root	_	Ref=TIT_1.1
 2	skalks	skalks	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	Ref=TIT_1.1
 3	gudis	guþ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	Ref=TIT_1.1
@@ -51685,7 +51685,7 @@
 # source = The Gothic Bible, Titus 1
 # text = ansts jah gawairþi fram guda attin jah Xristau Iesu nasjand unsaramma
 # sent_id = 52433
-# parallel_id = bible/tit-1-4
+# parallel_id = bible/titus-1-4
 1	ansts	ansts	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	0	root	_	Ref=TIT_1.4
 2	jah	jah	CCONJ	C-	_	3	cc	_	Ref=TIT_1.4
 3	gawairþi	gawairþi	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	1	conj	_	Ref=TIT_1.4
@@ -51701,7 +51701,7 @@
 # source = The Gothic Bible, Titus 1
 # text = in þizozei waihtais bilaiþ þus in Kretai in þize ei wanata atgaraihtjais jah gasatjais and baurgs praizbwtairein swaswe ik þus garaidida jabai ƕas ist ungafairinonds ainaizos qenais aba barna habands galaubeina ni in usqissai usstiureins aiþþau ungaƕairba
 # sent_id = 46129
-# parallel_id = bible/tit-1-5
+# parallel_id = bible/titus-1-5
 1	in	in	ADP	R-	_	3	case	_	Ref=TIT_1.5
 2	þizozei	saei	PRON	Pr	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	3	acl	_	Ref=TIT_1.5
 3	waihtais	waihts	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	4	advcl	_	Ref=TIT_1.5
@@ -51743,7 +51743,7 @@
 # source = The Gothic Bible, Titus 1
 # text = skal uþ þan aipiskaupus ungafairinoþs wisan swe gudis fauragaggja ni hauhhairts ni þwairhs ni weinnas ni slahals ni aglaitgastalds ak gastigods bleiþs andaþahts garaihts weihs gaþaurbs waurdis triggws ei mahteigs sijai jah gaþlaihan in laiseinai hailai jaþ þans andstandandans gasakan
 # sent_id = 46130
-# parallel_id = bible/tit-1-7
+# parallel_id = bible/titus-1-7
 1	skal	skulan*	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=TIT_1.7
 2	uþ	-uh	CCONJ	C-	_	1	cc	_	Ref=TIT_1.7
 3	þan	þan	ADV	Df	_	1	discourse	_	Ref=TIT_1.7
@@ -51788,7 +51788,7 @@
 # source = The Gothic Bible, Titus 1
 # text = sind auk managai ungaƕairbai lausaiwaurdai lutondans þishun þai us bimaita þanzei skal gasakan þaiei gardins allans uswaltjand laisjandans þatei ni skuld ist in faihugairneins
 # sent_id = 46132
-# parallel_id = bible/tit-1-10
+# parallel_id = bible/titus-1-10
 1	sind	wisan	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LId=1|Ref=TIT_1.10
 2	auk	auk	ADV	Df	_	1	discourse	_	Ref=TIT_1.10
 3	managai	manags	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Strength=Strong	4	amod	_	Ref=TIT_1.10
@@ -51817,7 +51817,7 @@
 # source = The Gothic Bible, Titus 1
 # text = qaþ auk sums ize swes ize praufetus
 # sent_id = 46133
-# parallel_id = bible/tit-1-12/part1
+# parallel_id = bible/titus-1-12/part1
 1	qaþ	qiþan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=TIT_1.12
 2	auk	auk	ADV	Df	_	1	discourse	_	Ref=TIT_1.12
 3	sums	sums	PRON	Px	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	Ref=TIT_1.12
@@ -51829,7 +51829,7 @@
 # source = The Gothic Bible, Titus 1
 # text = Kretes sinteino liugnjans ubila unbiarja wambos latos
 # sent_id = 46134
-# parallel_id = bible/tit-1-12/part2
+# parallel_id = bible/titus-1-12/part2
 1	Kretes	Kretes	PROPN	Ne	Case=Nom|Gender=Masc|Number=Plur	3	nsubj	_	Ref=TIT_1.12
 2	sinteino	sinteino	ADV	Df	_	3	advmod	_	Ref=TIT_1.12
 3	liugnjans	liugnja	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	0	root	_	Ref=TIT_1.12
@@ -51841,7 +51841,7 @@
 # source = The Gothic Bible, Titus 1
 # text = so ist weitwodei sunjeina
 # sent_id = 46135
-# parallel_id = bible/tit-1-13/part1
+# parallel_id = bible/titus-1-13/part1
 1	so	sa	PRON	Pd	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	Ref=TIT_1.13
 2	ist	wisan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LId=1|Ref=TIT_1.13
 3	weitwodei	weitwodei	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	2	xcomp	_	Ref=TIT_1.13
@@ -51850,7 +51850,7 @@
 # source = The Gothic Bible, Titus 1
 # text = in þizozei fairinos gasak ins ƕassaba ei hailai sijaina in galaubeinai ni atsaiƕandans judaiwiskaize spilli jah anabusne manne afwandjandane sis sunja
 # sent_id = 46136
-# parallel_id = bible/tit-1-13/part2
+# parallel_id = bible/titus-1-13/part2
 1	in	in	ADP	R-	_	3	case	_	Ref=TIT_1.13
 2	þizozei	saei	PRON	Pr	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	3	acl	_	Ref=TIT_1.13
 3	fairinos	fairina	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	4	advcl	_	Ref=TIT_1.13
@@ -51876,7 +51876,7 @@
 # source = The Gothic Bible, Titus 1
 # text = aþþan all hrain hrainjaim iþ bisaulidaim jah ungalaubjandam ni waiht hrain ak bisaulida sind ize jah aha jah miþwissei
 # sent_id = 46137
-# parallel_id = bible/tit-1-15
+# parallel_id = bible/titus-1-15
 1	aþþan	aþþan	CCONJ	C-	_	3	cc	_	Ref=TIT_1.15
 2	all	alls	PRON	Px	Case=Nom|Gender=Neut|Number=Sing	3	nsubj	_	Ref=TIT_1.15
 3	hrain	hrains	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	0	root	_	Ref=TIT_1.15
@@ -51900,7 +51900,7 @@
 # source = The Gothic Bible, Titus 1
 # text = guþ andhaitand kunnan iþ waurstwam inwidand andasetjai wisandans jah ungalaubjandans jah du allamma waurstwe godaize uskusanai
 # sent_id = 46138
-# parallel_id = bible/tit-1-16
+# parallel_id = bible/titus-1-16
 1	guþ	guþ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	3	obj	_	Ref=TIT_1.16
 2	andhaitand	and-haitan	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=TIT_1.16
 3	kunnan	kunnan	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	2	xcomp	_	LId=1|Ref=TIT_1.16
@@ -51921,7 +51921,7 @@
 # source = The Gothic Bible, Titus 2
 # text = Iþ þu rodei þatei gadof ist þizai hailon laiseinai
 # sent_id = 46139
-# parallel_id = bible/tit-2-1
+# parallel_id = bible/titus-2-1
 1	Iþ	iþ	CCONJ	C-	_	3	cc	_	Ref=TIT_2.1
 2	þu	þu	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	Ref=TIT_2.1
 3	rodei	rodjan	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=TIT_2.1
